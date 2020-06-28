@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gexf>
+  <graph>
+    <nodes>
+      <node id="{支持-施政}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-29</data>
+        <data key="name">{支持-施政}</data>
+      </node>
+      <node id="{关注-议题}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-13</data>
+        <data key="name">{关注-议题}</data>
+      </node>
+      <node id="{冲击-防线}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-06-12</data>
+        <data key="name">{冲击-防线}</data>
+      </node>
+      <node id="{展开-冲击}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-03</data>
+        <data key="name">{展开-冲击}</data>
+      </node>
+      <node id="{发出-情况}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-27</data>
+        <data key="name">{发出-情况}</data>
+      </node>
+      <node id="{恢复-秩序}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-07</data>
+        <data key="name">{恢复-秩序}</data>
+      </node>
+      <node id="{霸占-集会}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-06-12</data>
+        <data key="name">{霸占-集会}</data>
+      </node>
+      <node id="{投掷-汽油弹}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-10-01</data>
+        <data key="name">{投掷-汽油弹}</data>
+      </node>
+      <node id="{稳定-局势}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-07</data>
+        <data key="name">{稳定-局势}</data>
+      </node>
+      <node id="{侮辱-国徽}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-26</data>
+        <data key="name">{侮辱-国徽}</data>
+      </node>
+      <node id="{妄图-联办}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-04</data>
+        <data key="name">{妄图-联办}</data>
+      </node>
+      <node id="{压倒}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-07</data>
+        <data key="name">{压倒}</data>
+      </node>
+      <node id="{纪念-回归}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-01</data>
+        <data key="name">{纪念-回归}</data>
+      </node>
+      <node id="{击中-昏迷}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-27</data>
+        <data key="name">{击中-昏迷}</data>
+      </node>
+      <node id="{举办-座谈会}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-07</data>
+        <data key="name">{举办-座谈会}</data>
+      </node>
+      <node id="{攻击-市民}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-10-01</data>
+        <data key="name">{攻击-市民}</data>
+      </node>
+      <node id="{纵火}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-10-01</data>
+        <data key="name">{纵火}</data>
+      </node>
+      <node id="{止暴制}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-07</data>
+        <data key="name">{止暴制}</data>
+      </node>
+      <node id="{建设}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-29</data>
+        <data key="name">{建设}</data>
+      </node>
+      <node id="{模糊}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-27</data>
+        <data key="name">{模糊}</data>
+      </node>
+      <node id="{致使-下跌}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-07</data>
+        <data key="name">{致使-下跌}</data>
+      </node>
+      <node id="{发起-游行}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-06-09</data>
+        <data key="name">{发起-游行}</data>
+      </node>
+      <node id="{冲击-法治}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-11</data>
+        <data key="name">{冲击-法治}</data>
+      </node>
+      <node id="{演变}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-03</data>
+        <data key="name">{演变}</data>
+      </node>
+      <node id="{包围-警察}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-27</data>
+        <data key="name">{包围-警察}</data>
+      </node>
+      <node id="{前往-地区}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-27</data>
+        <data key="name">{前往-地区}</data>
+      </node>
+      <node id="{反对-通知书}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-27</data>
+        <data key="name">{反对-通知书}</data>
+      </node>
+      <node id="{进出-西九龙站}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-07</data>
+        <data key="name">{进出-西九龙站}</data>
+      </node>
+      <node id="{维护-建设}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-29</data>
+        <data key="name">{维护-建设}</data>
+      </node>
+      <node id="{重振-经济}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-29</data>
+        <data key="name">{重振-经济}</data>
+      </node>
+      <node id="{参加-游行}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-21</data>
+        <data key="name">{参加-游行}</data>
+      </node>
+      <node id="{破坏-捣乱}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-04</data>
+        <data key="name">{破坏-捣乱}</data>
+      </node>
+      <node id="{涉嫌-罪行}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-06</data>
+        <data key="name">{涉嫌-罪行}</data>
+      </node>
+      <node id="{偏离-批准}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-03</data>
+        <data key="name">{偏离-批准}</data>
+      </node>
+      <node id="{搭乘-高铁}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-07</data>
+        <data key="name">{搭乘-高铁}</data>
+      </node>
+      <node id="{停止-修订}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-06-21</data>
+        <data key="name">{停止-修订}</data>
+      </node>
+      <node id="{谴责}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-31</data>
+        <data key="name">{谴责}</data>
+      </node>
+      <node id="{毁坏-商铺}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-10-01</data>
+        <data key="name">{毁坏-商铺}</data>
+      </node>
+      <node id="{扰乱-秩序}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-11</data>
+        <data key="name">{扰乱-秩序}</data>
+      </node>
+      <node id="{接受-专访}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-26</data>
+        <data key="name">{接受-专访}</data>
+      </node>
+      <node id="{做出-违法}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-05</data>
+        <data key="name">{做出-违法}</data>
+      </node>
+      <node id="{查获-武器}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-19</data>
+        <data key="name">{查获-武器}</data>
+      </node>
+      <node id="{骨裂}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-27</data>
+        <data key="name">{骨裂}</data>
+      </node>
+      <node id="{堵塞-马路}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-10-01</data>
+        <data key="name">{堵塞-马路}</data>
+      </node>
+      <node id="{协助-企业}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-13</data>
+        <data key="name">{协助-企业}</data>
+      </node>
+      <node id="{堵塞-道路}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-06-09</data>
+        <data key="name">{堵塞-道路}</data>
+      </node>
+      <node id="{遮挡-闭路电视}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-06-21</data>
+        <data key="name">{遮挡-闭路电视}</data>
+      </node>
+      <node id="{支持-措施}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-26</data>
+        <data key="name">{支持-措施}</data>
+      </node>
+      <node id="{制订-措施}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-13</data>
+        <data key="name">{制订-措施}</data>
+      </node>
+      <node id="{持续}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-11</data>
+        <data key="name">{持续}</data>
+      </node>
+      <node id="{恢复-会议}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-13</data>
+        <data key="name">{恢复-会议}</data>
+      </node>
+      <node id="{涂污-外墙}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-06-21</data>
+        <data key="name">{涂污-外墙}</data>
+      </node>
+      <node id="{声明}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-14</data>
+        <data key="name">{声明}</data>
+      </node>
+      <node id="{围攻-总部}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-10-01</data>
+        <data key="name">{围攻-总部}</data>
+      </node>
+      <node id="{谴责-违法}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-14</data>
+        <data key="name">{谴责-违法}</data>
+      </node>
+      <node id="{暴跌}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-07</data>
+        <data key="name">{暴跌}</data>
+      </node>
+      <node id="{堵塞-出入口}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-06-21</data>
+        <data key="name">{堵塞-出入口}</data>
+      </node>
+      <node id="{希望}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-26</data>
+        <data key="name">{希望}</data>
+      </node>
+      <node id="{游行}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-03</data>
+        <data key="name">{游行}</data>
+      </node>
+      <node id="{袭击-警署}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-05</data>
+        <data key="name">{袭击-警署}</data>
+      </node>
+      <node id="{维护-和平}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-26</data>
+        <data key="name">{维护-和平}</data>
+      </node>
+      <node id="{恶劣}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-14</data>
+        <data key="name">{恶劣}</data>
+      </node>
+      <node id="{升级}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-06-21</data>
+        <data key="name">{升级}</data>
+      </node>
+      <node id="{拘捕-罪名}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-26</data>
+        <data key="name">{拘捕-罪名}</data>
+      </node>
+      <node id="{批准}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-03</data>
+        <data key="name">{批准}</data>
+      </node>
+      <node id="{分成}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-05</data>
+        <data key="name">{分成}</data>
+      </node>
+      <node id="{通报-精神}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-07</data>
+        <data key="name">{通报-精神}</data>
+      </node>
+      <node id="{霸占-马路}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-21</data>
+        <data key="name">{霸占-马路}</data>
+      </node>
+      <node id="{冲击-立法会}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-06-09</data>
+        <data key="name">{冲击-立法会}</data>
+      </node>
+      <node id="{包围-总部}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-06-21</data>
+        <data key="name">{包围-总部}</data>
+      </node>
+      <node id="{集会}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-06-12</data>
+        <data key="name">{集会}</data>
+      </node>
+      <node id="{施政}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-29</data>
+        <data key="name">{施政}</data>
+      </node>
+      <node id="{支持-止暴制}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-14</data>
+        <data key="name">{支持-止暴制}</data>
+      </node>
+      <node id="{集结}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-31</data>
+        <data key="name">{集结}</data>
+      </node>
+      <node id="{袭击-警察}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-06-09</data>
+        <data key="name">{袭击-警察}</data>
+      </node>
+      <node id="{袭击-警员}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-10-01</data>
+        <data key="name">{袭击-警员}</data>
+      </node>
+      <node id="{集结-道路}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-01</data>
+        <data key="name">{集结-道路}</data>
+      </node>
+      <node id="{面对-事件}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-29</data>
+        <data key="name">{面对-事件}</data>
+      </node>
+      <node id="{妨碍-生活}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-11</data>
+        <data key="name">{妨碍-生活}</data>
+      </node>
+      <node id="{成立}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-01</data>
+        <data key="name">{成立}</data>
+      </node>
+      <node id="{发生}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-11</data>
+        <data key="name">{发生}</data>
+      </node>
+      <node id="{拘捕}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-06</data>
+        <data key="name">{拘捕}</data>
+      </node>
+      <node id="{发起-活动}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-08-05</data>
+        <data key="name">{发起-活动}</data>
+      </node>
+      <node id="{不明-液体}" labels=":ENTITY:TRIGGER">
+        <data key="time">2019-07-01</data>
+        <data key="name">{不明-液体}</data>
+      </node>
+      <node id="{恶劣}_e" labels=":EVENTNODE">
+        <data key="trigger">[{恶劣}]</data>
+        <data key="title">　　7月14日，激进分子在沙田再次使出“先游行，后占领”的伎俩，暴力袭警，行径极其恶劣</data>
+        <data key="time">2019-07-14</data>
+        <data key="person">[]</data>
+        <data key="location">[沙田]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 游行, 占领, 伎俩, 暴力, 袭警, 行径]</data>
+      </node>
+      <node id="{游行}_e" labels=":EVENTNODE">
+        <data key="trigger">[{游行}, {演变}]</data>
+        <data key="title">8月3日示威者在旺角游行，但游行再次演变为暴力冲击</data>
+        <data key="time">2019-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[旺角]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[示威者, 游行, 演变, 暴力, 冲击]</data>
+      </node>
+      <node id="{模糊}_e" labels=":EVENTNODE">
+        <data key="trigger">[{包围-警察}, {击中-昏迷}, {骨裂}, {模糊}, {发出-情况}, {反对-通知书}, {前往-地区}]</data>
+        <data key="title">还有十多名防暴警察被激进分子包围，被拳打脚踢……事件中，至少有十名警察受伤，有的被硬物击中倒地昏迷，有的面部及眼部骨裂，更有手指被咬断，血肉模糊……　　7月27日，在香港警方明确发出反对通知书的情况下，仍有部分人士前往元朗地区，举行非法游行集会并闹事</data>
+        <data key="time">2019-07-27</data>
+        <data key="person">[]</data>
+        <data key="location">[元朗地区, 香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警察, 分子, 包围, 拳打脚踢, 事件, 受伤, 硬物, 击中, 昏迷, 面部, 眼部, 骨裂, 手指, 血肉, 警方, 发出, 反对, 通知书, 情况, 人士, 前往, 元朗, 地区, 游行, 集会, 闹事]</data>
+      </node>
+      <node id="{止暴制}_e" labels=":EVENTNODE">
+        <data key="trigger">[{举办-座谈会}, {稳定-局势}, {通报-精神}, {止暴制}, {恢复-秩序}, {压倒}]</data>
+        <data key="title">　　8月7日，国务院港澳办和中央政府驻港联络办在深圳共同举办香港局势座谈会，通报了中央关于稳定香港当前局势的重要精神，止暴制乱，恢复秩序，是香港当前压倒一切的急迫任务</data>
+        <data key="time">2019-08-07</data>
+        <data key="person">[]</data>
+        <data key="location">[香港, 深圳]</data>
+        <data key="organization">[国务院港澳办]</data>
+        <data key="keywords">[国务院, 港澳办, 中央政府, 联络办, 举办, 局势, 座谈会, 通报, 中央, 稳定, 精神, 止暴制, 恢复, 秩序, 压倒]</data>
+      </node>
+      <node id="{分成}_e" labels=":EVENTNODE">
+        <data key="trigger">[{升级}, {分成}, {发起-活动}, {破坏-捣乱}, {做出-违法}]</data>
+        <data key="title">　　8月5日，激进分子将滋扰、暴力恶行大幅升级，由日到夜，分成多批，在全港多区发起滋扰活动，大肆破坏捣乱，甚至做出极端违法行为</data>
+        <data key="time">2019-08-05</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 滋扰, 暴力, 恶行, 升级, 分成, 发起, 活动, 破坏, 捣乱, 做出, 违法]</data>
+      </node>
+      <node id="{维护-和平}_e" labels=":EVENTNODE">
+        <data key="trigger">[{接受-专访}, {支持-措施}, {维护-和平}, {希望}, {恢复-秩序}]</data>
+        <data key="title">　　新华社金边8月26日电（记者毛鹏飞）柬埔寨政府发言人帕西潘近日接受新华社记者专访时表示，柬方支持中华人民共和国政府和香港特别行政区政府为维护香港和平、公共秩序和安全所采取的必要措施，希望看到香港早日恢复正常秩序</data>
+        <data key="time">2019-08-26</data>
+        <data key="person">[毛鹏飞, 帕西潘]</data>
+        <data key="location">[香港, 金边]</data>
+        <data key="organization">[中华人民共和国政府, 香港特别行政区政府, 新华社, 柬埔寨政府]</data>
+        <data key="keywords">[记者, 柬埔寨, 政府, 发言人, 接受, 专访, 柬方, 支持, 中华人民共和国, 行政区, 维护, 和平, 秩序, 措施, 希望, 恢复]</data>
+      </node>
+      <node id="{通报-精神}_e" labels=":EVENTNODE">
+        <data key="trigger">[{举办-座谈会}, {稳定-局势}, {通报-精神}, {止暴制}, {恢复-秩序}, {压倒}]</data>
+        <data key="title">　　8月7日，国务院港澳办和中央政府驻港联络办在深圳共同举办香港局势座谈会，通报了中央关于稳定香港当前局势的重要精神，止暴制乱，恢复秩序，是香港当前压倒一切的急迫任务</data>
+        <data key="time">2019-08-07</data>
+        <data key="person">[]</data>
+        <data key="location">[香港, 深圳]</data>
+        <data key="organization">[国务院港澳办]</data>
+        <data key="keywords">[国务院, 港澳办, 中央政府, 联络办, 举办, 局势, 座谈会, 通报, 中央, 稳定, 精神, 止暴制, 恢复, 秩序, 压倒]</data>
+      </node>
+      <node id="{批准}_e" labels=":EVENTNODE">
+        <data key="trigger">[{批准}, {偏离-批准}, {展开-冲击}]</data>
+        <data key="title">　　8月3日，部分激进分子借在旺角游行之名，偏离警方批准游行路线，分散多路在油尖旺地区展开流动式冲击破坏</data>
+        <data key="time">2019-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 旺角, 游行, 偏离, 警方, 批准, 路线, 分散, 地区, 展开, 冲击, 破坏]</data>
+      </node>
+      <node id="{集会}_e" labels=":EVENTNODE">
+        <data key="trigger">[{霸占-集会}, {集会}, {冲击-防线}]</data>
+        <data key="title">　　6月12日，激进分子先是霸占金钟一带街道非法集会，其后有组织地冲击警方防线，更以砖头、自制铁矛等武器袭警，造成22名警员受伤</data>
+        <data key="time">2019-06-12</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 霸占, 金钟, 一带, 街道, 集会, 组织, 冲击, 警方, 防线, 砖头, 自制, 铁矛, 武器, 袭警, 警员, 受伤]</data>
+      </node>
+      <node id="{前往-地区}_e" labels=":EVENTNODE">
+        <data key="trigger">[{包围-警察}, {击中-昏迷}, {骨裂}, {模糊}, {发出-情况}, {反对-通知书}, {前往-地区}]</data>
+        <data key="title">还有十多名防暴警察被激进分子包围，被拳打脚踢……事件中，至少有十名警察受伤，有的被硬物击中倒地昏迷，有的面部及眼部骨裂，更有手指被咬断，血肉模糊……　　7月27日，在香港警方明确发出反对通知书的情况下，仍有部分人士前往元朗地区，举行非法游行集会并闹事</data>
+        <data key="time">2019-07-27</data>
+        <data key="person">[]</data>
+        <data key="location">[元朗地区, 香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警察, 分子, 包围, 拳打脚踢, 事件, 受伤, 硬物, 击中, 昏迷, 面部, 眼部, 骨裂, 手指, 血肉, 警方, 发出, 反对, 通知书, 情况, 人士, 前往, 元朗, 地区, 游行, 集会, 闹事]</data>
+      </node>
+      <node id="{冲击-法治}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发生}, {冲击-法治}, {扰乱-秩序}, {妨碍-生活}, {持续}]</data>
+        <data key="title">　　新华社香港8月11日电（记者方栋）香港近期发生的连串暴力行为严重冲击社会法治、扰乱公共秩序、妨碍居民生活，对商业活动造成负面影响，甚至给金融市场稳定、经济持续发展也蒙上阴影</data>
+        <data key="time">2019-08-11</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 发生, 连串, 暴力, 冲击, 社会, 法治, 扰乱, 秩序, 妨碍, 居民, 生活, 商业, 活动, 影响, 金融, 市场, 经济, 持续, 发展, 阴影]</data>
+      </node>
+      <node id="{支持-止暴制}_e" labels=":EVENTNODE">
+        <data key="trigger">[{声明}, {谴责-违法}, {止暴制}, {支持-止暴制}, {恢复-秩序}]</data>
+        <data key="title">　　新华社香港8月14日电（记者方栋）多位在香港的中国科学院院士和中国工程院院士14日郑重声明，严厉谴责近期在香港发生的违法暴力行为，支持香港特区政府和香港警队止暴制乱，恢复社会正常秩序</data>
+        <data key="time">2019-08-14</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[中国工程院, 新华社, 中国科学院, 香港特区政府]</data>
+        <data key="keywords">[记者, 中国, 科学院, 院士, 工程院, 声明, 谴责, 发生, 违法, 暴力, 支持, 特区, 政府, 警队, 止暴制, 恢复, 社会, 秩序]</data>
+      </node>
+      <node id="{妨碍-生活}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发生}, {冲击-法治}, {扰乱-秩序}, {妨碍-生活}, {持续}]</data>
+        <data key="title">　　新华社香港8月11日电（记者方栋）香港近期发生的连串暴力行为严重冲击社会法治、扰乱公共秩序、妨碍居民生活，对商业活动造成负面影响，甚至给金融市场稳定、经济持续发展也蒙上阴影</data>
+        <data key="time">2019-08-11</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 发生, 连串, 暴力, 冲击, 社会, 法治, 扰乱, 秩序, 妨碍, 居民, 生活, 商业, 活动, 影响, 金融, 市场, 经济, 持续, 发展, 阴影]</data>
+      </node>
+      <node id="{发起-游行}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发起-游行}, {冲击-立法会}, {堵塞-道路}, {袭击-警察}]</data>
+        <data key="title">　　6月9日，有示威者发起“反修例”游行，10日凌晨激进分子意图冲击特区立法会，并堵塞周边道路，袭击警察</data>
+        <data key="time">2019-06-09</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[示威者, 发起, 修例, 游行, 分子, 意图, 冲击, 特区, 立法会, 堵塞, 周边, 道路, 袭击, 警察]</data>
+      </node>
+      <node id="{包围-警察}_e" labels=":EVENTNODE">
+        <data key="trigger">[{包围-警察}, {击中-昏迷}, {骨裂}, {模糊}, {发出-情况}, {反对-通知书}, {前往-地区}]</data>
+        <data key="title">还有十多名防暴警察被激进分子包围，被拳打脚踢……事件中，至少有十名警察受伤，有的被硬物击中倒地昏迷，有的面部及眼部骨裂，更有手指被咬断，血肉模糊……　　7月27日，在香港警方明确发出反对通知书的情况下，仍有部分人士前往元朗地区，举行非法游行集会并闹事</data>
+        <data key="time">2019-07-27</data>
+        <data key="person">[]</data>
+        <data key="location">[元朗地区, 香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警察, 分子, 包围, 拳打脚踢, 事件, 受伤, 硬物, 击中, 昏迷, 面部, 眼部, 骨裂, 手指, 血肉, 警方, 发出, 反对, 通知书, 情况, 人士, 前往, 元朗, 地区, 游行, 集会, 闹事]</data>
+      </node>
+      <node id="{成立}_e" labels=":EVENTNODE">
+        <data key="trigger">[{纪念-回归}, {成立}, {集结-道路}, {冲击-防线}, {不明-液体}]</data>
+        <data key="title">　　7月1日，本该是香港各界人士纪念回归祖国和香港特别行政区成立的喜庆日子，暴徒们先是集结堵塞道路，冲击警方防线，向警员投掷不明腐蚀性液体</data>
+        <data key="time">2019-07-01</data>
+        <data key="person">[]</data>
+        <data key="location">[香港, 香港特别行政区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[人士, 纪念, 回归, 祖国, 行政区, 成立, 喜庆, 日子, 暴徒, 集结, 堵塞, 道路, 冲击, 警方, 防线, 警员, 投掷, 不明, 腐蚀性, 液体]</data>
+      </node>
+      <node id="{拘捕}_e" labels=":EVENTNODE">
+        <data key="trigger">[{拘捕}, {涉嫌-罪行}]</data>
+        <data key="title">据了解，从6月9日至8月6日，在香港发生的一系列示威冲突中，香港警方已拘捕589人，被捕者涉嫌非法集结、暴动、袭警等罪行</data>
+        <data key="time">2019-08-06</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[发生, 示威, 冲突, 警方, 拘捕, 被捕者, 涉嫌, 集结, 暴动, 袭警, 罪行]</data>
+      </node>
+      <node id="{不明-液体}_e" labels=":EVENTNODE">
+        <data key="trigger">[{纪念-回归}, {成立}, {集结-道路}, {冲击-防线}, {不明-液体}]</data>
+        <data key="title">　　7月1日，本该是香港各界人士纪念回归祖国和香港特别行政区成立的喜庆日子，暴徒们先是集结堵塞道路，冲击警方防线，向警员投掷不明腐蚀性液体</data>
+        <data key="time">2019-07-01</data>
+        <data key="person">[]</data>
+        <data key="location">[香港, 香港特别行政区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[人士, 纪念, 回归, 祖国, 行政区, 成立, 喜庆, 日子, 暴徒, 集结, 堵塞, 道路, 冲击, 警方, 防线, 警员, 投掷, 不明, 腐蚀性, 液体]</data>
+      </node>
+      <node id="{进出-西九龙站}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发起-游行}, {致使-下跌}, {搭乘-高铁}, {进出-西九龙站}, {暴跌}]</data>
+        <data key="title">　　7月7日，示威者发起九龙区游行，致使高铁西九龙站全日客流量大幅下跌，港铁称，当日约3.1万人次搭乘高铁进出西九龙站，较平日周末平均客量暴跌50%</data>
+        <data key="time">2019-07-07</data>
+        <data key="person">[]</data>
+        <data key="location">[九龙站, 西九龙站, 九龙区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[示威者, 发起, 游行, 致使, 高铁, 全日, 客流量, 下跌, 港铁, 搭乘, 进出, 客量, 暴跌]</data>
+      </node>
+      <node id="{堵塞-出入口}_e" labels=":EVENTNODE">
+        <data key="trigger">[{停止-修订}, {升级}, {包围-总部}, {涂污-外墙}, {堵塞-出入口}, {遮挡-闭路电视}]</data>
+        <data key="title">　　6月21日，在特区政府已宣布停止修订《逃犯条例》的情况下，激进势力仍升级行动，包围警察总部，有人向警总外墙投掷鸡蛋，有人涂污外墙，有人用“水马”、铁栅栏堵塞各出入口，大闸被铁链锁上，闭路电视被胶带、雨伞等遮挡</data>
+        <data key="time">2019-06-21</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[特区, 政府, 停止, 修订, 逃犯, 条例, 情况, 势力, 升级, 包围, 警察, 总部, 警总, 鸡蛋, 涂污, 外墙, 水马, 铁栅栏, 堵塞, 出入口, 铁链, 闭路电视, 胶带, 雨伞, 遮挡]</data>
+      </node>
+      <node id="{参加-游行}_e" labels=":EVENTNODE">
+        <data key="trigger">[{参加-游行}, {霸占-马路}]</data>
+        <data key="title">　　7月21日，部分激进分子参加当日下午游行后，在港岛金钟、中环一带霸占马路</data>
+        <data key="time">2019-07-21</data>
+        <data key="person">[]</data>
+        <data key="location">[港岛]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 参加, 游行, 金钟, 中环, 一带, 霸占, 马路]</data>
+      </node>
+      <node id="{偏离-批准}_e" labels=":EVENTNODE">
+        <data key="trigger">[{批准}, {偏离-批准}, {展开-冲击}]</data>
+        <data key="title">　　8月3日，部分激进分子借在旺角游行之名，偏离警方批准游行路线，分散多路在油尖旺地区展开流动式冲击破坏</data>
+        <data key="time">2019-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 旺角, 游行, 偏离, 警方, 批准, 路线, 分散, 地区, 展开, 冲击, 破坏]</data>
+      </node>
+      <node id="{停止-修订}_e" labels=":EVENTNODE">
+        <data key="trigger">[{停止-修订}, {升级}, {包围-总部}, {涂污-外墙}, {堵塞-出入口}, {遮挡-闭路电视}]</data>
+        <data key="title">　　6月21日，在特区政府已宣布停止修订《逃犯条例》的情况下，激进势力仍升级行动，包围警察总部，有人向警总外墙投掷鸡蛋，有人涂污外墙，有人用“水马”、铁栅栏堵塞各出入口，大闸被铁链锁上，闭路电视被胶带、雨伞等遮挡</data>
+        <data key="time">2019-06-21</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[特区, 政府, 停止, 修订, 逃犯, 条例, 情况, 势力, 升级, 包围, 警察, 总部, 警总, 鸡蛋, 涂污, 外墙, 水马, 铁栅栏, 堵塞, 出入口, 铁链, 闭路电视, 胶带, 雨伞, 遮挡]</data>
+      </node>
+      <node id="{搭乘-高铁}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发起-游行}, {致使-下跌}, {搭乘-高铁}, {进出-西九龙站}, {暴跌}]</data>
+        <data key="title">　　7月7日，示威者发起九龙区游行，致使高铁西九龙站全日客流量大幅下跌，港铁称，当日约3.1万人次搭乘高铁进出西九龙站，较平日周末平均客量暴跌50%</data>
+        <data key="time">2019-07-07</data>
+        <data key="person">[]</data>
+        <data key="location">[九龙站, 西九龙站, 九龙区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[示威者, 发起, 游行, 致使, 高铁, 全日, 客流量, 下跌, 港铁, 搭乘, 进出, 客量, 暴跌]</data>
+      </node>
+      <node id="{扰乱-秩序}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发生}, {冲击-法治}, {扰乱-秩序}, {妨碍-生活}, {持续}]</data>
+        <data key="title">　　新华社香港8月11日电（记者方栋）香港近期发生的连串暴力行为严重冲击社会法治、扰乱公共秩序、妨碍居民生活，对商业活动造成负面影响，甚至给金融市场稳定、经济持续发展也蒙上阴影</data>
+        <data key="time">2019-08-11</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 发生, 连串, 暴力, 冲击, 社会, 法治, 扰乱, 秩序, 妨碍, 居民, 生活, 商业, 活动, 影响, 金融, 市场, 经济, 持续, 发展, 阴影]</data>
+      </node>
+      <node id="{谴责}_e" labels=":EVENTNODE">
+        <data key="trigger">[{集结}, {谴责}]</data>
+        <data key="title">大批激进暴力分子8月31日在香港多地非法集结、暴力破坏、肆意袭警，受到香港舆论和社会各界严厉谴责</data>
+        <data key="time">2019-08-31</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[暴力, 分子, 集结, 破坏, 舆论, 社会, 谴责]</data>
+      </node>
+      <node id="{破坏-捣乱}_e" labels=":EVENTNODE">
+        <data key="trigger">[{破坏-捣乱}]</data>
+        <data key="title">　　8月4日，激进分子在港岛西、铜锣湾、将军澳等地进行大肆破坏捣乱</data>
+        <data key="time">2019-08-04</data>
+        <data key="person">[]</data>
+        <data key="location">[港岛, 铜锣湾, 将军]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 破坏, 捣乱]</data>
+      </node>
+      <node id="{展开-冲击}_e" labels=":EVENTNODE">
+        <data key="trigger">[{批准}, {偏离-批准}, {展开-冲击}]</data>
+        <data key="title">　　8月3日，部分激进分子借在旺角游行之名，偏离警方批准游行路线，分散多路在油尖旺地区展开流动式冲击破坏</data>
+        <data key="time">2019-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 旺角, 游行, 偏离, 警方, 批准, 路线, 分散, 地区, 展开, 冲击, 破坏]</data>
+      </node>
+      <node id="{做出-违法}_e" labels=":EVENTNODE">
+        <data key="trigger">[{升级}, {分成}, {发起-活动}, {破坏-捣乱}, {做出-违法}]</data>
+        <data key="title">　　8月5日，激进分子将滋扰、暴力恶行大幅升级，由日到夜，分成多批，在全港多区发起滋扰活动，大肆破坏捣乱，甚至做出极端违法行为</data>
+        <data key="time">2019-08-05</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 滋扰, 暴力, 恶行, 升级, 分成, 发起, 活动, 破坏, 捣乱, 做出, 违法]</data>
+      </node>
+      <node id="{接受-专访}_e" labels=":EVENTNODE">
+        <data key="trigger">[{接受-专访}, {支持-措施}, {维护-和平}, {希望}, {恢复-秩序}]</data>
+        <data key="title">　　新华社金边8月26日电（记者毛鹏飞）柬埔寨政府发言人帕西潘近日接受新华社记者专访时表示，柬方支持中华人民共和国政府和香港特别行政区政府为维护香港和平、公共秩序和安全所采取的必要措施，希望看到香港早日恢复正常秩序</data>
+        <data key="time">2019-08-26</data>
+        <data key="person">[毛鹏飞, 帕西潘]</data>
+        <data key="location">[香港, 金边]</data>
+        <data key="organization">[中华人民共和国政府, 香港特别行政区政府, 新华社, 柬埔寨政府]</data>
+        <data key="keywords">[记者, 柬埔寨, 政府, 发言人, 接受, 专访, 柬方, 支持, 中华人民共和国, 行政区, 维护, 和平, 秩序, 措施, 希望, 恢复]</data>
+      </node>
+      <node id="{骨裂}_e" labels=":EVENTNODE">
+        <data key="trigger">[{包围-警察}, {击中-昏迷}, {骨裂}, {模糊}, {发出-情况}, {反对-通知书}, {前往-地区}]</data>
+        <data key="title">还有十多名防暴警察被激进分子包围，被拳打脚踢……事件中，至少有十名警察受伤，有的被硬物击中倒地昏迷，有的面部及眼部骨裂，更有手指被咬断，血肉模糊……　　7月27日，在香港警方明确发出反对通知书的情况下，仍有部分人士前往元朗地区，举行非法游行集会并闹事</data>
+        <data key="time">2019-07-27</data>
+        <data key="person">[]</data>
+        <data key="location">[元朗地区, 香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警察, 分子, 包围, 拳打脚踢, 事件, 受伤, 硬物, 击中, 昏迷, 面部, 眼部, 骨裂, 手指, 血肉, 警方, 发出, 反对, 通知书, 情况, 人士, 前往, 元朗, 地区, 游行, 集会, 闹事]</data>
+      </node>
+      <node id="{持续}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发生}, {冲击-法治}, {扰乱-秩序}, {妨碍-生活}, {持续}]</data>
+        <data key="title">　　新华社香港8月11日电（记者方栋）香港近期发生的连串暴力行为严重冲击社会法治、扰乱公共秩序、妨碍居民生活，对商业活动造成负面影响，甚至给金融市场稳定、经济持续发展也蒙上阴影</data>
+        <data key="time">2019-08-11</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 发生, 连串, 暴力, 冲击, 社会, 法治, 扰乱, 秩序, 妨碍, 居民, 生活, 商业, 活动, 影响, 金融, 市场, 经济, 持续, 发展, 阴影]</data>
+      </node>
+      <node id="{支持-措施}_e" labels=":EVENTNODE">
+        <data key="trigger">[{接受-专访}, {支持-措施}, {维护-和平}, {希望}, {恢复-秩序}]</data>
+        <data key="title">　　新华社金边8月26日电（记者毛鹏飞）柬埔寨政府发言人帕西潘近日接受新华社记者专访时表示，柬方支持中华人民共和国政府和香港特别行政区政府为维护香港和平、公共秩序和安全所采取的必要措施，希望看到香港早日恢复正常秩序</data>
+        <data key="time">2019-08-26</data>
+        <data key="person">[毛鹏飞, 帕西潘]</data>
+        <data key="location">[香港, 金边]</data>
+        <data key="organization">[中华人民共和国政府, 香港特别行政区政府, 新华社, 柬埔寨政府]</data>
+        <data key="keywords">[记者, 柬埔寨, 政府, 发言人, 接受, 专访, 柬方, 支持, 中华人民共和国, 行政区, 维护, 和平, 秩序, 措施, 希望, 恢复]</data>
+      </node>
+      <node id="{纪念-回归}_e" labels=":EVENTNODE">
+        <data key="trigger">[{纪念-回归}, {成立}, {集结-道路}, {冲击-防线}, {不明-液体}]</data>
+        <data key="title">　　7月1日，本该是香港各界人士纪念回归祖国和香港特别行政区成立的喜庆日子，暴徒们先是集结堵塞道路，冲击警方防线，向警员投掷不明腐蚀性液体</data>
+        <data key="time">2019-07-01</data>
+        <data key="person">[]</data>
+        <data key="location">[香港, 香港特别行政区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[人士, 纪念, 回归, 祖国, 行政区, 成立, 喜庆, 日子, 暴徒, 集结, 堵塞, 道路, 冲击, 警方, 防线, 警员, 投掷, 不明, 腐蚀性, 液体]</data>
+      </node>
+      <node id="{稳定-局势}_e" labels=":EVENTNODE">
+        <data key="trigger">[{举办-座谈会}, {稳定-局势}, {通报-精神}, {止暴制}, {恢复-秩序}, {压倒}]</data>
+        <data key="title">　　8月7日，国务院港澳办和中央政府驻港联络办在深圳共同举办香港局势座谈会，通报了中央关于稳定香港当前局势的重要精神，止暴制乱，恢复秩序，是香港当前压倒一切的急迫任务</data>
+        <data key="time">2019-08-07</data>
+        <data key="person">[]</data>
+        <data key="location">[香港, 深圳]</data>
+        <data key="organization">[国务院港澳办]</data>
+        <data key="keywords">[国务院, 港澳办, 中央政府, 联络办, 举办, 局势, 座谈会, 通报, 中央, 稳定, 精神, 止暴制, 恢复, 秩序, 压倒]</data>
+      </node>
+      <node id="{声明}_e" labels=":EVENTNODE">
+        <data key="trigger">[{声明}, {谴责-违法}, {止暴制}, {支持-止暴制}, {恢复-秩序}]</data>
+        <data key="title">　　新华社香港8月14日电（记者方栋）多位在香港的中国科学院院士和中国工程院院士14日郑重声明，严厉谴责近期在香港发生的违法暴力行为，支持香港特区政府和香港警队止暴制乱，恢复社会正常秩序</data>
+        <data key="time">2019-08-14</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[中国工程院, 新华社, 中国科学院, 香港特区政府]</data>
+        <data key="keywords">[记者, 中国, 科学院, 院士, 工程院, 声明, 谴责, 发生, 违法, 暴力, 支持, 特区, 政府, 警队, 止暴制, 恢复, 社会, 秩序]</data>
+      </node>
+      <node id="{围攻-总部}_e" labels=":EVENTNODE">
+        <data key="trigger">[{集结}, {堵塞-马路}, {毁坏-商铺}, {纵火}, {投掷-汽油弹}, {围攻-总部}, {袭击-警员}, {攻击-市民}]</data>
+        <data key="title">　　该负责人表示，10月1日，一些蒙面暴徒在香港多区非法集结，大规模堵塞马路、毁坏商铺和港铁等公用设施，肆意纵火及投掷大量汽油弹，围攻政府总部和警署，疯狂袭击执勤警员，无差别攻击普通市民</data>
+        <data key="time">2019-10-01</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[负责人, 蒙面, 暴徒, 多区, 集结, 堵塞, 马路, 毁坏, 商铺, 港铁, 公用, 设施, 纵火, 投掷, 汽油弹, 围攻, 政府, 总部, 警署, 袭击, 执勤, 警员, 差别, 攻击, 市民]</data>
+      </node>
+      <node id="{制订-措施}_e" labels=":EVENTNODE">
+        <data key="trigger">[{恢复-会议}, {协助-企业}, {制订-措施}, {关注-议题}]</data>
+        <data key="title">　　鉴于目前的严峻情况，香港将于8月13日恢复行政会议，并按照“撑企业，保就业”的方针制订一系列纾解民困和协助企业的措施，即将公布的施政报告将会关注经济民生议题的有关内容</data>
+        <data key="time">2019-08-13</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[情况, 恢复, 行政, 会议, 企业, 就业, 方针, 制订, 纾解民困, 协助, 措施, 公布, 报告, 关注, 经济, 民生, 议题, 内容]</data>
+      </node>
+      <node id="{暴跌}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发起-游行}, {致使-下跌}, {搭乘-高铁}, {进出-西九龙站}, {暴跌}]</data>
+        <data key="title">　　7月7日，示威者发起九龙区游行，致使高铁西九龙站全日客流量大幅下跌，港铁称，当日约3.1万人次搭乘高铁进出西九龙站，较平日周末平均客量暴跌50%</data>
+        <data key="time">2019-07-07</data>
+        <data key="person">[]</data>
+        <data key="location">[九龙站, 西九龙站, 九龙区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[示威者, 发起, 游行, 致使, 高铁, 全日, 客流量, 下跌, 港铁, 搭乘, 进出, 客量, 暴跌]</data>
+      </node>
+      <node id="{妄图-联办}_e" labels=":EVENTNODE">
+        <data key="trigger">[{妄图-联办}]</data>
+        <data key="title">　　7月28日和8月4日，部分激进分子妄图再次冲击中联办</data>
+        <data key="time">2019-08-04</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 妄图, 冲击, 联办]</data>
+      </node>
+      <node id="{举办-座谈会}_e" labels=":EVENTNODE">
+        <data key="trigger">[{举办-座谈会}, {稳定-局势}, {通报-精神}, {止暴制}, {恢复-秩序}, {压倒}]</data>
+        <data key="title">　　8月7日，国务院港澳办和中央政府驻港联络办在深圳共同举办香港局势座谈会，通报了中央关于稳定香港当前局势的重要精神，止暴制乱，恢复秩序，是香港当前压倒一切的急迫任务</data>
+        <data key="time">2019-08-07</data>
+        <data key="person">[]</data>
+        <data key="location">[香港, 深圳]</data>
+        <data key="organization">[国务院港澳办]</data>
+        <data key="keywords">[国务院, 港澳办, 中央政府, 联络办, 举办, 局势, 座谈会, 通报, 中央, 稳定, 精神, 止暴制, 恢复, 秩序, 压倒]</data>
+      </node>
+      <node id="{投掷-汽油弹}_e" labels=":EVENTNODE">
+        <data key="trigger">[{集结}, {堵塞-马路}, {毁坏-商铺}, {纵火}, {投掷-汽油弹}, {围攻-总部}, {袭击-警员}, {攻击-市民}]</data>
+        <data key="title">　　该负责人表示，10月1日，一些蒙面暴徒在香港多区非法集结，大规模堵塞马路、毁坏商铺和港铁等公用设施，肆意纵火及投掷大量汽油弹，围攻政府总部和警署，疯狂袭击执勤警员，无差别攻击普通市民</data>
+        <data key="time">2019-10-01</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[负责人, 蒙面, 暴徒, 多区, 集结, 堵塞, 马路, 毁坏, 商铺, 港铁, 公用, 设施, 纵火, 投掷, 汽油弹, 围攻, 政府, 总部, 警署, 袭击, 执勤, 警员, 差别, 攻击, 市民]</data>
+      </node>
+      <node id="{反对-通知书}_e" labels=":EVENTNODE">
+        <data key="trigger">[{包围-警察}, {击中-昏迷}, {骨裂}, {模糊}, {发出-情况}, {反对-通知书}, {前往-地区}]</data>
+        <data key="title">还有十多名防暴警察被激进分子包围，被拳打脚踢……事件中，至少有十名警察受伤，有的被硬物击中倒地昏迷，有的面部及眼部骨裂，更有手指被咬断，血肉模糊……　　7月27日，在香港警方明确发出反对通知书的情况下，仍有部分人士前往元朗地区，举行非法游行集会并闹事</data>
+        <data key="time">2019-07-27</data>
+        <data key="person">[]</data>
+        <data key="location">[元朗地区, 香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警察, 分子, 包围, 拳打脚踢, 事件, 受伤, 硬物, 击中, 昏迷, 面部, 眼部, 骨裂, 手指, 血肉, 警方, 发出, 反对, 通知书, 情况, 人士, 前往, 元朗, 地区, 游行, 集会, 闹事]</data>
+      </node>
+      <node id="{纵火}_e" labels=":EVENTNODE">
+        <data key="trigger">[{集结}, {堵塞-马路}, {毁坏-商铺}, {纵火}, {投掷-汽油弹}, {围攻-总部}, {袭击-警员}, {攻击-市民}]</data>
+        <data key="title">　　该负责人表示，10月1日，一些蒙面暴徒在香港多区非法集结，大规模堵塞马路、毁坏商铺和港铁等公用设施，肆意纵火及投掷大量汽油弹，围攻政府总部和警署，疯狂袭击执勤警员，无差别攻击普通市民</data>
+        <data key="time">2019-10-01</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[负责人, 蒙面, 暴徒, 多区, 集结, 堵塞, 马路, 毁坏, 商铺, 港铁, 公用, 设施, 纵火, 投掷, 汽油弹, 围攻, 政府, 总部, 警署, 袭击, 执勤, 警员, 差别, 攻击, 市民]</data>
+      </node>
+      <node id="{袭击-警署}_e" labels=":EVENTNODE">
+        <data key="trigger">[{袭击-警署}]</data>
+        <data key="title">　　8月5日及次日凌晨，激进分子“兵分多路”，袭击全港多区至少十间警署</data>
+        <data key="time">2019-08-05</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 袭击, 警署]</data>
+      </node>
+      <node id="{升级}_e" labels=":EVENTNODE">
+        <data key="trigger">[{停止-修订}, {升级}, {包围-总部}, {涂污-外墙}, {堵塞-出入口}, {遮挡-闭路电视}]</data>
+        <data key="title">　　6月21日，在特区政府已宣布停止修订《逃犯条例》的情况下，激进势力仍升级行动，包围警察总部，有人向警总外墙投掷鸡蛋，有人涂污外墙，有人用“水马”、铁栅栏堵塞各出入口，大闸被铁链锁上，闭路电视被胶带、雨伞等遮挡</data>
+        <data key="time">2019-06-21</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[特区, 政府, 停止, 修订, 逃犯, 条例, 情况, 势力, 升级, 包围, 警察, 总部, 警总, 鸡蛋, 涂污, 外墙, 水马, 铁栅栏, 堵塞, 出入口, 铁链, 闭路电视, 胶带, 雨伞, 遮挡]</data>
+      </node>
+      <node id="{集结-道路}_e" labels=":EVENTNODE">
+        <data key="trigger">[{纪念-回归}, {成立}, {集结-道路}, {冲击-防线}, {不明-液体}]</data>
+        <data key="title">　　7月1日，本该是香港各界人士纪念回归祖国和香港特别行政区成立的喜庆日子，暴徒们先是集结堵塞道路，冲击警方防线，向警员投掷不明腐蚀性液体</data>
+        <data key="time">2019-07-01</data>
+        <data key="person">[]</data>
+        <data key="location">[香港, 香港特别行政区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[人士, 纪念, 回归, 祖国, 行政区, 成立, 喜庆, 日子, 暴徒, 集结, 堵塞, 道路, 冲击, 警方, 防线, 警员, 投掷, 不明, 腐蚀性, 液体]</data>
+      </node>
+      <node id="{建设}_e" labels=":EVENTNODE">
+        <data key="trigger">[{面对-事件}, {持续}, {施政}, {支持-施政}, {恢复-秩序}, {重振-经济}, {建设}, {维护-建设}]</data>
+        <data key="title">　　新华社香港8月29日电（记者方栋）面对不断升级的暴力事件，香港舆论和各界人士持续发声支持香港特区政府依法施政，采取更有力措施止暴制乱，尽快恢复社会秩序，重振经济，维护香港国际形象和几代人辛苦建设得来的繁荣局面</data>
+        <data key="time">2019-08-29</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[新华社, 香港特区政府]</data>
+        <data key="keywords">[记者, 面对, 升级, 暴力, 事件, 舆论, 人士, 持续, 发声, 支持, 特区, 政府, 施政, 措施, 止暴, 制乱, 恢复, 社会, 秩序, 重振, 经济, 维护, 国际, 形象, 建设, 局面]</data>
+      </node>
+      <node id="{霸占-马路}_e" labels=":EVENTNODE">
+        <data key="trigger">[{参加-游行}, {霸占-马路}]</data>
+        <data key="title">　　7月21日，部分激进分子参加当日下午游行后，在港岛金钟、中环一带霸占马路</data>
+        <data key="time">2019-07-21</data>
+        <data key="person">[]</data>
+        <data key="location">[港岛]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 参加, 游行, 金钟, 中环, 一带, 霸占, 马路]</data>
+      </node>
+      <node id="{拘捕-罪名}_e" labels=":EVENTNODE">
+        <data key="trigger">[{拘捕-罪名}, {侮辱-国徽}]</data>
+        <data key="title">香港警方已于7月26日拘捕一名涉案男子，其涉嫌刑事毁坏、非法集会及侮辱国徽三项罪名</data>
+        <data key="time">2019-07-26</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警方, 拘捕, 涉案, 男子, 涉嫌, 毁坏, 集会, 侮辱, 国徽, 罪名]</data>
+      </node>
+      <node id="{致使-下跌}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发起-游行}, {致使-下跌}, {搭乘-高铁}, {进出-西九龙站}, {暴跌}]</data>
+        <data key="title">　　7月7日，示威者发起九龙区游行，致使高铁西九龙站全日客流量大幅下跌，港铁称，当日约3.1万人次搭乘高铁进出西九龙站，较平日周末平均客量暴跌50%</data>
+        <data key="time">2019-07-07</data>
+        <data key="person">[]</data>
+        <data key="location">[九龙站, 西九龙站, 九龙区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[示威者, 发起, 游行, 致使, 高铁, 全日, 客流量, 下跌, 港铁, 搭乘, 进出, 客量, 暴跌]</data>
+      </node>
+      <node id="{协助-企业}_e" labels=":EVENTNODE">
+        <data key="trigger">[{恢复-会议}, {协助-企业}, {制订-措施}, {关注-议题}]</data>
+        <data key="title">　　鉴于目前的严峻情况，香港将于8月13日恢复行政会议，并按照“撑企业，保就业”的方针制订一系列纾解民困和协助企业的措施，即将公布的施政报告将会关注经济民生议题的有关内容</data>
+        <data key="time">2019-08-13</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[情况, 恢复, 行政, 会议, 企业, 就业, 方针, 制订, 纾解民困, 协助, 措施, 公布, 报告, 关注, 经济, 民生, 议题, 内容]</data>
+      </node>
+      <node id="{袭击-警察}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发起-游行}, {冲击-立法会}, {堵塞-道路}, {袭击-警察}]</data>
+        <data key="title">　　6月9日，有示威者发起“反修例”游行，10日凌晨激进分子意图冲击特区立法会，并堵塞周边道路，袭击警察</data>
+        <data key="time">2019-06-09</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[示威者, 发起, 修例, 游行, 分子, 意图, 冲击, 特区, 立法会, 堵塞, 周边, 道路, 袭击, 警察]</data>
+      </node>
+      <node id="{包围-总部}_e" labels=":EVENTNODE">
+        <data key="trigger">[{停止-修订}, {升级}, {包围-总部}, {涂污-外墙}, {堵塞-出入口}, {遮挡-闭路电视}]</data>
+        <data key="title">　　6月21日，在特区政府已宣布停止修订《逃犯条例》的情况下，激进势力仍升级行动，包围警察总部，有人向警总外墙投掷鸡蛋，有人涂污外墙，有人用“水马”、铁栅栏堵塞各出入口，大闸被铁链锁上，闭路电视被胶带、雨伞等遮挡</data>
+        <data key="time">2019-06-21</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[特区, 政府, 停止, 修订, 逃犯, 条例, 情况, 势力, 升级, 包围, 警察, 总部, 警总, 鸡蛋, 涂污, 外墙, 水马, 铁栅栏, 堵塞, 出入口, 铁链, 闭路电视, 胶带, 雨伞, 遮挡]</data>
+      </node>
+      <node id="{发起-活动}_e" labels=":EVENTNODE">
+        <data key="trigger">[{升级}, {分成}, {发起-活动}, {破坏-捣乱}, {做出-违法}]</data>
+        <data key="title">　　8月5日，激进分子将滋扰、暴力恶行大幅升级，由日到夜，分成多批，在全港多区发起滋扰活动，大肆破坏捣乱，甚至做出极端违法行为</data>
+        <data key="time">2019-08-05</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 滋扰, 暴力, 恶行, 升级, 分成, 发起, 活动, 破坏, 捣乱, 做出, 违法]</data>
+      </node>
+      <node id="{集结}_e" labels=":EVENTNODE">
+        <data key="trigger">[{集结}, {谴责}]</data>
+        <data key="title">大批激进暴力分子8月31日在香港多地非法集结、暴力破坏、肆意袭警，受到香港舆论和社会各界严厉谴责</data>
+        <data key="time">2019-08-31</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[暴力, 分子, 集结, 破坏, 舆论, 社会, 谴责]</data>
+      </node>
+      <node id="{施政}_e" labels=":EVENTNODE">
+        <data key="trigger">[{面对-事件}, {持续}, {施政}, {支持-施政}, {恢复-秩序}, {重振-经济}, {建设}, {维护-建设}]</data>
+        <data key="title">　　新华社香港8月29日电（记者方栋）面对不断升级的暴力事件，香港舆论和各界人士持续发声支持香港特区政府依法施政，采取更有力措施止暴制乱，尽快恢复社会秩序，重振经济，维护香港国际形象和几代人辛苦建设得来的繁荣局面</data>
+        <data key="time">2019-08-29</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[新华社, 香港特区政府]</data>
+        <data key="keywords">[记者, 面对, 升级, 暴力, 事件, 舆论, 人士, 持续, 发声, 支持, 特区, 政府, 施政, 措施, 止暴, 制乱, 恢复, 社会, 秩序, 重振, 经济, 维护, 国际, 形象, 建设, 局面]</data>
+      </node>
+      <node id="{演变}_e" labels=":EVENTNODE">
+        <data key="trigger">[{游行}, {演变}]</data>
+        <data key="title">8月3日示威者在旺角游行，但游行再次演变为暴力冲击</data>
+        <data key="time">2019-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[旺角]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[示威者, 游行, 演变, 暴力, 冲击]</data>
+      </node>
+      <node id="{涉嫌-罪行}_e" labels=":EVENTNODE">
+        <data key="trigger">[{拘捕}, {涉嫌-罪行}]</data>
+        <data key="title">据了解，从6月9日至8月6日，在香港发生的一系列示威冲突中，香港警方已拘捕589人，被捕者涉嫌非法集结、暴动、袭警等罪行</data>
+        <data key="time">2019-08-06</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[发生, 示威, 冲突, 警方, 拘捕, 被捕者, 涉嫌, 集结, 暴动, 袭警, 罪行]</data>
+      </node>
+      <node id="{面对-事件}_e" labels=":EVENTNODE">
+        <data key="trigger">[{面对-事件}, {持续}, {施政}, {支持-施政}, {恢复-秩序}, {重振-经济}, {建设}, {维护-建设}]</data>
+        <data key="title">　　新华社香港8月29日电（记者方栋）面对不断升级的暴力事件，香港舆论和各界人士持续发声支持香港特区政府依法施政，采取更有力措施止暴制乱，尽快恢复社会秩序，重振经济，维护香港国际形象和几代人辛苦建设得来的繁荣局面</data>
+        <data key="time">2019-08-29</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[新华社, 香港特区政府]</data>
+        <data key="keywords">[记者, 面对, 升级, 暴力, 事件, 舆论, 人士, 持续, 发声, 支持, 特区, 政府, 施政, 措施, 止暴, 制乱, 恢复, 社会, 秩序, 重振, 经济, 维护, 国际, 形象, 建设, 局面]</data>
+      </node>
+      <node id="{袭击-警员}_e" labels=":EVENTNODE">
+        <data key="trigger">[{集结}, {堵塞-马路}, {毁坏-商铺}, {纵火}, {投掷-汽油弹}, {围攻-总部}, {袭击-警员}, {攻击-市民}]</data>
+        <data key="title">　　该负责人表示，10月1日，一些蒙面暴徒在香港多区非法集结，大规模堵塞马路、毁坏商铺和港铁等公用设施，肆意纵火及投掷大量汽油弹，围攻政府总部和警署，疯狂袭击执勤警员，无差别攻击普通市民</data>
+        <data key="time">2019-10-01</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[负责人, 蒙面, 暴徒, 多区, 集结, 堵塞, 马路, 毁坏, 商铺, 港铁, 公用, 设施, 纵火, 投掷, 汽油弹, 围攻, 政府, 总部, 警署, 袭击, 执勤, 警员, 差别, 攻击, 市民]</data>
+      </node>
+      <node id="{发生}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发生}, {冲击-法治}, {扰乱-秩序}, {妨碍-生活}, {持续}]</data>
+        <data key="title">　　新华社香港8月11日电（记者方栋）香港近期发生的连串暴力行为严重冲击社会法治、扰乱公共秩序、妨碍居民生活，对商业活动造成负面影响，甚至给金融市场稳定、经济持续发展也蒙上阴影</data>
+        <data key="time">2019-08-11</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 发生, 连串, 暴力, 冲击, 社会, 法治, 扰乱, 秩序, 妨碍, 居民, 生活, 商业, 活动, 影响, 金融, 市场, 经济, 持续, 发展, 阴影]</data>
+      </node>
+      <node id="{冲击-立法会}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发起-游行}, {冲击-立法会}, {堵塞-道路}, {袭击-警察}]</data>
+        <data key="title">　　6月9日，有示威者发起“反修例”游行，10日凌晨激进分子意图冲击特区立法会，并堵塞周边道路，袭击警察</data>
+        <data key="time">2019-06-09</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[示威者, 发起, 修例, 游行, 分子, 意图, 冲击, 特区, 立法会, 堵塞, 周边, 道路, 袭击, 警察]</data>
+      </node>
+      <node id="{重振-经济}_e" labels=":EVENTNODE">
+        <data key="trigger">[{面对-事件}, {持续}, {施政}, {支持-施政}, {恢复-秩序}, {重振-经济}, {建设}, {维护-建设}]</data>
+        <data key="title">　　新华社香港8月29日电（记者方栋）面对不断升级的暴力事件，香港舆论和各界人士持续发声支持香港特区政府依法施政，采取更有力措施止暴制乱，尽快恢复社会秩序，重振经济，维护香港国际形象和几代人辛苦建设得来的繁荣局面</data>
+        <data key="time">2019-08-29</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[新华社, 香港特区政府]</data>
+        <data key="keywords">[记者, 面对, 升级, 暴力, 事件, 舆论, 人士, 持续, 发声, 支持, 特区, 政府, 施政, 措施, 止暴, 制乱, 恢复, 社会, 秩序, 重振, 经济, 维护, 国际, 形象, 建设, 局面]</data>
+      </node>
+      <node id="{维护-建设}_e" labels=":EVENTNODE">
+        <data key="trigger">[{面对-事件}, {持续}, {施政}, {支持-施政}, {恢复-秩序}, {重振-经济}, {建设}, {维护-建设}]</data>
+        <data key="title">　　新华社香港8月29日电（记者方栋）面对不断升级的暴力事件，香港舆论和各界人士持续发声支持香港特区政府依法施政，采取更有力措施止暴制乱，尽快恢复社会秩序，重振经济，维护香港国际形象和几代人辛苦建设得来的繁荣局面</data>
+        <data key="time">2019-08-29</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[新华社, 香港特区政府]</data>
+        <data key="keywords">[记者, 面对, 升级, 暴力, 事件, 舆论, 人士, 持续, 发声, 支持, 特区, 政府, 施政, 措施, 止暴, 制乱, 恢复, 社会, 秩序, 重振, 经济, 维护, 国际, 形象, 建设, 局面]</data>
+      </node>
+      <node id="{攻击-市民}_e" labels=":EVENTNODE">
+        <data key="trigger">[{集结}, {堵塞-马路}, {毁坏-商铺}, {纵火}, {投掷-汽油弹}, {围攻-总部}, {袭击-警员}, {攻击-市民}]</data>
+        <data key="title">　　该负责人表示，10月1日，一些蒙面暴徒在香港多区非法集结，大规模堵塞马路、毁坏商铺和港铁等公用设施，肆意纵火及投掷大量汽油弹，围攻政府总部和警署，疯狂袭击执勤警员，无差别攻击普通市民</data>
+        <data key="time">2019-10-01</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[负责人, 蒙面, 暴徒, 多区, 集结, 堵塞, 马路, 毁坏, 商铺, 港铁, 公用, 设施, 纵火, 投掷, 汽油弹, 围攻, 政府, 总部, 警署, 袭击, 执勤, 警员, 差别, 攻击, 市民]</data>
+      </node>
+      <node id="{支持-施政}_e" labels=":EVENTNODE">
+        <data key="trigger">[{面对-事件}, {持续}, {施政}, {支持-施政}, {恢复-秩序}, {重振-经济}, {建设}, {维护-建设}]</data>
+        <data key="title">　　新华社香港8月29日电（记者方栋）面对不断升级的暴力事件，香港舆论和各界人士持续发声支持香港特区政府依法施政，采取更有力措施止暴制乱，尽快恢复社会秩序，重振经济，维护香港国际形象和几代人辛苦建设得来的繁荣局面</data>
+        <data key="time">2019-08-29</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[新华社, 香港特区政府]</data>
+        <data key="keywords">[记者, 面对, 升级, 暴力, 事件, 舆论, 人士, 持续, 发声, 支持, 特区, 政府, 施政, 措施, 止暴, 制乱, 恢复, 社会, 秩序, 重振, 经济, 维护, 国际, 形象, 建设, 局面]</data>
+      </node>
+      <node id="{关注-议题}_e" labels=":EVENTNODE">
+        <data key="trigger">[{恢复-会议}, {协助-企业}, {制订-措施}, {关注-议题}]</data>
+        <data key="title">　　鉴于目前的严峻情况，香港将于8月13日恢复行政会议，并按照“撑企业，保就业”的方针制订一系列纾解民困和协助企业的措施，即将公布的施政报告将会关注经济民生议题的有关内容</data>
+        <data key="time">2019-08-13</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[情况, 恢复, 行政, 会议, 企业, 就业, 方针, 制订, 纾解民困, 协助, 措施, 公布, 报告, 关注, 经济, 民生, 议题, 内容]</data>
+      </node>
+      <node id="{冲击-防线}_e" labels=":EVENTNODE">
+        <data key="trigger">[{霸占-集会}, {集会}, {冲击-防线}]</data>
+        <data key="title">　　6月12日，激进分子先是霸占金钟一带街道非法集会，其后有组织地冲击警方防线，更以砖头、自制铁矛等武器袭警，造成22名警员受伤</data>
+        <data key="time">2019-06-12</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 霸占, 金钟, 一带, 街道, 集会, 组织, 冲击, 警方, 防线, 砖头, 自制, 铁矛, 武器, 袭警, 警员, 受伤]</data>
+      </node>
+      <node id="{毁坏-商铺}_e" labels=":EVENTNODE">
+        <data key="trigger">[{集结}, {堵塞-马路}, {毁坏-商铺}, {纵火}, {投掷-汽油弹}, {围攻-总部}, {袭击-警员}, {攻击-市民}]</data>
+        <data key="title">　　该负责人表示，10月1日，一些蒙面暴徒在香港多区非法集结，大规模堵塞马路、毁坏商铺和港铁等公用设施，肆意纵火及投掷大量汽油弹，围攻政府总部和警署，疯狂袭击执勤警员，无差别攻击普通市民</data>
+        <data key="time">2019-10-01</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[负责人, 蒙面, 暴徒, 多区, 集结, 堵塞, 马路, 毁坏, 商铺, 港铁, 公用, 设施, 纵火, 投掷, 汽油弹, 围攻, 政府, 总部, 警署, 袭击, 执勤, 警员, 差别, 攻击, 市民]</data>
+      </node>
+      <node id="{查获-武器}_e" labels=":EVENTNODE">
+        <data key="trigger">[{查获-武器}]</data>
+        <data key="title">7月19日，警方在荃湾区一座工业大厦内查获烈性炸药TATP（三过氧化三丙酮）、燃烧弹、汽油、利刀、铁通等武器，拘捕的多名嫌犯中有“港独”分子</data>
+        <data key="time">2019-07-19</data>
+        <data key="person">[]</data>
+        <data key="location">[荃湾区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警方, 工业, 大厦, 查获, 炸药, 氧化三丙酮, 燃烧, 汽油, 利刀, 铁通, 武器, 拘捕, 嫌犯, 港独, 分子]</data>
+      </node>
+      <node id="{堵塞-马路}_e" labels=":EVENTNODE">
+        <data key="trigger">[{集结}, {堵塞-马路}, {毁坏-商铺}, {纵火}, {投掷-汽油弹}, {围攻-总部}, {袭击-警员}, {攻击-市民}]</data>
+        <data key="title">　　该负责人表示，10月1日，一些蒙面暴徒在香港多区非法集结，大规模堵塞马路、毁坏商铺和港铁等公用设施，肆意纵火及投掷大量汽油弹，围攻政府总部和警署，疯狂袭击执勤警员，无差别攻击普通市民</data>
+        <data key="time">2019-10-01</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[负责人, 蒙面, 暴徒, 多区, 集结, 堵塞, 马路, 毁坏, 商铺, 港铁, 公用, 设施, 纵火, 投掷, 汽油弹, 围攻, 政府, 总部, 警署, 袭击, 执勤, 警员, 差别, 攻击, 市民]</data>
+      </node>
+      <node id="{堵塞-道路}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发起-游行}, {冲击-立法会}, {堵塞-道路}, {袭击-警察}]</data>
+        <data key="title">　　6月9日，有示威者发起“反修例”游行，10日凌晨激进分子意图冲击特区立法会，并堵塞周边道路，袭击警察</data>
+        <data key="time">2019-06-09</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[示威者, 发起, 修例, 游行, 分子, 意图, 冲击, 特区, 立法会, 堵塞, 周边, 道路, 袭击, 警察]</data>
+      </node>
+      <node id="{恢复-会议}_e" labels=":EVENTNODE">
+        <data key="trigger">[{恢复-会议}, {协助-企业}, {制订-措施}, {关注-议题}]</data>
+        <data key="title">　　鉴于目前的严峻情况，香港将于8月13日恢复行政会议，并按照“撑企业，保就业”的方针制订一系列纾解民困和协助企业的措施，即将公布的施政报告将会关注经济民生议题的有关内容</data>
+        <data key="time">2019-08-13</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[情况, 恢复, 行政, 会议, 企业, 就业, 方针, 制订, 纾解民困, 协助, 措施, 公布, 报告, 关注, 经济, 民生, 议题, 内容]</data>
+      </node>
+      <node id="{遮挡-闭路电视}_e" labels=":EVENTNODE">
+        <data key="trigger">[{停止-修订}, {升级}, {包围-总部}, {涂污-外墙}, {堵塞-出入口}, {遮挡-闭路电视}]</data>
+        <data key="title">　　6月21日，在特区政府已宣布停止修订《逃犯条例》的情况下，激进势力仍升级行动，包围警察总部，有人向警总外墙投掷鸡蛋，有人涂污外墙，有人用“水马”、铁栅栏堵塞各出入口，大闸被铁链锁上，闭路电视被胶带、雨伞等遮挡</data>
+        <data key="time">2019-06-21</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[特区, 政府, 停止, 修订, 逃犯, 条例, 情况, 势力, 升级, 包围, 警察, 总部, 警总, 鸡蛋, 涂污, 外墙, 水马, 铁栅栏, 堵塞, 出入口, 铁链, 闭路电视, 胶带, 雨伞, 遮挡]</data>
+      </node>
+      <node id="{涂污-外墙}_e" labels=":EVENTNODE">
+        <data key="trigger">[{停止-修订}, {升级}, {包围-总部}, {涂污-外墙}, {堵塞-出入口}, {遮挡-闭路电视}]</data>
+        <data key="title">　　6月21日，在特区政府已宣布停止修订《逃犯条例》的情况下，激进势力仍升级行动，包围警察总部，有人向警总外墙投掷鸡蛋，有人涂污外墙，有人用“水马”、铁栅栏堵塞各出入口，大闸被铁链锁上，闭路电视被胶带、雨伞等遮挡</data>
+        <data key="time">2019-06-21</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[特区, 政府, 停止, 修订, 逃犯, 条例, 情况, 势力, 升级, 包围, 警察, 总部, 警总, 鸡蛋, 涂污, 外墙, 水马, 铁栅栏, 堵塞, 出入口, 铁链, 闭路电视, 胶带, 雨伞, 遮挡]</data>
+      </node>
+      <node id="{发出-情况}_e" labels=":EVENTNODE">
+        <data key="trigger">[{包围-警察}, {击中-昏迷}, {骨裂}, {模糊}, {发出-情况}, {反对-通知书}, {前往-地区}]</data>
+        <data key="title">还有十多名防暴警察被激进分子包围，被拳打脚踢……事件中，至少有十名警察受伤，有的被硬物击中倒地昏迷，有的面部及眼部骨裂，更有手指被咬断，血肉模糊……　　7月27日，在香港警方明确发出反对通知书的情况下，仍有部分人士前往元朗地区，举行非法游行集会并闹事</data>
+        <data key="time">2019-07-27</data>
+        <data key="person">[]</data>
+        <data key="location">[元朗地区, 香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警察, 分子, 包围, 拳打脚踢, 事件, 受伤, 硬物, 击中, 昏迷, 面部, 眼部, 骨裂, 手指, 血肉, 警方, 发出, 反对, 通知书, 情况, 人士, 前往, 元朗, 地区, 游行, 集会, 闹事]</data>
+      </node>
+      <node id="{霸占-集会}_e" labels=":EVENTNODE">
+        <data key="trigger">[{霸占-集会}, {集会}, {冲击-防线}]</data>
+        <data key="title">　　6月12日，激进分子先是霸占金钟一带街道非法集会，其后有组织地冲击警方防线，更以砖头、自制铁矛等武器袭警，造成22名警员受伤</data>
+        <data key="time">2019-06-12</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[分子, 霸占, 金钟, 一带, 街道, 集会, 组织, 冲击, 警方, 防线, 砖头, 自制, 铁矛, 武器, 袭警, 警员, 受伤]</data>
+      </node>
+      <node id="{侮辱-国徽}_e" labels=":EVENTNODE">
+        <data key="trigger">[{拘捕-罪名}, {侮辱-国徽}]</data>
+        <data key="title">香港警方已于7月26日拘捕一名涉案男子，其涉嫌刑事毁坏、非法集会及侮辱国徽三项罪名</data>
+        <data key="time">2019-07-26</data>
+        <data key="person">[]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警方, 拘捕, 涉案, 男子, 涉嫌, 毁坏, 集会, 侮辱, 国徽, 罪名]</data>
+      </node>
+      <node id="{压倒}_e" labels=":EVENTNODE">
+        <data key="trigger">[{举办-座谈会}, {稳定-局势}, {通报-精神}, {止暴制}, {恢复-秩序}, {压倒}]</data>
+        <data key="title">　　8月7日，国务院港澳办和中央政府驻港联络办在深圳共同举办香港局势座谈会，通报了中央关于稳定香港当前局势的重要精神，止暴制乱，恢复秩序，是香港当前压倒一切的急迫任务</data>
+        <data key="time">2019-08-07</data>
+        <data key="person">[]</data>
+        <data key="location">[香港, 深圳]</data>
+        <data key="organization">[国务院港澳办]</data>
+        <data key="keywords">[国务院, 港澳办, 中央政府, 联络办, 举办, 局势, 座谈会, 通报, 中央, 稳定, 精神, 止暴制, 恢复, 秩序, 压倒]</data>
+      </node>
+      <node id="{谴责-违法}_e" labels=":EVENTNODE">
+        <data key="trigger">[{声明}, {谴责-违法}, {止暴制}, {支持-止暴制}, {恢复-秩序}]</data>
+        <data key="title">　　新华社香港8月14日电（记者方栋）多位在香港的中国科学院院士和中国工程院院士14日郑重声明，严厉谴责近期在香港发生的违法暴力行为，支持香港特区政府和香港警队止暴制乱，恢复社会正常秩序</data>
+        <data key="time">2019-08-14</data>
+        <data key="person">[方栋]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[中国工程院, 新华社, 中国科学院, 香港特区政府]</data>
+        <data key="keywords">[记者, 中国, 科学院, 院士, 工程院, 声明, 谴责, 发生, 违法, 暴力, 支持, 特区, 政府, 警队, 止暴制, 恢复, 社会, 秩序]</data>
+      </node>
+      <node id="{击中-昏迷}_e" labels=":EVENTNODE">
+        <data key="trigger">[{包围-警察}, {击中-昏迷}, {骨裂}, {模糊}, {发出-情况}, {反对-通知书}, {前往-地区}]</data>
+        <data key="title">还有十多名防暴警察被激进分子包围，被拳打脚踢……事件中，至少有十名警察受伤，有的被硬物击中倒地昏迷，有的面部及眼部骨裂，更有手指被咬断，血肉模糊……　　7月27日，在香港警方明确发出反对通知书的情况下，仍有部分人士前往元朗地区，举行非法游行集会并闹事</data>
+        <data key="time">2019-07-27</data>
+        <data key="person">[]</data>
+        <data key="location">[元朗地区, 香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警察, 分子, 包围, 拳打脚踢, 事件, 受伤, 硬物, 击中, 昏迷, 面部, 眼部, 骨裂, 手指, 血肉, 警方, 发出, 反对, 通知书, 情况, 人士, 前往, 元朗, 地区, 游行, 集会, 闹事]</data>
+      </node>
+      <node id="{恢复-秩序}_e" labels=":EVENTNODE">
+        <data key="trigger">[{举办-座谈会}, {稳定-局势}, {通报-精神}, {止暴制}, {恢复-秩序}, {压倒}]</data>
+        <data key="title">　　8月7日，国务院港澳办和中央政府驻港联络办在深圳共同举办香港局势座谈会，通报了中央关于稳定香港当前局势的重要精神，止暴制乱，恢复秩序，是香港当前压倒一切的急迫任务</data>
+        <data key="time">2019-08-07</data>
+        <data key="person">[]</data>
+        <data key="location">[香港, 深圳]</data>
+        <data key="organization">[国务院港澳办]</data>
+        <data key="keywords">[国务院, 港澳办, 中央政府, 联络办, 举办, 局势, 座谈会, 通报, 中央, 稳定, 精神, 止暴制, 恢复, 秩序, 压倒]</data>
+      </node>
+      <node id="{希望}_e" labels=":EVENTNODE">
+        <data key="trigger">[{接受-专访}, {支持-措施}, {维护-和平}, {希望}, {恢复-秩序}]</data>
+        <data key="title">　　新华社金边8月26日电（记者毛鹏飞）柬埔寨政府发言人帕西潘近日接受新华社记者专访时表示，柬方支持中华人民共和国政府和香港特别行政区政府为维护香港和平、公共秩序和安全所采取的必要措施，希望看到香港早日恢复正常秩序</data>
+        <data key="time">2019-08-26</data>
+        <data key="person">[毛鹏飞, 帕西潘]</data>
+        <data key="location">[香港, 金边]</data>
+        <data key="organization">[中华人民共和国政府, 香港特别行政区政府, 新华社, 柬埔寨政府]</data>
+        <data key="keywords">[记者, 柬埔寨, 政府, 发言人, 接受, 专访, 柬方, 支持, 中华人民共和国, 行政区, 维护, 和平, 秩序, 措施, 希望, 恢复]</data>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e0" source="{包围-总部}" target="{涂污-外墙}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e1" source="{止暴制}" target="{恢复-秩序}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e2" source="{袭击-警员}" target="{攻击-市民}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e3" source="{做出-违法}" target="{袭击-警署}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e4" source="{恢复-秩序}" target="{接受-专访}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e5" source="{发起-游行}" target="{冲击-立法会}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e6" source="{恶劣}" target="{查获-武器}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e7" source="{袭击-警察}" target="{霸占-集会}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e8" source="{建设}" target="{维护-建设}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e9" source="{恢复-会议}" target="{协助-企业}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e10" source="{升级}" target="{包围-总部}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e11" source="{围攻-总部}" target="{袭击-警员}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e12" source="{停止-修订}" target="{升级}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e13" source="{接受-专访}" target="{支持-措施}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e14" source="{成立}" target="{集结-道路}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e15" source="{袭击-警署}" target="{拘捕}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e16" source="{集结-道路}" target="{不明-液体}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e17" source="{破坏-捣乱}" target="{分成}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e18" source="{维护-和平}" target="{希望}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e19" source="{涂污-外墙}" target="{堵塞-出入口}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e20" source="{游行}" target="{演变}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e21" source="{演变}" target="{批准}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e22" source="{举办-座谈会}" target="{稳定-局势}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e23" source="{模糊}" target="{发出-情况}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e24" source="{声明}" target="{谴责-违法}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e25" source="{支持-措施}" target="{维护-和平}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e26" source="{毁坏-商铺}" target="{纵火}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e27" source="{不明-液体}" target="{致使-下跌}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e28" source="{拘捕-罪名}" target="{侮辱-国徽}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e29" source="{批准}" target="{偏离-批准}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e30" source="{恢复-秩序}" target="{声明}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e31" source="{妨碍-生活}" target="{持续}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e32" source="{恢复-秩序}" target="{持续}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e33" source="{冲击-立法会}" target="{堵塞-道路}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e34" source="{发起-活动}" target="{做出-违法}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e35" source="{侮辱-国徽}" target="{包围-警察}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e36" source="{涉嫌-罪行}" target="{举办-座谈会}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e37" source="{暴跌}" target="{恶劣}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e38" source="{妄图-联办}" target="{破坏-捣乱}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e39" source="{重振-经济}" target="{建设}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e40" source="{谴责-违法}" target="{支持-止暴制}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e41" source="{遮挡-闭路电视}" target="{纪念-回归}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e42" source="{包围-警察}" target="{击中-昏迷}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e43" source="{冲击-法治}" target="{扰乱-秩序}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e44" source="{反对-通知书}" target="{前往-地区}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e45" source="{制订-措施}" target="{关注-议题}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e46" source="{投掷-汽油弹}" target="{围攻-总部}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e47" source="{霸占-马路}" target="{拘捕-罪名}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e48" source="{前往-地区}" target="{游行}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e49" source="{发生}" target="{冲击-法治}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e50" source="{致使-下跌}" target="{搭乘-高铁}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e51" source="{集会}" target="{冲击-防线}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e52" source="{分成}" target="{发起-活动}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e53" source="{通报-精神}" target="{止暴制}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e54" source="{击中-昏迷}" target="{骨裂}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e55" source="{发出-情况}" target="{反对-通知书}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e56" source="{拘捕}" target="{涉嫌-罪行}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e57" source="{集结}" target="{堵塞-马路}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e58" source="{霸占-集会}" target="{集会}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e59" source="{堵塞-马路}" target="{毁坏-商铺}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e60" source="{冲击-防线}" target="{停止-修订}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e61" source="{持续}" target="{面对-事件}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e62" source="{稳定-局势}" target="{通报-精神}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e63" source="{施政}" target="{支持-施政}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e64" source="{面对-事件}" target="{施政}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e65" source="{展开-冲击}" target="{妄图-联办}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e66" source="{查获-武器}" target="{参加-游行}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e67" source="{参加-游行}" target="{霸占-马路}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e68" source="{进出-西九龙站}" target="{暴跌}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e69" source="{纵火}" target="{投掷-汽油弹}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e70" source="{协助-企业}" target="{制订-措施}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e71" source="{堵塞-道路}" target="{袭击-警察}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e72" source="{升级}" target="{集结}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e73" source="{纪念-回归}" target="{成立}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e74" source="{支持-施政}" target="{重振-经济}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e75" source="{堵塞-出入口}" target="{遮挡-闭路电视}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e76" source="{骨裂}" target="{模糊}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e77" source="{偏离-批准}" target="{展开-冲击}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e78" source="{持续}" target="{恢复-会议}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e79" source="{搭乘-高铁}" target="{进出-西九龙站}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e80" source="{恢复-秩序}" target="{压倒}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e81" source="{集结}" target="{谴责}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e82" source="{扰乱-秩序}" target="{妨碍-生活}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,38 @@
+// 选择框组
+.dl-group
+  display: flex
+  align-items: flex-start
+  border-bottom: 1px solid #ddd
+  .list-ul
+    display: flex
+    flex-wrap: wrap
+  &.first-cat
+    .nav-pills
+      .nav-link
+        padding: .2rem .5rem
+        &.active
+          background-color: #158bdc
+      .nav-item
+        margin-right: .5rem
+        margin-bottom: .8rem
+  &:last-child
+    // border-bottom: none
+    margin-bottom: 1.5rem
+  dt
+    align-self: flex-start
+    margin-bottom: .8rem
+    margin-right: 1rem
+    white-space: nowrap
+    padding-top: .25rem
+  .list-btn
+    margin-bottom: .8rem
+    margin-right: 1rem
+    padding: .2rem .5rem
+    border: 1px solid #fff
+    background-color: #fff
+    transition: .3s
+    cursor: pointer
+    border-radius: 4px
+    &.active
+      background-color: #158bdc
+      color: #fff
