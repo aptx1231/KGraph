@@ -1,0 +1,3551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gexf>
+  <graph>
+    <nodes>
+      <node id="{增长}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-18</data>
+        <data key="name">{增长}</data>
+      </node>
+      <node id="{显示-新增}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-18</data>
+        <data key="name">{显示-新增}</data>
+      </node>
+      <node id="{提交}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-07-10</data>
+        <data key="name">{提交}</data>
+      </node>
+      <node id="{导致-转移}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-03</data>
+        <data key="name">{导致-转移}</data>
+      </node>
+      <node id="{新增-超过}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-27</data>
+        <data key="name">{新增-超过}</data>
+      </node>
+      <node id="{推迟}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-04</data>
+        <data key="name">{推迟}</data>
+      </node>
+      <node id="{通报-信息}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-01-31</data>
+        <data key="name">{通报-信息}</data>
+      </node>
+      <node id="{蔓延-全境}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-02</data>
+        <data key="name">{蔓延-全境}</data>
+      </node>
+      <node id="{降息-基点}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-03</data>
+        <data key="name">{降息-基点}</data>
+      </node>
+      <node id="{健康}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-08-17</data>
+        <data key="name">{健康}</data>
+      </node>
+      <node id="{严峻}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-20</data>
+        <data key="name">{严峻}</data>
+      </node>
+      <node id="{波及}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-07</data>
+        <data key="name">{波及}</data>
+      </node>
+      <node id="{暂停-邮轮}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-09-15</data>
+        <data key="name">{暂停-邮轮}</data>
+      </node>
+      <node id="{参加-大会}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-20</data>
+        <data key="name">{参加-大会}</data>
+      </node>
+      <node id="{削减-岗位}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-21</data>
+        <data key="name">{削减-岗位}</data>
+      </node>
+      <node id="{谴责-妨碍}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-14</data>
+        <data key="name">{谴责-妨碍}</data>
+      </node>
+      <node id="{实施-居家令}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-15</data>
+        <data key="name">{实施-居家令}</data>
+      </node>
+      <node id="{实施-停火}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-08-31</data>
+        <data key="name">{实施-停火}</data>
+      </node>
+      <node id="{博得-喝彩}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-31</data>
+        <data key="name">{博得-喝彩}</data>
+      </node>
+      <node id="{超过-接受}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-30</data>
+        <data key="name">{超过-接受}</data>
+      </node>
+      <node id="{病逝}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-17</data>
+        <data key="name">{病逝}</data>
+      </node>
+      <node id="{负责-项目}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-21</data>
+        <data key="name">{负责-项目}</data>
+      </node>
+      <node id="{显示-超过}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-30</data>
+        <data key="name">{显示-超过}</data>
+      </node>
+      <node id="{分享}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-13</data>
+        <data key="name">{分享}</data>
+      </node>
+      <node id="{豁免}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-10</data>
+        <data key="name">{豁免}</data>
+      </node>
+      <node id="{降低-成本}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-21</data>
+        <data key="name">{降低-成本}</data>
+      </node>
+      <node id="{有助于-抗击}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-13</data>
+        <data key="name">{有助于-抗击}</data>
+      </node>
+      <node id="{包括-美国}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-07</data>
+        <data key="name">{包括-美国}</data>
+      </node>
+      <node id="{呼吁}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-01-31</data>
+        <data key="name">{呼吁}</data>
+      </node>
+      <node id="{采访}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-01</data>
+        <data key="name">{采访}</data>
+      </node>
+      <node id="{打压-对等}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-20</data>
+        <data key="name">{打压-对等}</data>
+      </node>
+      <node id="{发达}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-29</data>
+        <data key="name">{发达}</data>
+      </node>
+      <node id="{聚集}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-26</data>
+        <data key="name">{聚集}</data>
+      </node>
+      <node id="{衰退}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-23</data>
+        <data key="name">{衰退}</data>
+      </node>
+      <node id="{延长-法案}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-07-10</data>
+        <data key="name">{延长-法案}</data>
+      </node>
+      <node id="{禁止-出行}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-24</data>
+        <data key="name">{禁止-出行}</data>
+      </node>
+      <node id="{包括-指挥官}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-06</data>
+        <data key="name">{包括-指挥官}</data>
+      </node>
+      <node id="{接受-检测}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-30</data>
+        <data key="name">{接受-检测}</data>
+      </node>
+      <node id="{同意-延长}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-09-15</data>
+        <data key="name">{同意-延长}</data>
+      </node>
+      <node id="{报道-停止}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-16</data>
+        <data key="name">{报道-停止}</data>
+      </node>
+      <node id="{出台}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-31</data>
+        <data key="name">{出台}</data>
+      </node>
+      <node id="{超过-企业}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-01</data>
+        <data key="name">{超过-企业}</data>
+      </node>
+      <node id="{表达}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-23</data>
+        <data key="name">{表达}</data>
+      </node>
+      <node id="{观察-引发}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-03</data>
+        <data key="name">{观察-引发}</data>
+      </node>
+      <node id="{提醒-示威者}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-30</data>
+        <data key="name">{提醒-示威者}</data>
+      </node>
+      <node id="{承诺}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-29</data>
+        <data key="name">{承诺}</data>
+      </node>
+      <node id="{止住-跌势}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-03</data>
+        <data key="name">{止住-跌势}</data>
+      </node>
+      <node id="{应对-疫情}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-13</data>
+        <data key="name">{应对-疫情}</data>
+      </node>
+      <node id="{发布-氯喹}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-29</data>
+        <data key="name">{发布-氯喹}</data>
+      </node>
+      <node id="{预期}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-01</data>
+        <data key="name">{预期}</data>
+      </node>
+      <node id="{致信-领导人}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-14</data>
+        <data key="name">{致信-领导人}</data>
+      </node>
+      <node id="{发表-声明}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-08-17</data>
+        <data key="name">{发表-声明}</data>
+      </node>
+      <node id="{如期而至}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-20</data>
+        <data key="name">{如期而至}</data>
+      </node>
+      <node id="{指令-协助}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-02</data>
+        <data key="name">{指令-协助}</data>
+      </node>
+      <node id="{引发-抗议}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-26</data>
+        <data key="name">{引发-抗议}</data>
+      </node>
+      <node id="{治疗}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-27</data>
+        <data key="name">{治疗}</data>
+      </node>
+      <node id="{提前}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-01</data>
+        <data key="name">{提前}</data>
+      </node>
+      <node id="{复会}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-04</data>
+        <data key="name">{复会}</data>
+      </node>
+      <node id="{发布}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-30</data>
+        <data key="name">{发布}</data>
+      </node>
+      <node id="{申请-救济}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-18</data>
+        <data key="name">{申请-救济}</data>
+      </node>
+      <node id="{确认-患者}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-06</data>
+        <data key="name">{确认-患者}</data>
+      </node>
+      <node id="{研发}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-16</data>
+        <data key="name">{研发}</data>
+      </node>
+      <node id="{温馨}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-29</data>
+        <data key="name">{温馨}</data>
+      </node>
+      <node id="{创立}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-21</data>
+        <data key="name">{创立}</data>
+      </node>
+      <node id="{统计}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-19</data>
+        <data key="name">{统计}</data>
+      </node>
+      <node id="{确认-提供}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-31</data>
+        <data key="name">{确认-提供}</data>
+      </node>
+      <node id="{影响}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-15</data>
+        <data key="name">{影响}</data>
+      </node>
+      <node id="{综述-困扰}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-07</data>
+        <data key="name">{综述-困扰}</data>
+      </node>
+      <node id="{下令-关闭}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-24</data>
+        <data key="name">{下令-关闭}</data>
+      </node>
+      <node id="{加速-传播}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-26</data>
+        <data key="name">{加速-传播}</data>
+      </node>
+      <node id="{监督}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-23</data>
+        <data key="name">{监督}</data>
+      </node>
+      <node id="{协助}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-02</data>
+        <data key="name">{协助}</data>
+      </node>
+      <node id="{收到-通报}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-01-03</data>
+        <data key="name">{收到-通报}</data>
+      </node>
+      <node id="{机制}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-09</data>
+        <data key="name">{机制}</data>
+      </node>
+      <node id="{提供-支持}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-07</data>
+        <data key="name">{提供-支持}</data>
+      </node>
+      <node id="{面临-危机}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-07</data>
+        <data key="name">{面临-危机}</data>
+      </node>
+      <node id="{减少}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-01</data>
+        <data key="name">{减少}</data>
+      </node>
+      <node id="{缓和}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-15</data>
+        <data key="name">{缓和}</data>
+      </node>
+      <node id="{延长}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-07-10</data>
+        <data key="name">{延长}</data>
+      </node>
+      <node id="{提名}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-20</data>
+        <data key="name">{提名}</data>
+      </node>
+      <node id="{传播}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-26</data>
+        <data key="name">{传播}</data>
+      </node>
+      <node id="{检测-病毒}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-17</data>
+        <data key="name">{检测-病毒}</data>
+      </node>
+      <node id="{提名-总统}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-07-13</data>
+        <data key="name">{提名-总统}</data>
+      </node>
+      <node id="{触发-机制}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-17</data>
+        <data key="name">{触发-机制}</data>
+      </node>
+      <node id="{停止-亚裔}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-19</data>
+        <data key="name">{停止-亚裔}</data>
+      </node>
+      <node id="{报道}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-21</data>
+        <data key="name">{报道}</data>
+      </node>
+      <node id="{解除-职务}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-21</data>
+        <data key="name">{解除-职务}</data>
+      </node>
+      <node id="{覆盖-民众}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-31</data>
+        <data key="name">{覆盖-民众}</data>
+      </node>
+      <node id="{覆盖-产品}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-10</data>
+        <data key="name">{覆盖-产品}</data>
+      </node>
+      <node id="{持续}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-30</data>
+        <data key="name">{持续}</data>
+      </node>
+      <node id="{遏制}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-23</data>
+        <data key="name">{遏制}</data>
+      </node>
+      <node id="{申请-人数}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-23</data>
+        <data key="name">{申请-人数}</data>
+      </node>
+      <node id="{收到}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-19</data>
+        <data key="name">{收到}</data>
+      </node>
+      <node id="{选出-代表}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-20</data>
+        <data key="name">{选出-代表}</data>
+      </node>
+      <node id="{取消}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-11-01</data>
+        <data key="name">{取消}</data>
+      </node>
+      <node id="{意味着-多于}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-30</data>
+        <data key="name">{意味着-多于}</data>
+      </node>
+      <node id="{离开-美国}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-09-15</data>
+        <data key="name">{离开-美国}</data>
+      </node>
+      <node id="{举办}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-25</data>
+        <data key="name">{举办}</data>
+      </node>
+      <node id="{笼罩-美国}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-27</data>
+        <data key="name">{笼罩-美国}</data>
+      </node>
+      <node id="{讨论-调整}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-08-17</data>
+        <data key="name">{讨论-调整}</data>
+      </node>
+      <node id="{谴责-加大}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-08</data>
+        <data key="name">{谴责-加大}</data>
+      </node>
+      <node id="{多于}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-30</data>
+        <data key="name">{多于}</data>
+      </node>
+      <node id="{预计-接近}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-05</data>
+        <data key="name">{预计-接近}</data>
+      </node>
+      <node id="{提供}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-05</data>
+        <data key="name">{提供}</data>
+      </node>
+      <node id="{推迟-原定}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-16</data>
+        <data key="name">{推迟-原定}</data>
+      </node>
+      <node id="{停止-调派}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-13</data>
+        <data key="name">{停止-调派}</data>
+      </node>
+      <node id="{表决}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-23</data>
+        <data key="name">{表决}</data>
+      </node>
+      <node id="{充满-挑战}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-22</data>
+        <data key="name">{充满-挑战}</data>
+      </node>
+      <node id="{暂停-港口}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-09-15</data>
+        <data key="name">{暂停-港口}</data>
+      </node>
+      <node id="{增加}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-18</data>
+        <data key="name">{增加}</data>
+      </node>
+      <node id="{解除}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-01</data>
+        <data key="name">{解除}</data>
+      </node>
+      <node id="{安检}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-22</data>
+        <data key="name">{安检}</data>
+      </node>
+      <node id="{选举}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-11-03</data>
+        <data key="name">{选举}</data>
+      </node>
+      <node id="{反弹}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-27</data>
+        <data key="name">{反弹}</data>
+      </node>
+      <node id="{接近}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-05</data>
+        <data key="name">{接近}</data>
+      </node>
+      <node id="{锁定-集会}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-20</data>
+        <data key="name">{锁定-集会}</data>
+      </node>
+      <node id="{发表-调查}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-01-03</data>
+        <data key="name">{发表-调查}</data>
+      </node>
+      <node id="{辞职}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-07</data>
+        <data key="name">{辞职}</data>
+      </node>
+      <node id="{超过}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-27</data>
+        <data key="name">{超过}</data>
+      </node>
+      <node id="{抗击-疫情}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-07</data>
+        <data key="name">{抗击-疫情}</data>
+      </node>
+      <node id="{参加-演习}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-11</data>
+        <data key="name">{参加-演习}</data>
+      </node>
+      <node id="{超过-城市}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-30</data>
+        <data key="name">{超过-城市}</data>
+      </node>
+      <node id="{刷新-记录}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-21</data>
+        <data key="name">{刷新-记录}</data>
+      </node>
+      <node id="{停止}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-16</data>
+        <data key="name">{停止}</data>
+      </node>
+      <node id="{恢复}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-18</data>
+        <data key="name">{恢复}</data>
+      </node>
+      <node id="{实施-宵禁}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-30</data>
+        <data key="name">{实施-宵禁}</data>
+      </node>
+      <node id="{筹备-会议}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-06</data>
+        <data key="name">{筹备-会议}</data>
+      </node>
+      <node id="{单膝-跪地}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-31</data>
+        <data key="name">{单膝-跪地}</data>
+      </node>
+      <node id="{提供-援助}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-28</data>
+        <data key="name">{提供-援助}</data>
+      </node>
+      <node id="{发表-讲话}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-11</data>
+        <data key="name">{发表-讲话}</data>
+      </node>
+      <node id="{显示}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-07</data>
+        <data key="name">{显示}</data>
+      </node>
+      <node id="{确保-危害}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-08-17</data>
+        <data key="name">{确保-危害}</data>
+      </node>
+      <node id="{执法}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-26</data>
+        <data key="name">{执法}</data>
+      </node>
+      <node id="{处于-中心}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-08</data>
+        <data key="name">{处于-中心}</data>
+      </node>
+      <node id="{预测}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-10-01</data>
+        <data key="name">{预测}</data>
+      </node>
+      <node id="{困扰}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-07</data>
+        <data key="name">{困扰}</data>
+      </node>
+      <node id="{确诊-感染}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-06</data>
+        <data key="name">{确诊-感染}</data>
+      </node>
+      <node id="{发现-病毒}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-01-03</data>
+        <data key="name">{发现-病毒}</data>
+      </node>
+      <node id="{新增}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-18</data>
+        <data key="name">{新增}</data>
+      </node>
+      <node id="{捐赠-药物}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-29</data>
+        <data key="name">{捐赠-药物}</data>
+      </node>
+      <node id="{体验-痛感}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-23</data>
+        <data key="name">{体验-痛感}</data>
+      </node>
+      <node id="{抗议-示威}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-02</data>
+        <data key="name">{抗议-示威}</data>
+      </node>
+      <node id="{下滑}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-01</data>
+        <data key="name">{下滑}</data>
+      </node>
+      <node id="{感谢-人士}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-25</data>
+        <data key="name">{感谢-人士}</data>
+      </node>
+      <node id="{下降}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-22</data>
+        <data key="name">{下降}</data>
+      </node>
+      <node id="{确诊-病例}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-18</data>
+        <data key="name">{确诊-病例}</data>
+      </node>
+      <node id="{延长-期限}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-20</data>
+        <data key="name">{延长-期限}</data>
+      </node>
+      <node id="{定于}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-11-01</data>
+        <data key="name">{定于}</data>
+      </node>
+      <node id="{投票}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-07-10</data>
+        <data key="name">{投票}</data>
+      </node>
+      <node id="{发出-预警}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-01-31</data>
+        <data key="name">{发出-预警}</data>
+      </node>
+      <node id="{面临}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-09-01</data>
+        <data key="name">{面临}</data>
+      </node>
+      <node id="{开放-活动}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-20</data>
+        <data key="name">{开放-活动}</data>
+      </node>
+      <node id="{处高点}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-22</data>
+        <data key="name">{处高点}</data>
+      </node>
+      <node id="{介绍-措施}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-11</data>
+        <data key="name">{介绍-措施}</data>
+      </node>
+      <node id="{通报}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-18</data>
+        <data key="name">{通报}</data>
+      </node>
+      <node id="{抗击}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-13</data>
+        <data key="name">{抗击}</data>
+      </node>
+      <node id="{显示-安检}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-22</data>
+        <data key="name">{显示-安检}</data>
+      </node>
+      <node id="{高于-预期}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-01</data>
+        <data key="name">{高于-预期}</data>
+      </node>
+      <node id="{关闭-边境}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-02</data>
+        <data key="name">{关闭-边境}</data>
+      </node>
+      <node id="{引发}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-03</data>
+        <data key="name">{引发}</data>
+      </node>
+      <node id="{激增}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-26</data>
+        <data key="name">{激增}</data>
+      </node>
+      <node id="{前往-洛杉矶}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-09-01</data>
+        <data key="name">{前往-洛杉矶}</data>
+      </node>
+      <node id="{加大}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-08</data>
+        <data key="name">{加大}</data>
+      </node>
+      <node id="{刊文}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-01-03</data>
+        <data key="name">{刊文}</data>
+      </node>
+      <node id="{死亡}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-06</data>
+        <data key="name">{死亡}</data>
+      </node>
+      <node id="{希望-战胜}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-07</data>
+        <data key="name">{希望-战胜}</data>
+      </node>
+      <node id="{努力}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-14</data>
+        <data key="name">{努力}</data>
+      </node>
+      <node id="{遏制-病毒}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-01-25</data>
+        <data key="name">{遏制-病毒}</data>
+      </node>
+      <node id="{确诊}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-04</data>
+        <data key="name">{确诊}</data>
+      </node>
+      <node id="{同情-假面}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-04</data>
+        <data key="name">{同情-假面}</data>
+      </node>
+      <node id="{公布}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-11</data>
+        <data key="name">{公布}</data>
+      </node>
+      <node id="{获悉}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-12-31</data>
+        <data key="name">{获悉}</data>
+      </node>
+      <node id="{减少-规模}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-11</data>
+        <data key="name">{减少-规模}</data>
+      </node>
+      <node id="{转移}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-03</data>
+        <data key="name">{转移}</data>
+      </node>
+      <node id="{请求-调派}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-09-01</data>
+        <data key="name">{请求-调派}</data>
+      </node>
+      <node id="{引发-激增}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-26</data>
+        <data key="name">{引发-激增}</data>
+      </node>
+      <node id="{报道-显示}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-07</data>
+        <data key="name">{报道-显示}</data>
+      </node>
+      <node id="{应对-蔓延}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-13</data>
+        <data key="name">{应对-蔓延}</data>
+      </node>
+      <node id="{公布-报告}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-05</data>
+        <data key="name">{公布-报告}</data>
+      </node>
+      <node id="{更新}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-10-01</data>
+        <data key="name">{更新}</data>
+      </node>
+      <node id="{欣赏-中方}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-01-25</data>
+        <data key="name">{欣赏-中方}</data>
+      </node>
+      <node id="{阵亡-将士}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-25</data>
+        <data key="name">{阵亡-将士}</data>
+      </node>
+      <node id="{用于-抗击}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-28</data>
+        <data key="name">{用于-抗击}</data>
+      </node>
+      <node id="{接受-采访}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-01</data>
+        <data key="name">{接受-采访}</data>
+      </node>
+      <node id="{突破}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-13</data>
+        <data key="name">{突破}</data>
+      </node>
+      <node id="{质疑}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-04</data>
+        <data key="name">{质疑}</data>
+      </node>
+      <node id="{用于-治疗}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-29</data>
+        <data key="name">{用于-治疗}</data>
+      </node>
+      <node id="{至上}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-29</data>
+        <data key="name">{至上}</data>
+      </node>
+      <node id="{罕见}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-09</data>
+        <data key="name">{罕见}</data>
+      </node>
+      <node id="{声称}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-04</data>
+        <data key="name">{声称}</data>
+      </node>
+      <node id="{下属}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-15</data>
+        <data key="name">{下属}</data>
+      </node>
+      <node id="{发布-声明}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-11</data>
+        <data key="name">{发布-声明}</data>
+      </node>
+      <node id="{流行}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-01-03</data>
+        <data key="name">{流行}</data>
+      </node>
+      <node id="{援引-西班牙}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-02</data>
+        <data key="name">{援引-西班牙}</data>
+      </node>
+      <node id="{成立-委员会}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-23</data>
+        <data key="name">{成立-委员会}</data>
+      </node>
+      <node id="{消散}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-20</data>
+        <data key="name">{消散}</data>
+      </node>
+      <node id="{妨碍}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-14</data>
+        <data key="name">{妨碍}</data>
+      </node>
+      <node id="{参加}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-25</data>
+        <data key="name">{参加}</data>
+      </node>
+      <node id="{创下-跌幅}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-17</data>
+        <data key="name">{创下-跌幅}</data>
+      </node>
+      <node id="{联合}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-11</data>
+        <data key="name">{联合}</data>
+      </node>
+      <node id="{介绍-提供}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-01</data>
+        <data key="name">{介绍-提供}</data>
+      </node>
+      <node id="{应对-公布}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-31</data>
+        <data key="name">{应对-公布}</data>
+      </node>
+      <node id="{隐瞒-疫情}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-29</data>
+        <data key="name">{隐瞒-疫情}</data>
+      </node>
+      <node id="{动用-生产法}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-27</data>
+        <data key="name">{动用-生产法}</data>
+      </node>
+      <node id="{意味着-陷入}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-01</data>
+        <data key="name">{意味着-陷入}</data>
+      </node>
+      <node id="{报道-刊发}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-02</data>
+        <data key="name">{报道-刊发}</data>
+      </node>
+      <node id="{发布-显示}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-18</data>
+        <data key="name">{发布-显示}</data>
+      </node>
+      <node id="{参加-示威}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-30</data>
+        <data key="name">{参加-示威}</data>
+      </node>
+      <node id="{停顿}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-20</data>
+        <data key="name">{停顿}</data>
+      </node>
+      <node id="{显示-下降}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-29</data>
+        <data key="name">{显示-下降}</data>
+      </node>
+      <node id="{终结}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-19</data>
+        <data key="name">{终结}</data>
+      </node>
+      <node id="{撤回}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-06-11</data>
+        <data key="name">{撤回}</data>
+      </node>
+      <node id="{战胜}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-05-07</data>
+        <data key="name">{战胜}</data>
+      </node>
+      <node id="{实施-管制}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-18</data>
+        <data key="name">{实施-管制}</data>
+      </node>
+      <node id="{收到-通知}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-01-03</data>
+        <data key="name">{收到-通知}</data>
+      </node>
+      <node id="{陷入}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-01</data>
+        <data key="name">{陷入}</data>
+      </node>
+      <node id="{上涨}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-18</data>
+        <data key="name">{上涨}</data>
+      </node>
+      <node id="{调派-部队}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-16</data>
+        <data key="name">{调派-部队}</data>
+      </node>
+      <node id="{缓解-重压}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-09-01</data>
+        <data key="name">{缓解-重压}</data>
+      </node>
+      <node id="{显示-提供}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-01</data>
+        <data key="name">{显示-提供}</data>
+      </node>
+      <node id="{发现-恢复}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-18</data>
+        <data key="name">{发现-恢复}</data>
+      </node>
+      <node id="{生产-呼吸机}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-04-02</data>
+        <data key="name">{生产-呼吸机}</data>
+      </node>
+      <node id="{感染-病毒}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-29</data>
+        <data key="name">{感染-病毒}</data>
+      </node>
+      <node id="{致信-领导人}_e" labels=":EVENTNODE">
+        <data key="trigger">[{致信-领导人}, {妨碍}, {谴责-妨碍}, {努力}]</data>
+        <data key="title">　　新华社德黑兰3月14日电（记者陈霖）伊朗总统哈桑·鲁哈尼日前致信多国领导人，谴责美国持续制裁严重妨碍伊朗抗击新冠肺炎疫情努力，是对伊朗人民的集体惩罚</data>
+        <data key="time">2020-03-14</data>
+        <data key="person">[陈霖]</data>
+        <data key="location">[美国, 伊朗, 德黑兰]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 总统, 致信, 领导人, 谴责, 持续, 制裁, 妨碍, 抗击, 冠肺炎, 疫情, 集体, 惩罚]</data>
+      </node>
+      <node id="{病逝}_e" labels=":EVENTNODE">
+        <data key="trigger">[{病逝}, {检测-病毒}]</data>
+        <data key="title">　　该县公共卫生部门在一份声明中表示，法医部门对2月6日和2月17日该县病逝的两名死者进行了尸检，他们的组织样本被送至美国疾控中心，新冠病毒检测结果呈阳性</data>
+        <data key="time">2020-02-17</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[部门, 声明, 法医, 病逝, 死者, 尸检, 组织, 样本, 疾控, 中心, 病毒, 检测, 阳性]</data>
+      </node>
+      <node id="{止住-跌势}_e" labels=":EVENTNODE">
+        <data key="trigger">[{止住-跌势}]</data>
+        <data key="title">　　　　美联储3月3日的紧急降息举措，没能止住金融市场跌势</data>
+        <data key="time">2020-03-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[美联储, 降息, 举措, 止住, 金融, 市场, 跌势]</data>
+      </node>
+      <node id="{意味着-多于}_e" labels=":EVENTNODE">
+        <data key="trigger">[{超过-接受}, {意味着-多于}, {多于}]</data>
+        <data key="title">例如，截至3月30日，纽约州平均每10万居民中超过950人接受新冠病毒检测，但在佐治亚州和俄克拉何马州，这一数字仅为127人和43人，这组数字对比意味着，实际感染人数可能多于公布的确诊人数</data>
+        <data key="time">2020-03-30</data>
+        <data key="person">[]</data>
+        <data key="location">[佐治亚州, 俄克拉何马州, 纽约州]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[居民, 超过, 接受, 新冠, 病毒, 检测, 数字, 意味着, 感染, 人数, 多于, 公布, 确诊]</data>
+      </node>
+      <node id="{豁免}_e" labels=":EVENTNODE">
+        <data key="trigger">[{豁免}, {覆盖-产品}]</data>
+        <data key="title">　　鲍恩表示，虽然美国政府已于3月10日和12日“悄悄”暂时豁免对中国输美部分医疗产品加征关税，但这只覆盖一小部分紧急需要的医疗产品，应对疫情效果有限</data>
+        <data key="time">2020-03-10</data>
+        <data key="person">[鲍恩]</data>
+        <data key="location">[中国]</data>
+        <data key="organization">[美国政府]</data>
+        <data key="keywords">[美国, 政府, 豁免, 医疗, 产品, 关税, 覆盖, 疫情, 效果]</data>
+      </node>
+      <node id="{缓解-重压}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {请求-调派}, {前往-洛杉矶}, {面临}, {缓解-重压}]</data>
+        <data key="title">　　纽瑟姆在当天公布的写给总统特朗普的信件中，请求特朗普立即调派海军医疗船前往洛杉矶的港口驻泊至9月1日，以缓解洛杉矶医疗系统面临的重压</data>
+        <data key="time">2020-09-01</data>
+        <data key="person">[特朗普, 纽瑟姆]</data>
+        <data key="location">[特朗普, 洛杉矶]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[公布, 总统, 信件, 请求, 调派, 海军, 医疗船, 前往, 港口, 缓解, 医疗, 系统, 面临, 重压]</data>
+      </node>
+      <node id="{降低-成本}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报道}, {削减-岗位}, {降低-成本}]</data>
+        <data key="title">　　新华社华盛顿5月21日电（记者王集旻）据美国媒体21日报道，为应对新冠肺炎疫情的冲击，美国奥委会与残奥委会决定削减51个岗位，降低协会运营成本</data>
+        <data key="time">2020-05-21</data>
+        <data key="person">[王集旻]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[美国奥委会, 新华社]</data>
+        <data key="keywords">[记者, 媒体, 报道, 新冠, 肺炎, 疫情, 冲击, 奥委会, 削减, 岗位, 降低, 协会, 运营, 成本]</data>
+      </node>
+      <node id="{发达}_e" labels=":EVENTNODE">
+        <data key="trigger">[{温馨}, {隐瞒-疫情}, {至上}, {至上}, {承诺}, {发达}]</data>
+        <data key="title">　　新华社北京6月29日电（记者温馨、成欣）针对美国国务卿蓬佩奥近日再次诬称中方隐瞒新冠肺炎疫情，并称这与中方“坚持人民至上、生命至上”的承诺不符，外交部发言人赵立坚29日说，美国作为全球医疗技术最发达、最成熟的国家，应对疫情烂至如此程度，既让人费解，也令人深思</data>
+        <data key="time">2020-06-29</data>
+        <data key="person">[蓬佩奥, 赵立坚, 成欣]</data>
+        <data key="location">[美国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 国务卿, 中方, 隐瞒, 新冠, 肺炎, 疫情, 至上, 生命, 承诺, 发言人, 全球, 医疗, 技术, 国家, 程度, 深思]</data>
+      </node>
+      <node id="{如期而至}_e" labels=":EVENTNODE">
+        <data key="trigger">[{如期而至}, {停顿}]</data>
+        <data key="title">　　新华社休斯敦4月20日电 　　新华社记者高路　　春天的脚步如期而至，人们的生活却因新冠疫情而停顿下来</data>
+        <data key="time">2020-04-20</data>
+        <data key="person">[高路]</data>
+        <data key="location">[休斯敦]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 脚步, 如期而至, 生活, 冠疫情, 停顿]</data>
+      </node>
+      <node id="{包括-美国}_e" labels=":EVENTNODE">
+        <data key="trigger">[{希望-战胜}, {战胜}, {包括-美国}, {抗击-疫情}, {提供-支持}]</data>
+        <data key="title">　　新华社北京5月7日电（记者温馨）外交部发言人华春莹7日表示，中方希望美国人民能够尽快战胜新冠肺炎疫情，将继续尽己所能为包括美国人民在内的世界各国人民抗击疫情提供力所能及的支持和协助</data>
+        <data key="time">2020-05-07</data>
+        <data key="person">[温馨, 华春莹]</data>
+        <data key="location">[美国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 发言人, 春莹, 中方, 希望, 战胜, 新冠, 肺炎, 疫情, 包括, 世界, 抗击, 提供, 力所能及, 支持, 协助]</data>
+      </node>
+      <node id="{呼吁}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报-信息}, {发出-预警}, {呼吁}]</data>
+        <data key="title">　　中国早在1月初就定期向美方通报疫情信息和防控举措，世界卫生组织也在1月31日就向国际社会发出预警，呼吁采取理性、谨慎的保护和预防措施</data>
+        <data key="time">2020-01-31</data>
+        <data key="person">[]</data>
+        <data key="location">[中国]</data>
+        <data key="organization">[世界卫生组织]</data>
+        <data key="keywords">[美方, 通报, 疫情, 信息, 防控, 举措, 世界, 组织, 国际, 社会, 发出, 预警, 呼吁, 理性, 保护, 预防, 措施]</data>
+      </node>
+      <node id="{增长}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发布-显示}, {显示}, {增长}]</data>
+        <data key="title">　　美国政策研究所4日发布一份报告显示，该国亿万富翁财富总和如今达3.5万亿美元，比3月18日的数据增长5650亿美元</data>
+        <data key="time">2020-03-18</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[美国政策研究所]</data>
+        <data key="keywords">[美国, 政策, 研究所, 发布, 报告, 显示, 富翁, 财富, 总和, 数据, 增长]</data>
+      </node>
+      <node id="{博得-喝彩}_e" labels=":EVENTNODE">
+        <data key="trigger">[{单膝-跪地}, {博得-喝彩}]</data>
+        <data key="title">”纽约市警察局的罗伯特·卡塔尼和3名同事5月31日在抗议者面前单膝跪地，博得现场一片喝彩</data>
+        <data key="time">2020-05-31</data>
+        <data key="person">[]</data>
+        <data key="location">[纽约市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警察局, 同事, 抗议者, 单膝, 跪地, 博得, 现场, 喝彩]</data>
+      </node>
+      <node id="{打压-对等}_e" labels=":EVENTNODE">
+        <data key="trigger">[{打压-对等}]</data>
+        <data key="title">　　　　新华社北京3月20日电（记者马卓言）外交部发言人耿爽20日在例行记者会上说，中方对美国媒体采取的有关措施完全是对美方无理打压中国媒体驻美机构的对等反制，完全是正当合理防卫</data>
+        <data key="time">2020-03-20</data>
+        <data key="person">[耿爽, 马卓言]</data>
+        <data key="location">[美国, 中国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 发言人, 例行, 记者会, 中方, 媒体, 措施, 美方, 打压, 机构, 对等, 反制, 防卫]</data>
+      </node>
+      <node id="{衰退}_e" labels=":EVENTNODE">
+        <data key="trigger">[{申请-人数}, {体验-痛感}, {衰退}]</data>
+        <data key="title">从3月15日至5月23日，短短两个多月，美国首次申请失业救济人数就累计达4080万，工薪一族最早体验到疫情带来的经济衰退的痛感</data>
+        <data key="time">2020-05-23</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[申请, 失业, 救济, 人数, 累计, 工薪, 体验, 疫情, 带来, 经济, 衰退, 痛感]</data>
+      </node>
+      <node id="{导致-转移}_e" labels=":EVENTNODE">
+        <data key="trigger">[{导致-转移}, {转移}]</data>
+        <data key="title">　　新华社华盛顿3月3日电（记者熊茂伶）部分美国商学界人士近日表示，基于中国在全球价值链中的重要地位，新冠肺炎疫情不会导致供应链从中国转移，新冠肺炎疫情对经济影响是“暂时的”</data>
+        <data key="time">2020-03-03</data>
+        <data key="person">[熊茂伶]</data>
+        <data key="location">[美国, 华盛顿, 中国]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 商学界, 人士, 全球, 价值链, 地位, 冠肺炎, 疫情, 导致, 供应链, 转移, 新冠, 肺炎, 经济, 影响]</data>
+      </node>
+      <node id="{成立-委员会}_e" labels=":EVENTNODE">
+        <data key="trigger">[{表决}, {成立-委员会}, {监督}]</data>
+        <data key="title">　　新华社华盛顿4月23日电（记者孙丁　徐剑梅）美国国会众议院23日表决通过成立一特别委员会，以监督联邦政府应对新冠疫情</data>
+        <data key="time">2020-04-23</data>
+        <data key="person">[孙丁徐剑梅]</data>
+        <data key="location">[华盛顿]</data>
+        <data key="organization">[美国国会众议院, 新华社]</data>
+        <data key="keywords">[记者, 孙丁, 徐剑梅, 美国, 国会, 众议院, 表决, 成立, 委员会, 监督, 联邦, 政府, 冠疫情]</data>
+      </node>
+      <node id="{延长-法案}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报道}, {投票}, {提交}, {延长-法案}, {延长}]</data>
+        <data key="title">　　据法国媒体报道，法国议会9日投票通过政府提交的延长“卫生紧急状态”法案，“卫生紧急状态”将延长至7月10日</data>
+        <data key="time">2020-07-10</data>
+        <data key="person">[]</data>
+        <data key="location">[法国]</data>
+        <data key="organization">[法国议会]</data>
+        <data key="keywords">[媒体, 报道, 议会, 投票, 政府, 提交, 延长, 紧急状态, 法案]</data>
+      </node>
+      <node id="{停止-亚裔}_e" labels=":EVENTNODE">
+        <data key="trigger">[{停止-亚裔}, {统计}, {收到}]</data>
+        <data key="title">据旧金山州立大学“停止仇恨亚裔”网站统计，从3月19日起的6周里，这一网站收到来自美国各地逾1700份针对亚裔的种族歧视报告</data>
+        <data key="time">2020-03-19</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[旧金山州立大学]</data>
+        <data key="keywords">[旧金山, 大学, 停止, 仇恨, 亚裔, 网站, 统计, 收到, 种族歧视, 报告]</data>
+      </node>
+      <node id="{报道-停止}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报道-停止}, {停止}, {调派-部队}]</data>
+        <data key="title">俄罗斯卫星通讯社3月16日报道，据美国欧洲司令部消息，考虑到新冠疫情形势，五角大楼已经停止向欧洲调派“欧洲捍卫者”联合演习参演的美军部队</data>
+        <data key="time">2020-03-16</data>
+        <data key="person">[]</data>
+        <data key="location">[美国欧洲, 欧洲, 俄罗斯]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[卫星, 通讯社, 报道, 美国, 司令部, 消息, 冠疫, 情形势, 五角大楼, 停止, 调派, 捍卫者, 联合, 演习, 参演, 美军, 部队]</data>
+      </node>
+      <node id="{通报-信息}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报-信息}, {发出-预警}, {呼吁}]</data>
+        <data key="title">　　中国早在1月初就定期向美方通报疫情信息和防控举措，世界卫生组织也在1月31日就向国际社会发出预警，呼吁采取理性、谨慎的保护和预防措施</data>
+        <data key="time">2020-01-31</data>
+        <data key="person">[]</data>
+        <data key="location">[中国]</data>
+        <data key="organization">[世界卫生组织]</data>
+        <data key="keywords">[美方, 通报, 疫情, 信息, 防控, 举措, 世界, 组织, 国际, 社会, 发出, 预警, 呼吁, 理性, 保护, 预防, 措施]</data>
+      </node>
+      <node id="{健康}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-声明}, {讨论-调整}, {确保-危害}, {健康}]</data>
+        <data key="title">民主党全国委员会2日发表声明说，该党全国代表大会改在8月17日起的一周内举行，民主党将在未来几周内继续讨论如何调整大会方案，以确保不会危害公众健康</data>
+        <data key="time">2020-08-17</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[民主党, 全国, 委员会, 发表, 声明, 代表大会, 讨论, 调整, 大会, 方案, 确保, 危害, 公众]</data>
+      </node>
+      <node id="{接受-检测}_e" labels=":EVENTNODE">
+        <data key="trigger">[{提醒-示威者}, {参加-示威}, {接受-检测}]</data>
+        <data key="title">　　　　亚特兰大市长凯莎·兰斯·博顿斯5月30日晚提醒示威者：“如果你昨晚参加示威，可能需要本周接受新冠病毒检测</data>
+        <data key="time">2020-05-30</data>
+        <data key="person">[]</data>
+        <data key="location">[亚特兰大]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[市长, 提醒, 示威者, 参加, 示威, 接受, 新冠, 病毒, 检测]</data>
+      </node>
+      <node id="{表达}_e" labels=":EVENTNODE">
+        <data key="trigger">[{表达}, {遏制}]</data>
+        <data key="title">2月23日的一次会议上，阿扎和这一部门其他高层对布莱特所提疫情严重后果表达“诧异”，称“美国将能够遏制”新冠病毒传播</data>
+        <data key="time">2020-02-23</data>
+        <data key="person">[布莱特, 阿扎]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[会议, 部门, 高层, 疫情, 后果, 表达, 遏制, 新冠, 病毒, 传播]</data>
+      </node>
+      <node id="{严峻}_e" labels=":EVENTNODE">
+        <data key="trigger">[{开放-活动}, {严峻}, {消散}]</data>
+        <data key="title">　　新华社记者徐剑梅　孙丁　邓仙来　　截至5月20日，全美50州和首都华盛顿都不同程度地重新开放经济活动，但新冠疫情依然严峻，死亡人数继续攀升，美国民众的紧张情绪并未消散</data>
+        <data key="time">2020-05-20</data>
+        <data key="person">[徐剑梅孙丁邓仙]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 徐剑梅, 孙丁, 邓仙, 首都, 程度, 开放, 经济, 活动, 冠疫情, 死亡, 人数, 攀升, 民众, 情绪, 消散]</data>
+      </node>
+      <node id="{波及}_e" labels=":EVENTNODE">
+        <data key="trigger">[{综述-困扰}, {困扰}, {波及}, {辞职}]</data>
+        <data key="title">　　新华社华盛顿4月7日电综述：疫情困扰美国海军　航母风波波及高层　　新华社记者孙丁　徐剑梅　邓仙来　　美国代理海军部长托马斯·莫德利7日辞职</data>
+        <data key="time">2020-04-07</data>
+        <data key="person">[孙丁徐剑梅邓仙]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[综述, 疫情, 困扰, 海军, 航母, 风波, 波及, 高层, 记者, 孙丁, 徐剑梅, 邓仙, 代理, 部长, 辞职]</data>
+      </node>
+      <node id="{谴责-妨碍}_e" labels=":EVENTNODE">
+        <data key="trigger">[{致信-领导人}, {妨碍}, {谴责-妨碍}, {努力}]</data>
+        <data key="title">　　新华社德黑兰3月14日电（记者陈霖）伊朗总统哈桑·鲁哈尼日前致信多国领导人，谴责美国持续制裁严重妨碍伊朗抗击新冠肺炎疫情努力，是对伊朗人民的集体惩罚</data>
+        <data key="time">2020-03-14</data>
+        <data key="person">[陈霖]</data>
+        <data key="location">[美国, 伊朗, 德黑兰]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 总统, 致信, 领导人, 谴责, 持续, 制裁, 妨碍, 抗击, 冠肺炎, 疫情, 集体, 惩罚]</data>
+      </node>
+      <node id="{实施-停火}_e" labels=":EVENTNODE">
+        <data key="trigger">[{实施-停火}]</data>
+        <data key="title">　　缅甸国防军9日宣布，为了应对新冠疫情，也为了缅甸的永久和平，缅甸从5月10日至8月31日实施停火</data>
+        <data key="time">2020-08-31</data>
+        <data key="person">[]</data>
+        <data key="location">[缅甸]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[国防军, 冠疫情, 和平, 实施, 停火]</data>
+      </node>
+      <node id="{承诺}_e" labels=":EVENTNODE">
+        <data key="trigger">[{温馨}, {隐瞒-疫情}, {至上}, {至上}, {承诺}, {发达}]</data>
+        <data key="title">　　新华社北京6月29日电（记者温馨、成欣）针对美国国务卿蓬佩奥近日再次诬称中方隐瞒新冠肺炎疫情，并称这与中方“坚持人民至上、生命至上”的承诺不符，外交部发言人赵立坚29日说，美国作为全球医疗技术最发达、最成熟的国家，应对疫情烂至如此程度，既让人费解，也令人深思</data>
+        <data key="time">2020-06-29</data>
+        <data key="person">[蓬佩奥, 赵立坚, 成欣]</data>
+        <data key="location">[美国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 国务卿, 中方, 隐瞒, 新冠, 肺炎, 疫情, 至上, 生命, 承诺, 发言人, 全球, 医疗, 技术, 国家, 程度, 深思]</data>
+      </node>
+      <node id="{提醒-示威者}_e" labels=":EVENTNODE">
+        <data key="trigger">[{提醒-示威者}, {参加-示威}, {接受-检测}]</data>
+        <data key="title">　　　　亚特兰大市长凯莎·兰斯·博顿斯5月30日晚提醒示威者：“如果你昨晚参加示威，可能需要本周接受新冠病毒检测</data>
+        <data key="time">2020-05-30</data>
+        <data key="person">[]</data>
+        <data key="location">[亚特兰大]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[市长, 提醒, 示威者, 参加, 示威, 接受, 新冠, 病毒, 检测]</data>
+      </node>
+      <node id="{发布-氯喹}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发布-氯喹}, {捐赠-药物}, {用于-治疗}, {感染-病毒}]</data>
+        <data key="title">美药管局3月29日发布氯喹和羟氯喹类药物的紧急使用授权，允许向国家战略储备库捐赠这类药物，在有医生处方的前提下用于治疗感染新冠病毒的青少年和成年住院患者</data>
+        <data key="time">2020-03-29</data>
+        <data key="person">[]</data>
+        <data key="location">[药管局]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[发布, 氯喹, 羟氯喹类, 药物, 授权, 国家, 战略, 储备库, 捐赠, 医生, 处方, 前提, 用于, 治疗, 感染, 新冠, 病毒, 青少年, 住院, 患者]</data>
+      </node>
+      <node id="{欣赏-中方}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遏制-病毒}, {欣赏-中方}]</data>
+        <data key="title">”耿爽说，1月25日，特朗普总统发推特称，中国一直在非常努力地遏制新型冠状病毒，美国非常欣赏中方的努力和透明度</data>
+        <data key="time">2020-01-25</data>
+        <data key="person">[耿爽]</data>
+        <data key="location">[美国, 中国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[总统, 发推特, 遏制, 冠状, 病毒, 欣赏, 中方, 透明度]</data>
+      </node>
+      <node id="{预期}_e" labels=":EVENTNODE">
+        <data key="trigger">[{显示-下降}, {下降}, {预期}, {高于-预期}, {陷入}, {意味着-陷入}]</data>
+        <data key="title">　　美国供应管理学会（ISM）4月1日公布的数据显示，3月份美国制造业PMI环比下降1点至49.1，高于市场预期的45，但跌落至50荣枯线以下，意味着制造业陷入萎缩</data>
+        <data key="time">2020-04-01</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[供应, 管理, 学会, 公布, 数据, 显示, 制造业, 环比, 下降, 高于, 市场, 预期, 跌落, 枯线, 意味着, 陷入, 萎缩]</data>
+      </node>
+      <node id="{指令-协助}_e" labels=":EVENTNODE">
+        <data key="trigger">[{动用-生产法}, {协助}, {指令-协助}, {生产-呼吸机}]</data>
+        <data key="title">4月2日，特朗普再次动用《国防生产法》授权，指令联邦政府协助美国制造商生产呼吸机</data>
+        <data key="time">2020-04-02</data>
+        <data key="person">[特朗普]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[动用, 国防, 生产法, 授权, 指令, 联邦, 政府, 协助, 制造商, 生产, 呼吸机]</data>
+      </node>
+      <node id="{流行}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-调查}, {收到}, {流行}]</data>
+        <data key="title">《华盛顿邮报》日前发表长篇深度调查报道，梳理了1月3日特朗普政府收到中方疫情通知之日起的70天里，美国联邦政府应对疫情的过程，认为在此期间，从白宫椭圆形办公室到美国疾控中心，出现一连串系统性失误，使美国失去减缓新冠病毒大流行的机会</data>
+        <data key="time">2020-01-03</data>
+        <data key="person">[]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[特朗普政府]</data>
+        <data key="keywords">[邮报, 发表, 深度, 调查, 报道, 梳理, 特朗普, 政府, 收到, 中方, 疫情, 通知, 联邦, 过程, 白宫, 椭圆形, 办公室, 疾控, 中心, 一连串, 系统性, 失误, 减缓, 新冠, 病毒, 流行, 机会]</data>
+      </node>
+      <node id="{发表-声明}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-声明}, {讨论-调整}, {确保-危害}, {健康}]</data>
+        <data key="title">民主党全国委员会2日发表声明说，该党全国代表大会改在8月17日起的一周内举行，民主党将在未来几周内继续讨论如何调整大会方案，以确保不会危害公众健康</data>
+        <data key="time">2020-08-17</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[民主党, 全国, 委员会, 发表, 声明, 代表大会, 讨论, 调整, 大会, 方案, 确保, 危害, 公众]</data>
+      </node>
+      <node id="{聚集}_e" labels=":EVENTNODE">
+        <data key="trigger">[{激增}, {引发-激增}, {执法}, {引发-抗议}, {聚集}, {传播}, {加速-传播}]</data>
+        <data key="title">　　加州大学洛杉矶分校公共卫生学院副院长、流行病学教授张作风认为，有三方面因素引发新冠感染病例激增：一是美国各地自5月26日起因白人警察暴力执法致一名非洲裔男子死亡引发抗议和骚乱，大量人群聚集，加速了新冠病毒传播</data>
+        <data key="time">2020-05-26</data>
+        <data key="person">[张作风]</data>
+        <data key="location">[美国, 非洲]</data>
+        <data key="organization">[加州大学洛杉矶分校公共卫生学院]</data>
+        <data key="keywords">[加州, 大学, 洛杉矶, 分校, 学院, 院长, 流行病学, 教授, 因素, 引发, 新冠, 感染, 病例, 激增, 白人, 警察, 暴力, 执法, 男子, 死亡, 抗议, 骚乱, 人群, 聚集, 加速, 病毒, 传播]</data>
+      </node>
+      <node id="{死亡}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {显示}, {提前}, {公布}, {死亡}]</data>
+        <data key="title">高山　　美国加利福尼亚州圣克拉拉县政府公共卫生部门本周公布的最新检测报告显示，早在2月6日当地就有人死于新冠肺炎，这比美国此前公布的首例新冠死亡病例出现时间提前了20多天</data>
+        <data key="time">2020-02-06</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[美国加利福尼亚州圣克拉拉县政府]</data>
+        <data key="keywords">[高山, 加利福尼亚州, 圣克拉拉县, 政府, 部门, 公布, 检测, 报告, 显示, 冠肺炎, 死亡, 病例, 时间, 提前]</data>
+      </node>
+      <node id="{降息-基点}_e" labels=":EVENTNODE">
+        <data key="trigger">[{降息-基点}, {降息-基点}]</data>
+        <data key="title">继3月3日宣布紧急降息50个基点后，15日又紧急降息100个基点，并重启量化宽松措施</data>
+        <data key="time">2020-03-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[降息, 基点, 并重, 量化, 措施]</data>
+      </node>
+      <node id="{超过-企业}_e" labels=":EVENTNODE">
+        <data key="trigger">[{超过-企业}, {显示-提供}, {提供}, {下滑}]</data>
+        <data key="title">　　代表美国超过50万家餐饮企业的全国餐馆业协会的调查显示，3月1日至22日，美国各地有54%的受访餐厅不再提供店内用餐服务，营业额因此下滑47%</data>
+        <data key="time">2020-03-01</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[全国餐馆业协会]</data>
+        <data key="keywords">[代表, 超过, 餐饮, 企业, 全国, 餐馆, 协会, 调查, 显示, 受访, 餐厅, 提供, 用餐, 服务, 营业额, 下滑]</data>
+      </node>
+      <node id="{出台}_e" labels=":EVENTNODE">
+        <data key="trigger">[{显示}, {出台}, {覆盖-民众}]</data>
+        <data key="title">美国有线电视新闻网统计显示，截至3月31日，美国州、县、市等各级政府出台的“居家令”已覆盖2.62亿民众，占美国人口的逾80%</data>
+        <data key="time">2020-03-31</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[有线电视, 新闻网, 统计, 显示, 政府, 出台, 居家, 覆盖, 民众, 人口]</data>
+      </node>
+      <node id="{削减-岗位}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报道}, {削减-岗位}, {降低-成本}]</data>
+        <data key="title">　　新华社华盛顿5月21日电（记者王集旻）据美国媒体21日报道，为应对新冠肺炎疫情的冲击，美国奥委会与残奥委会决定削减51个岗位，降低协会运营成本</data>
+        <data key="time">2020-05-21</data>
+        <data key="person">[王集旻]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[美国奥委会, 新华社]</data>
+        <data key="keywords">[记者, 媒体, 报道, 新冠, 肺炎, 疫情, 冲击, 奥委会, 削减, 岗位, 降低, 协会, 运营, 成本]</data>
+      </node>
+      <node id="{参加-大会}_e" labels=":EVENTNODE">
+        <data key="trigger">[{参加-大会}, {选出-代表}]</data>
+        <data key="title">　　依照民主党规则，各州应在6月9日之前完成党内预选，6月20日前要选出所有参加民主党全国大会的代表</data>
+        <data key="time">2020-06-20</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[民主党, 规则, 党内, 预选, 选出, 参加, 全国, 大会, 代表]</data>
+      </node>
+      <node id="{观察-引发}_e" labels=":EVENTNODE">
+        <data key="trigger">[{观察-引发}, {引发}, {降息-基点}]</data>
+        <data key="title">财经观察：新冠肺炎疫情会否引发美国金融风险　　新华社记者刘丽娜　　为应对新冠肺炎疫情对经济的影响，美国联邦储备委员会3月3日宣布降息50个基点，应对全球金融市场近期的大幅震荡</data>
+        <data key="time">2020-03-03</data>
+        <data key="person">[刘丽娜]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[新华社, 美国联邦储备委员会]</data>
+        <data key="keywords">[财经, 观察, 新冠, 肺炎, 疫情, 引发, 金融, 风险, 记者, 经济, 影响, 联邦, 储备, 委员会, 降息, 基点, 全球, 市场, 震荡]</data>
+      </node>
+      <node id="{报道-显示}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报道-显示}, {显示}, {面临-危机}]</data>
+        <data key="title">    福布斯新闻网5月7日报道，调查显示，截至4月底，五分之一以上的美国家庭面临食品危机</data>
+        <data key="time">2020-05-07</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[新闻网, 报道, 调查, 显示, 家庭, 面临, 食品, 危机]</data>
+      </node>
+      <node id="{实施-居家令}_e" labels=":EVENTNODE">
+        <data key="trigger">[{实施-居家令}, {缓和}]</data>
+        <data key="title">实施“居家令”等防疫措施后，死亡病例数量曲线有所缓和，将在4月15日达到单日死亡人数高峰（2214人）</data>
+        <data key="time">2020-04-15</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[实施, 居家令, 防疫, 措施, 死亡, 病例, 数量, 曲线, 缓和, 人数, 高峰]</data>
+      </node>
+      <node id="{抗击}_e" labels=":EVENTNODE">
+        <data key="trigger">[{分享}, {有助于-抗击}, {抗击}]</data>
+        <data key="title">3月13日，特朗普总统向记者表示，中方分享的数据有助于美方抗击疫情</data>
+        <data key="time">2020-03-13</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[总统, 记者, 中方, 分享, 数据, 有助于, 美方, 抗击, 疫情]</data>
+      </node>
+      <node id="{监督}_e" labels=":EVENTNODE">
+        <data key="trigger">[{表决}, {成立-委员会}, {监督}]</data>
+        <data key="title">　　新华社华盛顿4月23日电（记者孙丁　徐剑梅）美国国会众议院23日表决通过成立一特别委员会，以监督联邦政府应对新冠疫情</data>
+        <data key="time">2020-04-23</data>
+        <data key="person">[孙丁徐剑梅]</data>
+        <data key="location">[华盛顿]</data>
+        <data key="organization">[美国国会众议院, 新华社]</data>
+        <data key="keywords">[记者, 孙丁, 徐剑梅, 美国, 国会, 众议院, 表决, 成立, 委员会, 监督, 联邦, 政府, 冠疫情]</data>
+      </node>
+      <node id="{提供-支持}_e" labels=":EVENTNODE">
+        <data key="trigger">[{希望-战胜}, {战胜}, {包括-美国}, {抗击-疫情}, {提供-支持}]</data>
+        <data key="title">　　新华社北京5月7日电（记者温馨）外交部发言人华春莹7日表示，中方希望美国人民能够尽快战胜新冠肺炎疫情，将继续尽己所能为包括美国人民在内的世界各国人民抗击疫情提供力所能及的支持和协助</data>
+        <data key="time">2020-05-07</data>
+        <data key="person">[温馨, 华春莹]</data>
+        <data key="location">[美国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 发言人, 春莹, 中方, 希望, 战胜, 新冠, 肺炎, 疫情, 包括, 世界, 抗击, 提供, 力所能及, 支持, 协助]</data>
+      </node>
+      <node id="{协助}_e" labels=":EVENTNODE">
+        <data key="trigger">[{动用-生产法}, {协助}, {指令-协助}, {生产-呼吸机}]</data>
+        <data key="title">4月2日，特朗普再次动用《国防生产法》授权，指令联邦政府协助美国制造商生产呼吸机</data>
+        <data key="time">2020-04-02</data>
+        <data key="person">[特朗普]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[动用, 国防, 生产法, 授权, 指令, 联邦, 政府, 协助, 制造商, 生产, 呼吸机]</data>
+      </node>
+      <node id="{收到-通报}_e" labels=":EVENTNODE">
+        <data key="trigger">[{获悉}, {收到-通报}]</data>
+        <data key="title">　　报道说，美国疾控中心去年12月31日获悉中国出现不明肺炎病例，今年1月3日特朗普政府收到中方首个疫情通报</data>
+        <data key="time">2020-01-03</data>
+        <data key="person">[]</data>
+        <data key="location">[美国, 中国]</data>
+        <data key="organization">[特朗普政府]</data>
+        <data key="keywords">[报道, 疾控, 中心, 获悉, 不明, 肺炎, 病例, 特朗普, 政府, 收到, 中方, 疫情, 通报]</data>
+      </node>
+      <node id="{选出-代表}_e" labels=":EVENTNODE">
+        <data key="trigger">[{参加-大会}, {选出-代表}]</data>
+        <data key="title">　　依照民主党规则，各州应在6月9日之前完成党内预选，6月20日前要选出所有参加民主党全国大会的代表</data>
+        <data key="time">2020-06-20</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[民主党, 规则, 党内, 预选, 选出, 参加, 全国, 大会, 代表]</data>
+      </node>
+      <node id="{高于-预期}_e" labels=":EVENTNODE">
+        <data key="trigger">[{显示-下降}, {下降}, {预期}, {高于-预期}, {陷入}, {意味着-陷入}]</data>
+        <data key="title">　　美国供应管理学会（ISM）4月1日公布的数据显示，3月份美国制造业PMI环比下降1点至49.1，高于市场预期的45，但跌落至50荣枯线以下，意味着制造业陷入萎缩</data>
+        <data key="time">2020-04-01</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[供应, 管理, 学会, 公布, 数据, 显示, 制造业, 环比, 下降, 高于, 市场, 预期, 跌落, 枯线, 意味着, 陷入, 萎缩]</data>
+      </node>
+      <node id="{机制}_e" labels=":EVENTNODE">
+        <data key="trigger">[{机制}, {罕见}]</data>
+        <data key="title">自3月9日以来，纽约股市已三次触发熔断机制，历史罕见</data>
+        <data key="time">2020-03-09</data>
+        <data key="person">[]</data>
+        <data key="location">[纽约]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[股市, 触发, 熔断, 机制, 历史]</data>
+      </node>
+      <node id="{引发}_e" labels=":EVENTNODE">
+        <data key="trigger">[{观察-引发}, {引发}, {降息-基点}]</data>
+        <data key="title">财经观察：新冠肺炎疫情会否引发美国金融风险　　新华社记者刘丽娜　　为应对新冠肺炎疫情对经济的影响，美国联邦储备委员会3月3日宣布降息50个基点，应对全球金融市场近期的大幅震荡</data>
+        <data key="time">2020-03-03</data>
+        <data key="person">[刘丽娜]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[新华社, 美国联邦储备委员会]</data>
+        <data key="keywords">[财经, 观察, 新冠, 肺炎, 疫情, 引发, 金融, 风险, 记者, 经济, 影响, 联邦, 储备, 委员会, 降息, 基点, 全球, 市场, 震荡]</data>
+      </node>
+      <node id="{举办}_e" labels=":EVENTNODE">
+        <data key="trigger">[{参加}, {举办}, {感谢-人士}, {抗击-疫情}]</data>
+        <data key="title">　　新华社洛杉矶2月25日电（记者黄恒）中国驻洛杉矶总领事张平24日在参加美国洛杉矶县举办的新冠肺炎疫情媒体说明会上，感谢加利福尼亚州等地各界人士及当地民众对中国抗击疫情给予的支持和帮助</data>
+        <data key="time">2020-02-25</data>
+        <data key="person">[张平, 黄恒]</data>
+        <data key="location">[美国洛杉矶县, 加利福尼亚州, 中国, 洛杉矶]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 总领事, 参加, 美国, 洛杉矶县, 举办, 冠肺炎, 疫情, 媒体, 感谢, 人士, 民众, 抗击, 给予, 支持]</data>
+      </node>
+      <node id="{谴责-加大}_e" labels=":EVENTNODE">
+        <data key="trigger">[{谴责-加大}, {加大}]</data>
+        <data key="title">　　新华社德黑兰3月8日电（记者陈霖）伊朗外长扎里夫7日谴责美国在新冠肺炎疫情期间加大对伊制裁</data>
+        <data key="time">2020-03-08</data>
+        <data key="person">[陈霖, 扎里夫]</data>
+        <data key="location">[美国, 伊朗, 德黑兰]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 外长, 谴责, 冠肺炎, 疫情, 加大, 制裁]</data>
+      </node>
+      <node id="{面临-危机}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报道-显示}, {显示}, {面临-危机}]</data>
+        <data key="title">    福布斯新闻网5月7日报道，调查显示，截至4月底，五分之一以上的美国家庭面临食品危机</data>
+        <data key="time">2020-05-07</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[新闻网, 报道, 调查, 显示, 家庭, 面临, 食品, 危机]</data>
+      </node>
+      <node id="{治疗}_e" labels=":EVENTNODE">
+        <data key="trigger">[{动用-生产法}, {治疗}]</data>
+        <data key="title">3月27日，特朗普动用《国防生产法》授权，要求通用汽车公司生产治疗新冠肺炎重症患者所需呼吸机</data>
+        <data key="time">2020-03-27</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[通用汽车公司]</data>
+        <data key="keywords">[动用, 国防, 生产法, 授权, 通用, 汽车, 公司, 生产, 治疗, 新冠, 肺炎, 重症, 患者, 呼吸机]</data>
+      </node>
+      <node id="{提名}_e" labels=":EVENTNODE">
+        <data key="trigger">[{提名}, {锁定-集会}]</data>
+        <data key="title">　　新华社华盛顿6月20日电（记者邓仙来　孙丁）今年3月中旬锁定共和党总统候选人提名的美国总统特朗普20日举行美国新冠疫情暴发后首场竞选集会</data>
+        <data key="time">2020-06-20</data>
+        <data key="person">[邓仙来孙丁, 特朗普]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 邓仙来, 孙丁, 锁定, 共和党, 总统, 候选人, 提名, 冠疫, 情暴发, 竞选, 集会]</data>
+      </node>
+      <node id="{提名-总统}_e" labels=":EVENTNODE">
+        <data key="trigger">[{提名-总统}]</data>
+        <data key="title">　　2020年是美国大选年，民主党原定于7月13日起在威斯康星州最大城市密尔沃基召开全国代表大会，正式提名该党总统和副总统候选人</data>
+        <data key="time">2020-07-13</data>
+        <data key="person">[]</data>
+        <data key="location">[美国, 威斯康星州, 密尔沃基]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[大选, 民主党, 定于, 城市, 全国, 代表大会, 提名, 总统, 候选人]</data>
+      </node>
+      <node id="{体验-痛感}_e" labels=":EVENTNODE">
+        <data key="trigger">[{申请-人数}, {体验-痛感}, {衰退}]</data>
+        <data key="title">从3月15日至5月23日，短短两个多月，美国首次申请失业救济人数就累计达4080万，工薪一族最早体验到疫情带来的经济衰退的痛感</data>
+        <data key="time">2020-05-23</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[申请, 失业, 救济, 人数, 累计, 工薪, 体验, 疫情, 带来, 经济, 衰退, 痛感]</data>
+      </node>
+      <node id="{引发-抗议}_e" labels=":EVENTNODE">
+        <data key="trigger">[{激增}, {引发-激增}, {执法}, {引发-抗议}, {聚集}, {传播}, {加速-传播}]</data>
+        <data key="title">　　加州大学洛杉矶分校公共卫生学院副院长、流行病学教授张作风认为，有三方面因素引发新冠感染病例激增：一是美国各地自5月26日起因白人警察暴力执法致一名非洲裔男子死亡引发抗议和骚乱，大量人群聚集，加速了新冠病毒传播</data>
+        <data key="time">2020-05-26</data>
+        <data key="person">[张作风]</data>
+        <data key="location">[美国, 非洲]</data>
+        <data key="organization">[加州大学洛杉矶分校公共卫生学院]</data>
+        <data key="keywords">[加州, 大学, 洛杉矶, 分校, 学院, 院长, 流行病学, 教授, 因素, 引发, 新冠, 感染, 病例, 激增, 白人, 警察, 暴力, 执法, 男子, 死亡, 抗议, 骚乱, 人群, 聚集, 加速, 病毒, 传播]</data>
+      </node>
+      <node id="{确认-患者}_e" labels=":EVENTNODE">
+        <data key="trigger">[{确认-患者}]</data>
+        <data key="title">该县另一名3月6日死亡的患者也被确认死于新冠肺炎</data>
+        <data key="time">2020-03-06</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[死亡, 患者, 确认, 新冠, 肺炎]</data>
+      </node>
+      <node id="{发出-预警}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报-信息}, {发出-预警}, {呼吁}]</data>
+        <data key="title">　　中国早在1月初就定期向美方通报疫情信息和防控举措，世界卫生组织也在1月31日就向国际社会发出预警，呼吁采取理性、谨慎的保护和预防措施</data>
+        <data key="time">2020-01-31</data>
+        <data key="person">[]</data>
+        <data key="location">[中国]</data>
+        <data key="organization">[世界卫生组织]</data>
+        <data key="keywords">[美方, 通报, 疫情, 信息, 防控, 举措, 世界, 组织, 国际, 社会, 发出, 预警, 呼吁, 理性, 保护, 预防, 措施]</data>
+      </node>
+      <node id="{禁止-出行}_e" labels=":EVENTNODE">
+        <data key="trigger">[{禁止-出行}, {下令-关闭}]</data>
+        <data key="title">法国3月24日宣布进入为期两个月的“卫生紧急状态”，政府可根据相关法律限制或禁止民众出行、采取隔离措施、限制集会活动、下令临时关闭企业和机构等</data>
+        <data key="time">2020-03-24</data>
+        <data key="person">[]</data>
+        <data key="location">[法国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[为期, 紧急状态, 政府, 相关, 法律, 禁止, 民众, 出行, 隔离, 措施, 集会, 活动, 下令, 关闭, 企业, 机构]</data>
+      </node>
+      <node id="{面临}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {请求-调派}, {前往-洛杉矶}, {面临}, {缓解-重压}]</data>
+        <data key="title">　　纽瑟姆在当天公布的写给总统特朗普的信件中，请求特朗普立即调派海军医疗船前往洛杉矶的港口驻泊至9月1日，以缓解洛杉矶医疗系统面临的重压</data>
+        <data key="time">2020-09-01</data>
+        <data key="person">[特朗普, 纽瑟姆]</data>
+        <data key="location">[特朗普, 洛杉矶]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[公布, 总统, 信件, 请求, 调派, 海军, 医疗船, 前往, 港口, 缓解, 医疗, 系统, 面临, 重压]</data>
+      </node>
+      <node id="{触发-机制}_e" labels=":EVENTNODE">
+        <data key="trigger">[{触发-机制}, {超过}, {创下-跌幅}]</data>
+        <data key="title">　　新华社北京3月17日电　　　新华社记者徐超　　美国股市16日再次触发熔断机制，收盘时主要指数均暴跌超过11%，其中道琼斯工业平均指数创下1987年“黑色星期一”以来的最大单日跌幅</data>
+        <data key="time">2020-03-17</data>
+        <data key="person">[徐超, 琼斯]</data>
+        <data key="location">[美国, 北京]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 股市, 触发, 熔断, 机制, 收盘, 指数, 暴跌, 超过, 工业, 创下, 黑色, 跌幅]</data>
+      </node>
+      <node id="{报道}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报道}, {削减-岗位}, {降低-成本}]</data>
+        <data key="title">　　新华社华盛顿5月21日电（记者王集旻）据美国媒体21日报道，为应对新冠肺炎疫情的冲击，美国奥委会与残奥委会决定削减51个岗位，降低协会运营成本</data>
+        <data key="time">2020-05-21</data>
+        <data key="person">[王集旻]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[美国奥委会, 新华社]</data>
+        <data key="keywords">[记者, 媒体, 报道, 新冠, 肺炎, 疫情, 冲击, 奥委会, 削减, 岗位, 降低, 协会, 运营, 成本]</data>
+      </node>
+      <node id="{介绍-措施}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-讲话}, {介绍-措施}]</data>
+        <data key="title">　　　　法国总理菲利普28日在国民议会发表讲话，介绍法国5月11日后疫情防控新措施以及复工复市复课方案</data>
+        <data key="time">2020-05-11</data>
+        <data key="person">[菲利普]</data>
+        <data key="location">[法国, 复市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[总理, 国民, 议会, 发表, 讲话, 介绍, 疫情, 措施, 复工, 复课, 方案]</data>
+      </node>
+      <node id="{温馨}_e" labels=":EVENTNODE">
+        <data key="trigger">[{温馨}, {隐瞒-疫情}, {至上}, {至上}, {承诺}, {发达}]</data>
+        <data key="title">　　新华社北京6月29日电（记者温馨、成欣）针对美国国务卿蓬佩奥近日再次诬称中方隐瞒新冠肺炎疫情，并称这与中方“坚持人民至上、生命至上”的承诺不符，外交部发言人赵立坚29日说，美国作为全球医疗技术最发达、最成熟的国家，应对疫情烂至如此程度，既让人费解，也令人深思</data>
+        <data key="time">2020-06-29</data>
+        <data key="person">[蓬佩奥, 赵立坚, 成欣]</data>
+        <data key="location">[美国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 国务卿, 中方, 隐瞒, 新冠, 肺炎, 疫情, 至上, 生命, 承诺, 发言人, 全球, 医疗, 技术, 国家, 程度, 深思]</data>
+      </node>
+      <node id="{统计}_e" labels=":EVENTNODE">
+        <data key="trigger">[{停止-亚裔}, {统计}, {收到}]</data>
+        <data key="title">据旧金山州立大学“停止仇恨亚裔”网站统计，从3月19日起的6周里，这一网站收到来自美国各地逾1700份针对亚裔的种族歧视报告</data>
+        <data key="time">2020-03-19</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[旧金山州立大学]</data>
+        <data key="keywords">[旧金山, 大学, 停止, 仇恨, 亚裔, 网站, 统计, 收到, 种族歧视, 报告]</data>
+      </node>
+      <node id="{综述-困扰}_e" labels=":EVENTNODE">
+        <data key="trigger">[{综述-困扰}, {困扰}, {波及}, {辞职}]</data>
+        <data key="title">　　新华社华盛顿4月7日电综述：疫情困扰美国海军　航母风波波及高层　　新华社记者孙丁　徐剑梅　邓仙来　　美国代理海军部长托马斯·莫德利7日辞职</data>
+        <data key="time">2020-04-07</data>
+        <data key="person">[孙丁徐剑梅邓仙]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[综述, 疫情, 困扰, 海军, 航母, 风波, 波及, 高层, 记者, 孙丁, 徐剑梅, 邓仙, 代理, 部长, 辞职]</data>
+      </node>
+      <node id="{影响}_e" labels=":EVENTNODE">
+        <data key="trigger">[{下属}, {影响}]</data>
+        <data key="title">18日，美国财政部下属的国家税务局宣布将受疫情影响的部分个人和企业税款申报期限从4月15日延至7月15日</data>
+        <data key="time">2020-04-15</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[美国财政部]</data>
+        <data key="keywords">[美国, 财政部, 下属, 国家, 税务局, 疫情, 影响, 企业, 税款, 申报, 期限]</data>
+      </node>
+      <node id="{持续}_e" labels=":EVENTNODE">
+        <data key="trigger">[{持续}, {超过-城市}, {实施-宵禁}]</data>
+        <data key="title">反种族歧视抗议潮5月30日仍在多地持续，洛杉矶、费城、亚特兰大、芝加哥等超过20个城市实施宵禁</data>
+        <data key="time">2020-05-30</data>
+        <data key="person">[]</data>
+        <data key="location">[费城, 亚特兰大, 芝加哥, 洛杉矶]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[种族歧视, 抗议, 持续, 超过, 城市, 实施, 宵禁]</data>
+      </node>
+      <node id="{确认-提供}_e" labels=":EVENTNODE">
+        <data key="trigger">[{确认-提供}, {提供}, {抗击-疫情}]</data>
+        <data key="title">　　新华社莫斯科3月31日电（记者吴刚）俄罗斯总统新闻秘书佩斯科夫3月31日确认，俄罗斯向美国提供了一批抗击新冠肺炎疫情的医疗物资</data>
+        <data key="time">2020-03-31</data>
+        <data key="person">[佩斯科夫, 吴刚]</data>
+        <data key="location">[美国, 莫斯科, 俄罗斯]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 总统, 新闻, 秘书, 确认, 提供, 抗击, 冠肺炎, 疫情, 医疗, 物资]</data>
+      </node>
+      <node id="{覆盖-产品}_e" labels=":EVENTNODE">
+        <data key="trigger">[{豁免}, {覆盖-产品}]</data>
+        <data key="title">　　鲍恩表示，虽然美国政府已于3月10日和12日“悄悄”暂时豁免对中国输美部分医疗产品加征关税，但这只覆盖一小部分紧急需要的医疗产品，应对疫情效果有限</data>
+        <data key="time">2020-03-10</data>
+        <data key="person">[鲍恩]</data>
+        <data key="location">[中国]</data>
+        <data key="organization">[美国政府]</data>
+        <data key="keywords">[美国, 政府, 豁免, 医疗, 产品, 关税, 覆盖, 疫情, 效果]</data>
+      </node>
+      <node id="{包括-指挥官}_e" labels=":EVENTNODE">
+        <data key="trigger">[{确诊-感染}, {筹备-会议}, {包括-指挥官}]</data>
+        <data key="title">    不过就在3月6日于德国威斯巴登举行的“欧洲捍卫者-2020”军事演习筹备会议后，多名欧洲陆军高级指挥官确诊感染新冠肺炎，而此次会议参与者包括美军欧洲司令部陆军司令克里斯托弗·卡沃利中将等来自24个北约成员国和合作伙伴的陆军高级指挥官</data>
+        <data key="time">2020-03-06</data>
+        <data key="person">[]</data>
+        <data key="location">[德国威斯巴登, 欧洲]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[德国, 威斯巴登, 捍卫者, 军事, 演习, 筹备, 会议, 陆军, 指挥官, 确诊, 感染, 新冠, 肺炎, 参与者, 包括, 美军, 司令部, 司令, 中将, 北约, 成员国, 合作, 伙伴]</data>
+      </node>
+      <node id="{下令-关闭}_e" labels=":EVENTNODE">
+        <data key="trigger">[{禁止-出行}, {下令-关闭}]</data>
+        <data key="title">法国3月24日宣布进入为期两个月的“卫生紧急状态”，政府可根据相关法律限制或禁止民众出行、采取隔离措施、限制集会活动、下令临时关闭企业和机构等</data>
+        <data key="time">2020-03-24</data>
+        <data key="person">[]</data>
+        <data key="location">[法国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[为期, 紧急状态, 政府, 相关, 法律, 禁止, 民众, 出行, 隔离, 措施, 集会, 活动, 下令, 关闭, 企业, 机构]</data>
+      </node>
+      <node id="{申请-人数}_e" labels=":EVENTNODE">
+        <data key="trigger">[{申请-人数}, {体验-痛感}, {衰退}]</data>
+        <data key="title">从3月15日至5月23日，短短两个多月，美国首次申请失业救济人数就累计达4080万，工薪一族最早体验到疫情带来的经济衰退的痛感</data>
+        <data key="time">2020-05-23</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[申请, 失业, 救济, 人数, 累计, 工薪, 体验, 疫情, 带来, 经济, 衰退, 痛感]</data>
+      </node>
+      <node id="{停止}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报道-停止}, {停止}, {调派-部队}]</data>
+        <data key="title">俄罗斯卫星通讯社3月16日报道，据美国欧洲司令部消息，考虑到新冠疫情形势，五角大楼已经停止向欧洲调派“欧洲捍卫者”联合演习参演的美军部队</data>
+        <data key="time">2020-03-16</data>
+        <data key="person">[]</data>
+        <data key="location">[美国欧洲, 欧洲, 俄罗斯]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[卫星, 通讯社, 报道, 美国, 司令部, 消息, 冠疫, 情形势, 五角大楼, 停止, 调派, 捍卫者, 联合, 演习, 参演, 美军, 部队]</data>
+      </node>
+      <node id="{收到}_e" labels=":EVENTNODE">
+        <data key="trigger">[{停止-亚裔}, {统计}, {收到}]</data>
+        <data key="title">据旧金山州立大学“停止仇恨亚裔”网站统计，从3月19日起的6周里，这一网站收到来自美国各地逾1700份针对亚裔的种族歧视报告</data>
+        <data key="time">2020-03-19</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[旧金山州立大学]</data>
+        <data key="keywords">[旧金山, 大学, 停止, 仇恨, 亚裔, 网站, 统计, 收到, 种族歧视, 报告]</data>
+      </node>
+      <node id="{显示-超过}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发布}, {显示-超过}, {超过}]</data>
+        <data key="title">　　美国约翰斯·霍普金斯大学5月30日发布的数据显示，截至美国东部时间5月30日16时32分，美国累计确诊病例超过176.4万例，累计死亡病例逾10.3万例，是全球疫情最严重国家</data>
+        <data key="time">2020-05-30</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[大学, 发布, 数据, 显示, 时间, 累计, 确诊, 病例, 超过, 死亡, 全球, 疫情, 国家]</data>
+      </node>
+      <node id="{取消}_e" labels=":EVENTNODE">
+        <data key="trigger">[{定于}, {取消}]</data>
+        <data key="title">每年一度的纽约马拉松主办者24日宣布，原定于11月1日举行的纽约马拉松因为新冠疫情而被迫取消</data>
+        <data key="time">2020-11-01</data>
+        <data key="person">[]</data>
+        <data key="location">[纽约]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[一度, 马拉松, 主办者, 定于, 冠疫情, 取消]</data>
+      </node>
+      <node id="{预计-接近}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布-报告}, {预计-接近}, {接近}]</data>
+        <data key="title">劳工部即将于6月5日公布5月份就业报告，市场普遍预计当月失业率可能接近20%</data>
+        <data key="time">2020-06-05</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[劳工部, 公布, 就业, 报告, 市场, 预计, 失业率, 接近]</data>
+      </node>
+      <node id="{多于}_e" labels=":EVENTNODE">
+        <data key="trigger">[{超过-接受}, {意味着-多于}, {多于}]</data>
+        <data key="title">例如，截至3月30日，纽约州平均每10万居民中超过950人接受新冠病毒检测，但在佐治亚州和俄克拉何马州，这一数字仅为127人和43人，这组数字对比意味着，实际感染人数可能多于公布的确诊人数</data>
+        <data key="time">2020-03-30</data>
+        <data key="person">[]</data>
+        <data key="location">[佐治亚州, 俄克拉何马州, 纽约州]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[居民, 超过, 接受, 新冠, 病毒, 检测, 数字, 意味着, 感染, 人数, 多于, 公布, 确诊]</data>
+      </node>
+      <node id="{提供}_e" labels=":EVENTNODE">
+        <data key="trigger">[{介绍-提供}, {统计}, {提供}]</data>
+        <data key="title">　　华春莹在例行记者会上介绍，根据中国海关统计，3月1日至5月5日，中国向美国提供逾66亿只口罩、3.44亿双外科手套、4409万套防护服、675万副护目镜、近7500台呼吸机</data>
+        <data key="time">2020-05-05</data>
+        <data key="person">[华春莹]</data>
+        <data key="location">[美国, 中国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[例行, 记者会, 介绍, 海关, 统计, 提供, 口罩, 外科, 手套, 防护服, 护目镜, 呼吸机]</data>
+      </node>
+      <node id="{推迟-原定}_e" labels=":EVENTNODE">
+        <data key="trigger">[{传播}, {下令-关闭}, {推迟-原定}]</data>
+        <data key="title">　　新华社华盛顿3月16日电（记者孙丁　徐剑梅）为防止新冠病毒传播，美国俄亥俄州16日晚下令关闭该州投票站，推迟原定17日举行的2020年美国总统选举俄亥俄州预选</data>
+        <data key="time">2020-03-16</data>
+        <data key="person">[孙丁]</data>
+        <data key="location">[美国, 华盛顿, 美国俄亥俄州, 俄亥俄州]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 徐剑梅, 病毒, 传播, 下令, 关闭, 投票站, 推迟, 原定, 总统, 选举, 预选]</data>
+      </node>
+      <node id="{停止-调派}_e" labels=":EVENTNODE">
+        <data key="trigger">[{停止-调派}]</data>
+        <data key="title">3月13日起已经停止从美国向欧洲调派部队和装备”</data>
+        <data key="time">2020-03-13</data>
+        <data key="person">[]</data>
+        <data key="location">[美国, 欧洲]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[停止, 调派, 部队, 装备]</data>
+      </node>
+      <node id="{表决}_e" labels=":EVENTNODE">
+        <data key="trigger">[{表决}, {成立-委员会}, {监督}]</data>
+        <data key="title">　　新华社华盛顿4月23日电（记者孙丁　徐剑梅）美国国会众议院23日表决通过成立一特别委员会，以监督联邦政府应对新冠疫情</data>
+        <data key="time">2020-04-23</data>
+        <data key="person">[孙丁徐剑梅]</data>
+        <data key="location">[华盛顿]</data>
+        <data key="organization">[美国国会众议院, 新华社]</data>
+        <data key="keywords">[记者, 孙丁, 徐剑梅, 美国, 国会, 众议院, 表决, 成立, 委员会, 监督, 联邦, 政府, 冠疫情]</data>
+      </node>
+      <node id="{传播}_e" labels=":EVENTNODE">
+        <data key="trigger">[{激增}, {引发-激增}, {执法}, {引发-抗议}, {聚集}, {传播}, {加速-传播}]</data>
+        <data key="title">　　加州大学洛杉矶分校公共卫生学院副院长、流行病学教授张作风认为，有三方面因素引发新冠感染病例激增：一是美国各地自5月26日起因白人警察暴力执法致一名非洲裔男子死亡引发抗议和骚乱，大量人群聚集，加速了新冠病毒传播</data>
+        <data key="time">2020-05-26</data>
+        <data key="person">[张作风]</data>
+        <data key="location">[美国, 非洲]</data>
+        <data key="organization">[加州大学洛杉矶分校公共卫生学院]</data>
+        <data key="keywords">[加州, 大学, 洛杉矶, 分校, 学院, 院长, 流行病学, 教授, 因素, 引发, 新冠, 感染, 病例, 激增, 白人, 警察, 暴力, 执法, 男子, 死亡, 抗议, 骚乱, 人群, 聚集, 加速, 病毒, 传播]</data>
+      </node>
+      <node id="{减少}_e" labels=":EVENTNODE">
+        <data key="trigger">[{提前}, {减少}]</data>
+        <data key="title">而如果能提前两周，即3月1日采取保持社交距离的措施，就可能将死亡和感染病例数分别减少80%以上</data>
+        <data key="time">2020-03-01</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[提前, 社交, 距离, 措施, 死亡, 感染, 病例, 减少]</data>
+      </node>
+      <node id="{复会}_e" labels=":EVENTNODE">
+        <data key="trigger">[{复会}, {质疑}, {增加}]</data>
+        <data key="title">　　霍耶和佩洛西27日宣布众议院将于5月4日复会，但一些议员质疑说，首都华盛顿及周边地区新冠感染病例仍在增加，此时返回并不安全</data>
+        <data key="time">2020-05-04</data>
+        <data key="person">[佩洛西, 霍耶]</data>
+        <data key="location">[华盛顿]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[众议院, 复会, 议员, 质疑, 首都, 周边, 地区, 新冠, 感染, 病例, 增加, 返回]</data>
+      </node>
+      <node id="{检测-病毒}_e" labels=":EVENTNODE">
+        <data key="trigger">[{病逝}, {检测-病毒}]</data>
+        <data key="title">　　该县公共卫生部门在一份声明中表示，法医部门对2月6日和2月17日该县病逝的两名死者进行了尸检，他们的组织样本被送至美国疾控中心，新冠病毒检测结果呈阳性</data>
+        <data key="time">2020-02-17</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[部门, 声明, 法医, 病逝, 死者, 尸检, 组织, 样本, 疾控, 中心, 病毒, 检测, 阳性]</data>
+      </node>
+      <node id="{显示-新增}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报}, {显示-新增}, {新增}, {确诊-病例}, {实施-管制}, {新增}]</data>
+        <data key="title">　　马来西亚卫生部28日通报的新冠疫情数据显示，该国当天新增31例确诊病例，是马来西亚自3月18日实施“行动管制令”以来单日新增病例数新低，也是连续第12天维持在两位数</data>
+        <data key="time">2020-03-18</data>
+        <data key="person">[]</data>
+        <data key="location">[马来西亚]</data>
+        <data key="organization">[马来西亚卫生部]</data>
+        <data key="keywords">[卫生部, 通报, 冠疫情, 数据, 显示, 新增, 确诊, 病例, 实施, 管制]</data>
+      </node>
+      <node id="{研发}_e" labels=":EVENTNODE">
+        <data key="trigger">[{研发}]</data>
+        <data key="title">美国研发的一种新冠病毒疫苗3月16日开始第一阶段临床试验</data>
+        <data key="time">2020-03-16</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[研发, 病毒, 疫苗, 阶段, 临床, 试验]</data>
+      </node>
+      <node id="{发布}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发布}, {显示-超过}, {超过}]</data>
+        <data key="title">　　美国约翰斯·霍普金斯大学5月30日发布的数据显示，截至美国东部时间5月30日16时32分，美国累计确诊病例超过176.4万例，累计死亡病例逾10.3万例，是全球疫情最严重国家</data>
+        <data key="time">2020-05-30</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[大学, 发布, 数据, 显示, 时间, 累计, 确诊, 病例, 超过, 死亡, 全球, 疫情, 国家]</data>
+      </node>
+      <node id="{提交}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报道}, {投票}, {提交}, {延长-法案}, {延长}]</data>
+        <data key="title">　　据法国媒体报道，法国议会9日投票通过政府提交的延长“卫生紧急状态”法案，“卫生紧急状态”将延长至7月10日</data>
+        <data key="time">2020-07-10</data>
+        <data key="person">[]</data>
+        <data key="location">[法国]</data>
+        <data key="organization">[法国议会]</data>
+        <data key="keywords">[媒体, 报道, 议会, 投票, 政府, 提交, 延长, 紧急状态, 法案]</data>
+      </node>
+      <node id="{推迟}_e" labels=":EVENTNODE">
+        <data key="trigger">[{推迟}, {定于}]</data>
+        <data key="title">　　路易斯安那州13日宣布，将原定于4月4日举行的预选推迟至6月举行</data>
+        <data key="time">2020-04-04</data>
+        <data key="person">[]</data>
+        <data key="location">[路易斯安那州]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[定于, 预选, 推迟]</data>
+      </node>
+      <node id="{延长}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报道}, {投票}, {提交}, {延长-法案}, {延长}]</data>
+        <data key="title">　　据法国媒体报道，法国议会9日投票通过政府提交的延长“卫生紧急状态”法案，“卫生紧急状态”将延长至7月10日</data>
+        <data key="time">2020-07-10</data>
+        <data key="person">[]</data>
+        <data key="location">[法国]</data>
+        <data key="organization">[法国议会]</data>
+        <data key="keywords">[媒体, 报道, 议会, 投票, 政府, 提交, 延长, 紧急状态, 法案]</data>
+      </node>
+      <node id="{讨论-调整}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-声明}, {讨论-调整}, {确保-危害}, {健康}]</data>
+        <data key="title">民主党全国委员会2日发表声明说，该党全国代表大会改在8月17日起的一周内举行，民主党将在未来几周内继续讨论如何调整大会方案，以确保不会危害公众健康</data>
+        <data key="time">2020-08-17</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[民主党, 全国, 委员会, 发表, 声明, 代表大会, 讨论, 调整, 大会, 方案, 确保, 危害, 公众]</data>
+      </node>
+      <node id="{新增-超过}_e" labels=":EVENTNODE">
+        <data key="trigger">[{反弹}, {超过}, {新增-超过}]</data>
+        <data key="title">近日美国疫情强烈反弹，6月27日单日新增确诊病例超过4.4万，再创历史新高，这表明美方“甩锅”推责根本没有用</data>
+        <data key="time">2020-06-27</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[疫情, 反弹, 新增, 确诊, 病例, 超过, 历史, 美方, 甩锅, 推责]</data>
+      </node>
+      <node id="{申请-救济}_e" labels=":EVENTNODE">
+        <data key="trigger">[{申请-救济}]</data>
+        <data key="title">　　　　自3月18日以来，将近4300万美国人首次申请失业救济</data>
+        <data key="time">2020-03-18</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[申请, 失业, 救济]</data>
+      </node>
+      <node id="{缓和}_e" labels=":EVENTNODE">
+        <data key="trigger">[{实施-居家令}, {缓和}]</data>
+        <data key="title">实施“居家令”等防疫措施后，死亡病例数量曲线有所缓和，将在4月15日达到单日死亡人数高峰（2214人）</data>
+        <data key="time">2020-04-15</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[实施, 居家令, 防疫, 措施, 死亡, 病例, 数量, 曲线, 缓和, 人数, 高峰]</data>
+      </node>
+      <node id="{解除-职务}_e" labels=":EVENTNODE">
+        <data key="trigger">[{解除-职务}, {创立}, {负责-项目}]</data>
+        <data key="title">　　布莱特4月21日遭解除局长职务，转而负责卫生与公众服务部下属国家卫生研究院新创立的一个公私合作项目</data>
+        <data key="time">2020-04-21</data>
+        <data key="person">[布莱特]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[解除, 局长, 职务, 负责, 公众, 服务部, 下属, 国家, 研究院, 创立, 公私, 合作, 项目]</data>
+      </node>
+      <node id="{创立}_e" labels=":EVENTNODE">
+        <data key="trigger">[{解除-职务}, {创立}, {负责-项目}]</data>
+        <data key="title">　　布莱特4月21日遭解除局长职务，转而负责卫生与公众服务部下属国家卫生研究院新创立的一个公私合作项目</data>
+        <data key="time">2020-04-21</data>
+        <data key="person">[布莱特]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[解除, 局长, 职务, 负责, 公众, 服务部, 下属, 国家, 研究院, 创立, 公私, 合作, 项目]</data>
+      </node>
+      <node id="{覆盖-民众}_e" labels=":EVENTNODE">
+        <data key="trigger">[{显示}, {出台}, {覆盖-民众}]</data>
+        <data key="title">美国有线电视新闻网统计显示，截至3月31日，美国州、县、市等各级政府出台的“居家令”已覆盖2.62亿民众，占美国人口的逾80%</data>
+        <data key="time">2020-03-31</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[有线电视, 新闻网, 统计, 显示, 政府, 出台, 居家, 覆盖, 民众, 人口]</data>
+      </node>
+      <node id="{暂停-邮轮}_e" labels=":EVENTNODE">
+        <data key="trigger">[{暂停-港口}, {同意-延长}, {暂停-邮轮}, {离开-美国}]</data>
+        <data key="title">国际邮轮协会宣布暂停美国港口的邮轮运营，主要邮轮公司已经同意延长暂停邮轮离开美国的规定，直至9月15日</data>
+        <data key="time">2020-09-15</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[国际邮轮协会]</data>
+        <data key="keywords">[国际, 邮轮, 协会, 暂停, 港口, 运营, 公司, 同意, 延长, 离开, 直至]</data>
+      </node>
+      <node id="{遏制}_e" labels=":EVENTNODE">
+        <data key="trigger">[{表达}, {遏制}]</data>
+        <data key="title">2月23日的一次会议上，阿扎和这一部门其他高层对布莱特所提疫情严重后果表达“诧异”，称“美国将能够遏制”新冠病毒传播</data>
+        <data key="time">2020-02-23</data>
+        <data key="person">[布莱特, 阿扎]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[会议, 部门, 高层, 疫情, 后果, 表达, 遏制, 新冠, 病毒, 传播]</data>
+      </node>
+      <node id="{加速-传播}_e" labels=":EVENTNODE">
+        <data key="trigger">[{激增}, {引发-激增}, {执法}, {引发-抗议}, {聚集}, {传播}, {加速-传播}]</data>
+        <data key="title">　　加州大学洛杉矶分校公共卫生学院副院长、流行病学教授张作风认为，有三方面因素引发新冠感染病例激增：一是美国各地自5月26日起因白人警察暴力执法致一名非洲裔男子死亡引发抗议和骚乱，大量人群聚集，加速了新冠病毒传播</data>
+        <data key="time">2020-05-26</data>
+        <data key="person">[张作风]</data>
+        <data key="location">[美国, 非洲]</data>
+        <data key="organization">[加州大学洛杉矶分校公共卫生学院]</data>
+        <data key="keywords">[加州, 大学, 洛杉矶, 分校, 学院, 院长, 流行病学, 教授, 因素, 引发, 新冠, 感染, 病例, 激增, 白人, 警察, 暴力, 执法, 男子, 死亡, 抗议, 骚乱, 人群, 聚集, 加速, 病毒, 传播]</data>
+      </node>
+      <node id="{战胜}_e" labels=":EVENTNODE">
+        <data key="trigger">[{希望-战胜}, {战胜}, {包括-美国}, {抗击-疫情}, {提供-支持}]</data>
+        <data key="title">　　新华社北京5月7日电（记者温馨）外交部发言人华春莹7日表示，中方希望美国人民能够尽快战胜新冠肺炎疫情，将继续尽己所能为包括美国人民在内的世界各国人民抗击疫情提供力所能及的支持和协助</data>
+        <data key="time">2020-05-07</data>
+        <data key="person">[温馨, 华春莹]</data>
+        <data key="location">[美国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 发言人, 春莹, 中方, 希望, 战胜, 新冠, 肺炎, 疫情, 包括, 世界, 抗击, 提供, 力所能及, 支持, 协助]</data>
+      </node>
+      <node id="{实施-管制}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报}, {显示-新增}, {新增}, {确诊-病例}, {实施-管制}, {新增}]</data>
+        <data key="title">　　马来西亚卫生部28日通报的新冠疫情数据显示，该国当天新增31例确诊病例，是马来西亚自3月18日实施“行动管制令”以来单日新增病例数新低，也是连续第12天维持在两位数</data>
+        <data key="time">2020-03-18</data>
+        <data key="person">[]</data>
+        <data key="location">[马来西亚]</data>
+        <data key="organization">[马来西亚卫生部]</data>
+        <data key="keywords">[卫生部, 通报, 冠疫情, 数据, 显示, 新增, 确诊, 病例, 实施, 管制]</data>
+      </node>
+      <node id="{单膝-跪地}_e" labels=":EVENTNODE">
+        <data key="trigger">[{单膝-跪地}, {博得-喝彩}]</data>
+        <data key="title">”纽约市警察局的罗伯特·卡塔尼和3名同事5月31日在抗议者面前单膝跪地，博得现场一片喝彩</data>
+        <data key="time">2020-05-31</data>
+        <data key="person">[]</data>
+        <data key="location">[纽约市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警察局, 同事, 抗议者, 单膝, 跪地, 博得, 现场, 喝彩]</data>
+      </node>
+      <node id="{提供-援助}_e" labels=":EVENTNODE">
+        <data key="trigger">[{提供-援助}, {用于-抗击}]</data>
+        <data key="title">　　2月28日，美国国务卿蓬佩奥称美国已向伊朗提供援助，用于抗击新冠肺炎疫情</data>
+        <data key="time">2020-02-28</data>
+        <data key="person">[蓬佩奥]</data>
+        <data key="location">[美国, 伊朗]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[国务卿, 提供, 援助, 用于, 抗击, 冠肺炎, 疫情]</data>
+      </node>
+      <node id="{发表-讲话}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-讲话}, {介绍-措施}]</data>
+        <data key="title">　　　　法国总理菲利普28日在国民议会发表讲话，介绍法国5月11日后疫情防控新措施以及复工复市复课方案</data>
+        <data key="time">2020-05-11</data>
+        <data key="person">[菲利普]</data>
+        <data key="location">[法国, 复市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[总理, 国民, 议会, 发表, 讲话, 介绍, 疫情, 措施, 复工, 复课, 方案]</data>
+      </node>
+      <node id="{显示}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报道-显示}, {显示}, {面临-危机}]</data>
+        <data key="title">    福布斯新闻网5月7日报道，调查显示，截至4月底，五分之一以上的美国家庭面临食品危机</data>
+        <data key="time">2020-05-07</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[新闻网, 报道, 调查, 显示, 家庭, 面临, 食品, 危机]</data>
+      </node>
+      <node id="{确保-危害}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-声明}, {讨论-调整}, {确保-危害}, {健康}]</data>
+        <data key="title">民主党全国委员会2日发表声明说，该党全国代表大会改在8月17日起的一周内举行，民主党将在未来几周内继续讨论如何调整大会方案，以确保不会危害公众健康</data>
+        <data key="time">2020-08-17</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[民主党, 全国, 委员会, 发表, 声明, 代表大会, 讨论, 调整, 大会, 方案, 确保, 危害, 公众]</data>
+      </node>
+      <node id="{激增}_e" labels=":EVENTNODE">
+        <data key="trigger">[{激增}, {引发-激增}, {执法}, {引发-抗议}, {聚集}, {传播}, {加速-传播}]</data>
+        <data key="title">　　加州大学洛杉矶分校公共卫生学院副院长、流行病学教授张作风认为，有三方面因素引发新冠感染病例激增：一是美国各地自5月26日起因白人警察暴力执法致一名非洲裔男子死亡引发抗议和骚乱，大量人群聚集，加速了新冠病毒传播</data>
+        <data key="time">2020-05-26</data>
+        <data key="person">[张作风]</data>
+        <data key="location">[美国, 非洲]</data>
+        <data key="organization">[加州大学洛杉矶分校公共卫生学院]</data>
+        <data key="keywords">[加州, 大学, 洛杉矶, 分校, 学院, 院长, 流行病学, 教授, 因素, 引发, 新冠, 感染, 病例, 激增, 白人, 警察, 暴力, 执法, 男子, 死亡, 抗议, 骚乱, 人群, 聚集, 加速, 病毒, 传播]</data>
+      </node>
+      <node id="{笼罩-美国}_e" labels=":EVENTNODE">
+        <data key="trigger">[{笼罩-美国}]</data>
+        <data key="title">　　新华社华盛顿5月27日电（美国经济笔记）疫情笼罩美国</data>
+        <data key="time">2020-05-27</data>
+        <data key="person">[]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[经济, 笔记, 疫情, 笼罩]</data>
+      </node>
+      <node id="{离开-美国}_e" labels=":EVENTNODE">
+        <data key="trigger">[{暂停-港口}, {同意-延长}, {暂停-邮轮}, {离开-美国}]</data>
+        <data key="title">国际邮轮协会宣布暂停美国港口的邮轮运营，主要邮轮公司已经同意延长暂停邮轮离开美国的规定，直至9月15日</data>
+        <data key="time">2020-09-15</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[国际邮轮协会]</data>
+        <data key="keywords">[国际, 邮轮, 协会, 暂停, 港口, 运营, 公司, 同意, 延长, 离开, 直至]</data>
+      </node>
+      <node id="{预测}_e" labels=":EVENTNODE">
+        <data key="trigger">[{预测}]</data>
+        <data key="title">而华盛顿大学的模型则预测到10月1日死亡病例可能高达17.9万例</data>
+        <data key="time">2020-10-01</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[华盛顿大学]</data>
+        <data key="keywords">[华盛顿, 大学, 模型, 预测, 死亡, 病例]</data>
+      </node>
+      <node id="{困扰}_e" labels=":EVENTNODE">
+        <data key="trigger">[{综述-困扰}, {困扰}, {波及}, {辞职}]</data>
+        <data key="title">　　新华社华盛顿4月7日电综述：疫情困扰美国海军　航母风波波及高层　　新华社记者孙丁　徐剑梅　邓仙来　　美国代理海军部长托马斯·莫德利7日辞职</data>
+        <data key="time">2020-04-07</data>
+        <data key="person">[孙丁徐剑梅邓仙]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[综述, 疫情, 困扰, 海军, 航母, 风波, 波及, 高层, 记者, 孙丁, 徐剑梅, 邓仙, 代理, 部长, 辞职]</data>
+      </node>
+      <node id="{解除}_e" labels=":EVENTNODE">
+        <data key="trigger">[{接受-采访}, {采访}, {解除}]</data>
+        <data key="title">　　美国食品和药物管理局局长哈恩接受美国广播公司采访时表示，对5月1日开始解除限制措施这个时间点“抱有希望”，但目前下定论“为时尚早”</data>
+        <data key="time">2020-05-01</data>
+        <data key="person">[哈恩]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[美国广播公司]</data>
+        <data key="keywords">[食品, 药物, 管理局, 局长, 接受, 广播, 公司, 采访, 解除, 措施, 时间点, 希望, 定论, 为时]</data>
+      </node>
+      <node id="{发现-病毒}_e" labels=":EVENTNODE">
+        <data key="trigger">[{刊文}, {收到-通知}, {发现-病毒}]</data>
+        <data key="title">《今日美国报》刊文称：“早在1月3日，美国政府就收到了第一份关于发现新病毒的正式通知</data>
+        <data key="time">2020-01-03</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[美国政府]</data>
+        <data key="keywords">[刊文, 政府, 收到, 发现, 病毒, 通知]</data>
+      </node>
+      <node id="{新增}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报}, {显示-新增}, {新增}, {确诊-病例}, {实施-管制}, {新增}]</data>
+        <data key="title">　　马来西亚卫生部28日通报的新冠疫情数据显示，该国当天新增31例确诊病例，是马来西亚自3月18日实施“行动管制令”以来单日新增病例数新低，也是连续第12天维持在两位数</data>
+        <data key="time">2020-03-18</data>
+        <data key="person">[]</data>
+        <data key="location">[马来西亚]</data>
+        <data key="organization">[马来西亚卫生部]</data>
+        <data key="keywords">[卫生部, 通报, 冠疫情, 数据, 显示, 新增, 确诊, 病例, 实施, 管制]</data>
+      </node>
+      <node id="{捐赠-药物}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发布-氯喹}, {捐赠-药物}, {用于-治疗}, {感染-病毒}]</data>
+        <data key="title">美药管局3月29日发布氯喹和羟氯喹类药物的紧急使用授权，允许向国家战略储备库捐赠这类药物，在有医生处方的前提下用于治疗感染新冠病毒的青少年和成年住院患者</data>
+        <data key="time">2020-03-29</data>
+        <data key="person">[]</data>
+        <data key="location">[药管局]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[发布, 氯喹, 羟氯喹类, 药物, 授权, 国家, 战略, 储备库, 捐赠, 医生, 处方, 前提, 用于, 治疗, 感染, 新冠, 病毒, 青少年, 住院, 患者]</data>
+      </node>
+      <node id="{抗议-示威}_e" labels=":EVENTNODE">
+        <data key="trigger">[{执法}, {抗议-示威}, {蔓延-全境}]</data>
+        <data key="title">　　新华社华盛顿6月2日电（记者谭晶晶）连日来，由白人警察暴力执法致一名非洲裔男子死亡引发的抗议示威和骚乱蔓延美国全境</data>
+        <data key="time">2020-06-02</data>
+        <data key="person">[谭晶晶]</data>
+        <data key="location">[美国, 华盛顿, 非洲]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 白人, 警察, 暴力, 执法, 男子, 死亡, 引发, 抗议, 示威, 骚乱, 蔓延, 全境]</data>
+      </node>
+      <node id="{妨碍}_e" labels=":EVENTNODE">
+        <data key="trigger">[{致信-领导人}, {妨碍}, {谴责-妨碍}, {努力}]</data>
+        <data key="title">　　新华社德黑兰3月14日电（记者陈霖）伊朗总统哈桑·鲁哈尼日前致信多国领导人，谴责美国持续制裁严重妨碍伊朗抗击新冠肺炎疫情努力，是对伊朗人民的集体惩罚</data>
+        <data key="time">2020-03-14</data>
+        <data key="person">[陈霖]</data>
+        <data key="location">[美国, 伊朗, 德黑兰]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 总统, 致信, 领导人, 谴责, 持续, 制裁, 妨碍, 抗击, 冠肺炎, 疫情, 集体, 惩罚]</data>
+      </node>
+      <node id="{创下-跌幅}_e" labels=":EVENTNODE">
+        <data key="trigger">[{触发-机制}, {超过}, {创下-跌幅}]</data>
+        <data key="title">　　新华社北京3月17日电　　　新华社记者徐超　　美国股市16日再次触发熔断机制，收盘时主要指数均暴跌超过11%，其中道琼斯工业平均指数创下1987年“黑色星期一”以来的最大单日跌幅</data>
+        <data key="time">2020-03-17</data>
+        <data key="person">[徐超, 琼斯]</data>
+        <data key="location">[美国, 北京]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 股市, 触发, 熔断, 机制, 收盘, 指数, 暴跌, 超过, 工业, 创下, 黑色, 跌幅]</data>
+      </node>
+      <node id="{参加}_e" labels=":EVENTNODE">
+        <data key="trigger">[{参加}, {举办}, {感谢-人士}, {抗击-疫情}]</data>
+        <data key="title">　　新华社洛杉矶2月25日电（记者黄恒）中国驻洛杉矶总领事张平24日在参加美国洛杉矶县举办的新冠肺炎疫情媒体说明会上，感谢加利福尼亚州等地各界人士及当地民众对中国抗击疫情给予的支持和帮助</data>
+        <data key="time">2020-02-25</data>
+        <data key="person">[张平, 黄恒]</data>
+        <data key="location">[美国洛杉矶县, 加利福尼亚州, 中国, 洛杉矶]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 总领事, 参加, 美国, 洛杉矶县, 举办, 冠肺炎, 疫情, 媒体, 感谢, 人士, 民众, 抗击, 给予, 支持]</data>
+      </node>
+      <node id="{感谢-人士}_e" labels=":EVENTNODE">
+        <data key="trigger">[{参加}, {举办}, {感谢-人士}, {抗击-疫情}]</data>
+        <data key="title">　　新华社洛杉矶2月25日电（记者黄恒）中国驻洛杉矶总领事张平24日在参加美国洛杉矶县举办的新冠肺炎疫情媒体说明会上，感谢加利福尼亚州等地各界人士及当地民众对中国抗击疫情给予的支持和帮助</data>
+        <data key="time">2020-02-25</data>
+        <data key="person">[张平, 黄恒]</data>
+        <data key="location">[美国洛杉矶县, 加利福尼亚州, 中国, 洛杉矶]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 总领事, 参加, 美国, 洛杉矶县, 举办, 冠肺炎, 疫情, 媒体, 感谢, 人士, 民众, 抗击, 给予, 支持]</data>
+      </node>
+      <node id="{介绍-提供}_e" labels=":EVENTNODE">
+        <data key="trigger">[{介绍-提供}, {统计}, {提供}]</data>
+        <data key="title">　　华春莹在例行记者会上介绍，根据中国海关统计，3月1日至5月5日，中国向美国提供逾66亿只口罩、3.44亿双外科手套、4409万套防护服、675万副护目镜、近7500台呼吸机</data>
+        <data key="time">2020-03-01</data>
+        <data key="person">[华春莹]</data>
+        <data key="location">[美国, 中国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[例行, 记者会, 介绍, 海关, 统计, 提供, 口罩, 外科, 手套, 防护服, 护目镜, 呼吸机]</data>
+      </node>
+      <node id="{选举}_e" labels=":EVENTNODE">
+        <data key="trigger">[{选举}]</data>
+        <data key="title">　　美国总统选举四年一度，2020年总统选举定于11月3日举行</data>
+        <data key="time">2020-11-03</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[总统, 选举, 定于]</data>
+      </node>
+      <node id="{延长-期限}_e" labels=":EVENTNODE">
+        <data key="trigger">[{下属}, {延长-期限}, {影响}]</data>
+        <data key="title">　　新华社华盛顿3月20日电（记者熊茂伶）美国财政部长姆努钦20日表示，财政部下属的国家税务局将延长受新冠肺炎疫情影响的部分个人和企业税款申报期限，从4月15日延至7月15日</data>
+        <data key="time">2020-03-20</data>
+        <data key="person">[熊茂伶, 姆努钦]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[财政部, 新华社]</data>
+        <data key="keywords">[记者, 财政部长, 下属, 国家, 税务局, 延长, 新冠, 肺炎, 疫情, 影响, 企业, 税款, 申报, 期限]</data>
+      </node>
+      <node id="{隐瞒-疫情}_e" labels=":EVENTNODE">
+        <data key="trigger">[{温馨}, {隐瞒-疫情}, {至上}, {至上}, {承诺}, {发达}]</data>
+        <data key="title">　　新华社北京6月29日电（记者温馨、成欣）针对美国国务卿蓬佩奥近日再次诬称中方隐瞒新冠肺炎疫情，并称这与中方“坚持人民至上、生命至上”的承诺不符，外交部发言人赵立坚29日说，美国作为全球医疗技术最发达、最成熟的国家，应对疫情烂至如此程度，既让人费解，也令人深思</data>
+        <data key="time">2020-06-29</data>
+        <data key="person">[蓬佩奥, 赵立坚, 成欣]</data>
+        <data key="location">[美国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 国务卿, 中方, 隐瞒, 新冠, 肺炎, 疫情, 至上, 生命, 承诺, 发言人, 全球, 医疗, 技术, 国家, 程度, 深思]</data>
+      </node>
+      <node id="{安检}_e" labels=":EVENTNODE">
+        <data key="trigger">[{显示-安检}, {安检}, {下降}]</data>
+        <data key="title">　　美国运输安全管理局的数据显示，今年5月22日全美各地机场共安检35万人次，与去年同期相比下降约90%</data>
+        <data key="time">2020-05-22</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[运输, 管理局, 数据, 显示, 机场, 安检, 相比, 下降]</data>
+      </node>
+      <node id="{投票}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报道}, {投票}, {提交}, {延长-法案}, {延长}]</data>
+        <data key="title">　　据法国媒体报道，法国议会9日投票通过政府提交的延长“卫生紧急状态”法案，“卫生紧急状态”将延长至7月10日</data>
+        <data key="time">2020-07-10</data>
+        <data key="person">[]</data>
+        <data key="location">[法国]</data>
+        <data key="organization">[法国议会]</data>
+        <data key="keywords">[媒体, 报道, 议会, 投票, 政府, 提交, 延长, 紧急状态, 法案]</data>
+      </node>
+      <node id="{发布-显示}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发布-显示}, {显示}, {增长}]</data>
+        <data key="title">　　美国政策研究所4日发布一份报告显示，该国亿万富翁财富总和如今达3.5万亿美元，比3月18日的数据增长5650亿美元</data>
+        <data key="time">2020-03-18</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[美国政策研究所]</data>
+        <data key="keywords">[美国, 政策, 研究所, 发布, 报告, 显示, 富翁, 财富, 总和, 数据, 增长]</data>
+      </node>
+      <node id="{参加-示威}_e" labels=":EVENTNODE">
+        <data key="trigger">[{提醒-示威者}, {参加-示威}, {接受-检测}]</data>
+        <data key="title">　　　　亚特兰大市长凯莎·兰斯·博顿斯5月30日晚提醒示威者：“如果你昨晚参加示威，可能需要本周接受新冠病毒检测</data>
+        <data key="time">2020-05-30</data>
+        <data key="person">[]</data>
+        <data key="location">[亚特兰大]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[市长, 提醒, 示威者, 参加, 示威, 接受, 新冠, 病毒, 检测]</data>
+      </node>
+      <node id="{辞职}_e" labels=":EVENTNODE">
+        <data key="trigger">[{综述-困扰}, {困扰}, {波及}, {辞职}]</data>
+        <data key="title">　　新华社华盛顿4月7日电综述：疫情困扰美国海军　航母风波波及高层　　新华社记者孙丁　徐剑梅　邓仙来　　美国代理海军部长托马斯·莫德利7日辞职</data>
+        <data key="time">2020-04-07</data>
+        <data key="person">[孙丁徐剑梅邓仙]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[综述, 疫情, 困扰, 海军, 航母, 风波, 波及, 高层, 记者, 孙丁, 徐剑梅, 邓仙, 代理, 部长, 辞职]</data>
+      </node>
+      <node id="{超过}_e" labels=":EVENTNODE">
+        <data key="trigger">[{反弹}, {超过}, {新增-超过}]</data>
+        <data key="title">近日美国疫情强烈反弹，6月27日单日新增确诊病例超过4.4万，再创历史新高，这表明美方“甩锅”推责根本没有用</data>
+        <data key="time">2020-06-27</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[疫情, 反弹, 新增, 确诊, 病例, 超过, 历史, 美方, 甩锅, 推责]</data>
+      </node>
+      <node id="{超过-城市}_e" labels=":EVENTNODE">
+        <data key="trigger">[{持续}, {超过-城市}, {实施-宵禁}]</data>
+        <data key="title">反种族歧视抗议潮5月30日仍在多地持续，洛杉矶、费城、亚特兰大、芝加哥等超过20个城市实施宵禁</data>
+        <data key="time">2020-05-30</data>
+        <data key="person">[]</data>
+        <data key="location">[费城, 亚特兰大, 芝加哥, 洛杉矶]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[种族歧视, 抗议, 持续, 超过, 城市, 实施, 宵禁]</data>
+      </node>
+      <node id="{停顿}_e" labels=":EVENTNODE">
+        <data key="trigger">[{如期而至}, {停顿}]</data>
+        <data key="title">　　新华社休斯敦4月20日电 　　新华社记者高路　　春天的脚步如期而至，人们的生活却因新冠疫情而停顿下来</data>
+        <data key="time">2020-04-20</data>
+        <data key="person">[高路]</data>
+        <data key="location">[休斯敦]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 脚步, 如期而至, 生活, 冠疫情, 停顿]</data>
+      </node>
+      <node id="{实施-宵禁}_e" labels=":EVENTNODE">
+        <data key="trigger">[{持续}, {超过-城市}, {实施-宵禁}]</data>
+        <data key="title">反种族歧视抗议潮5月30日仍在多地持续，洛杉矶、费城、亚特兰大、芝加哥等超过20个城市实施宵禁</data>
+        <data key="time">2020-05-30</data>
+        <data key="person">[]</data>
+        <data key="location">[费城, 亚特兰大, 芝加哥, 洛杉矶]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[种族歧视, 抗议, 持续, 超过, 城市, 实施, 宵禁]</data>
+      </node>
+      <node id="{恢复}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-恢复}, {恢复}, {增加}]</data>
+        <data key="title">　　报告发现，社交媒体“脸书”公司股价同样迅速恢复至高点，创始人马克·扎克伯格资产比3月18日增加301亿美元</data>
+        <data key="time">2020-03-18</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[报告, 发现, 社交, 媒体, 脸书, 公司, 股价, 恢复, 至高点, 创始人, 资产, 增加]</data>
+      </node>
+      <node id="{筹备-会议}_e" labels=":EVENTNODE">
+        <data key="trigger">[{确诊-感染}, {筹备-会议}, {包括-指挥官}]</data>
+        <data key="title">    不过就在3月6日于德国威斯巴登举行的“欧洲捍卫者-2020”军事演习筹备会议后，多名欧洲陆军高级指挥官确诊感染新冠肺炎，而此次会议参与者包括美军欧洲司令部陆军司令克里斯托弗·卡沃利中将等来自24个北约成员国和合作伙伴的陆军高级指挥官</data>
+        <data key="time">2020-03-06</data>
+        <data key="person">[]</data>
+        <data key="location">[德国威斯巴登, 欧洲]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[德国, 威斯巴登, 捍卫者, 军事, 演习, 筹备, 会议, 陆军, 指挥官, 确诊, 感染, 新冠, 肺炎, 参与者, 包括, 美军, 司令部, 司令, 中将, 北约, 成员国, 合作, 伙伴]</data>
+      </node>
+      <node id="{关闭-边境}_e" labels=":EVENTNODE">
+        <data key="trigger">[{关闭-边境}]</data>
+        <data key="title">2月2日美国对中国关闭边境时，美国官方统计确诊病例只有11例</data>
+        <data key="time">2020-02-02</data>
+        <data key="person">[]</data>
+        <data key="location">[美国, 中国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[关闭, 边境, 官方, 统计, 确诊, 病例]</data>
+      </node>
+      <node id="{显示-安检}_e" labels=":EVENTNODE">
+        <data key="trigger">[{显示-安检}, {安检}, {下降}]</data>
+        <data key="title">　　美国运输安全管理局的数据显示，今年5月22日全美各地机场共安检35万人次，与去年同期相比下降约90%</data>
+        <data key="time">2020-05-22</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[运输, 管理局, 数据, 显示, 机场, 安检, 相比, 下降]</data>
+      </node>
+      <node id="{处于-中心}_e" labels=":EVENTNODE">
+        <data key="trigger">[{处于-中心}]</data>
+        <data key="title">　　更让人担心的是各州都已陆续重启经济，就连处于疫情中心的纽约市也将重启日期初步定在了6月8日</data>
+        <data key="time">2020-06-08</data>
+        <data key="person">[]</data>
+        <data key="location">[纽约市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[担心, 经济, 处于, 疫情, 中心, 日期]</data>
+      </node>
+      <node id="{执法}_e" labels=":EVENTNODE">
+        <data key="trigger">[{激增}, {引发-激增}, {执法}, {引发-抗议}, {聚集}, {传播}, {加速-传播}]</data>
+        <data key="title">　　加州大学洛杉矶分校公共卫生学院副院长、流行病学教授张作风认为，有三方面因素引发新冠感染病例激增：一是美国各地自5月26日起因白人警察暴力执法致一名非洲裔男子死亡引发抗议和骚乱，大量人群聚集，加速了新冠病毒传播</data>
+        <data key="time">2020-05-26</data>
+        <data key="person">[张作风]</data>
+        <data key="location">[美国, 非洲]</data>
+        <data key="organization">[加州大学洛杉矶分校公共卫生学院]</data>
+        <data key="keywords">[加州, 大学, 洛杉矶, 分校, 学院, 院长, 流行病学, 教授, 因素, 引发, 新冠, 感染, 病例, 激增, 白人, 警察, 暴力, 执法, 男子, 死亡, 抗议, 骚乱, 人群, 聚集, 加速, 病毒, 传播]</data>
+      </node>
+      <node id="{质疑}_e" labels=":EVENTNODE">
+        <data key="trigger">[{复会}, {质疑}, {增加}]</data>
+        <data key="title">　　霍耶和佩洛西27日宣布众议院将于5月4日复会，但一些议员质疑说，首都华盛顿及周边地区新冠感染病例仍在增加，此时返回并不安全</data>
+        <data key="time">2020-05-04</data>
+        <data key="person">[佩洛西, 霍耶]</data>
+        <data key="location">[华盛顿]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[众议院, 复会, 议员, 质疑, 首都, 周边, 地区, 新冠, 感染, 病例, 增加, 返回]</data>
+      </node>
+      <node id="{确诊-感染}_e" labels=":EVENTNODE">
+        <data key="trigger">[{确诊-感染}, {筹备-会议}, {包括-指挥官}]</data>
+        <data key="title">    不过就在3月6日于德国威斯巴登举行的“欧洲捍卫者-2020”军事演习筹备会议后，多名欧洲陆军高级指挥官确诊感染新冠肺炎，而此次会议参与者包括美军欧洲司令部陆军司令克里斯托弗·卡沃利中将等来自24个北约成员国和合作伙伴的陆军高级指挥官</data>
+        <data key="time">2020-03-06</data>
+        <data key="person">[]</data>
+        <data key="location">[德国威斯巴登, 欧洲]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[德国, 威斯巴登, 捍卫者, 军事, 演习, 筹备, 会议, 陆军, 指挥官, 确诊, 感染, 新冠, 肺炎, 参与者, 包括, 美军, 司令部, 司令, 中将, 北约, 成员国, 合作, 伙伴]</data>
+      </node>
+      <node id="{加大}_e" labels=":EVENTNODE">
+        <data key="trigger">[{谴责-加大}, {加大}]</data>
+        <data key="title">　　新华社德黑兰3月8日电（记者陈霖）伊朗外长扎里夫7日谴责美国在新冠肺炎疫情期间加大对伊制裁</data>
+        <data key="time">2020-03-08</data>
+        <data key="person">[陈霖, 扎里夫]</data>
+        <data key="location">[美国, 伊朗, 德黑兰]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 外长, 谴责, 冠肺炎, 疫情, 加大, 制裁]</data>
+      </node>
+      <node id="{下属}_e" labels=":EVENTNODE">
+        <data key="trigger">[{下属}, {影响}]</data>
+        <data key="title">18日，美国财政部下属的国家税务局宣布将受疫情影响的部分个人和企业税款申报期限从4月15日延至7月15日</data>
+        <data key="time">2020-04-15</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[美国财政部]</data>
+        <data key="keywords">[美国, 财政部, 下属, 国家, 税务局, 疫情, 影响, 企业, 税款, 申报, 期限]</data>
+      </node>
+      <node id="{提前}_e" labels=":EVENTNODE">
+        <data key="trigger">[{提前}, {减少}]</data>
+        <data key="title">而如果能提前两周，即3月1日采取保持社交距离的措施，就可能将死亡和感染病例数分别减少80%以上</data>
+        <data key="time">2020-03-01</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[提前, 社交, 距离, 措施, 死亡, 感染, 病例, 减少]</data>
+      </node>
+      <node id="{充满-挑战}_e" labels=":EVENTNODE">
+        <data key="trigger">[{充满-挑战}, {表达}]</data>
+        <data key="title">　　新华社华盛顿2月22日电　　　新华社记者许缘　邓仙来　　“在这个充满挑战的时刻，全世界都在向中国表达爱与支持</data>
+        <data key="time">2020-02-22</data>
+        <data key="person">[许缘邓仙]</data>
+        <data key="location">[华盛顿, 中国]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 许缘, 邓仙, 充满, 挑战, 时刻, 全世界, 表达, 支持]</data>
+      </node>
+      <node id="{下降}_e" labels=":EVENTNODE">
+        <data key="trigger">[{显示-安检}, {安检}, {下降}]</data>
+        <data key="title">　　美国运输安全管理局的数据显示，今年5月22日全美各地机场共安检35万人次，与去年同期相比下降约90%</data>
+        <data key="time">2020-05-22</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[运输, 管理局, 数据, 显示, 机场, 安检, 相比, 下降]</data>
+      </node>
+      <node id="{确诊-病例}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报}, {显示-新增}, {新增}, {确诊-病例}, {实施-管制}, {新增}]</data>
+        <data key="title">　　马来西亚卫生部28日通报的新冠疫情数据显示，该国当天新增31例确诊病例，是马来西亚自3月18日实施“行动管制令”以来单日新增病例数新低，也是连续第12天维持在两位数</data>
+        <data key="time">2020-03-18</data>
+        <data key="person">[]</data>
+        <data key="location">[马来西亚]</data>
+        <data key="organization">[马来西亚卫生部]</data>
+        <data key="keywords">[卫生部, 通报, 冠疫情, 数据, 显示, 新增, 确诊, 病例, 实施, 管制]</data>
+      </node>
+      <node id="{增加}_e" labels=":EVENTNODE">
+        <data key="trigger">[{上涨}, {增加}]</data>
+        <data key="title">企业股票价格对比3月中旬的低点上涨47%，首席执行官杰夫·贝索斯个人资产比3月18日增加362亿美元</data>
+        <data key="time">2020-03-18</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[企业, 股票, 价格, 低点, 上涨, 首席, 执行官, 资产, 增加]</data>
+      </node>
+      <node id="{下滑}_e" labels=":EVENTNODE">
+        <data key="trigger">[{超过-企业}, {显示-提供}, {提供}, {下滑}]</data>
+        <data key="title">　　代表美国超过50万家餐饮企业的全国餐馆业协会的调查显示，3月1日至22日，美国各地有54%的受访餐厅不再提供店内用餐服务，营业额因此下滑47%</data>
+        <data key="time">2020-03-01</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[全国餐馆业协会]</data>
+        <data key="keywords">[代表, 超过, 餐饮, 企业, 全国, 餐馆, 协会, 调查, 显示, 受访, 餐厅, 提供, 用餐, 服务, 营业额, 下滑]</data>
+      </node>
+      <node id="{定于}_e" labels=":EVENTNODE">
+        <data key="trigger">[{定于}, {取消}]</data>
+        <data key="title">每年一度的纽约马拉松主办者24日宣布，原定于11月1日举行的纽约马拉松因为新冠疫情而被迫取消</data>
+        <data key="time">2020-11-01</data>
+        <data key="person">[]</data>
+        <data key="location">[纽约]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[一度, 马拉松, 主办者, 定于, 冠疫情, 取消]</data>
+      </node>
+      <node id="{开放-活动}_e" labels=":EVENTNODE">
+        <data key="trigger">[{开放-活动}, {严峻}, {消散}]</data>
+        <data key="title">　　新华社记者徐剑梅　孙丁　邓仙来　　截至5月20日，全美50州和首都华盛顿都不同程度地重新开放经济活动，但新冠疫情依然严峻，死亡人数继续攀升，美国民众的紧张情绪并未消散</data>
+        <data key="time">2020-05-20</data>
+        <data key="person">[徐剑梅孙丁邓仙]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 徐剑梅, 孙丁, 邓仙, 首都, 程度, 开放, 经济, 活动, 冠疫情, 死亡, 人数, 攀升, 民众, 情绪, 消散]</data>
+      </node>
+      <node id="{发表-调查}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-调查}, {收到}, {流行}]</data>
+        <data key="title">《华盛顿邮报》日前发表长篇深度调查报道，梳理了1月3日特朗普政府收到中方疫情通知之日起的70天里，美国联邦政府应对疫情的过程，认为在此期间，从白宫椭圆形办公室到美国疾控中心，出现一连串系统性失误，使美国失去减缓新冠病毒大流行的机会</data>
+        <data key="time">2020-01-03</data>
+        <data key="person">[]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[特朗普政府]</data>
+        <data key="keywords">[邮报, 发表, 深度, 调查, 报道, 梳理, 特朗普, 政府, 收到, 中方, 疫情, 通知, 联邦, 过程, 白宫, 椭圆形, 办公室, 疾控, 中心, 一连串, 系统性, 失误, 减缓, 新冠, 病毒, 流行, 机会]</data>
+      </node>
+      <node id="{锁定-集会}_e" labels=":EVENTNODE">
+        <data key="trigger">[{提名}, {锁定-集会}]</data>
+        <data key="title">　　新华社华盛顿6月20日电（记者邓仙来　孙丁）今年3月中旬锁定共和党总统候选人提名的美国总统特朗普20日举行美国新冠疫情暴发后首场竞选集会</data>
+        <data key="time">2020-06-20</data>
+        <data key="person">[邓仙来孙丁, 特朗普]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 邓仙来, 孙丁, 锁定, 共和党, 总统, 候选人, 提名, 冠疫, 情暴发, 竞选, 集会]</data>
+      </node>
+      <node id="{反弹}_e" labels=":EVENTNODE">
+        <data key="trigger">[{反弹}, {超过}, {新增-超过}]</data>
+        <data key="title">近日美国疫情强烈反弹，6月27日单日新增确诊病例超过4.4万，再创历史新高，这表明美方“甩锅”推责根本没有用</data>
+        <data key="time">2020-06-27</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[疫情, 反弹, 新增, 确诊, 病例, 超过, 历史, 美方, 甩锅, 推责]</data>
+      </node>
+      <node id="{参加-演习}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发布-声明}, {报道}, {联合}, {参加-演习}, {减少-规模}]</data>
+        <data key="title">    此前据“防务博客”网站3月11日报道，美国欧洲司令部当天发布声明称，经过对正在开展的“欧洲捍卫者-2020”多国联合军演的活动仔细审查，并考虑到目前新冠病毒疫情形势，美国欧洲司令部决定减少参加该演习的美军人数规模</data>
+        <data key="time">2020-03-11</data>
+        <data key="person">[]</data>
+        <data key="location">[欧洲]</data>
+        <data key="organization">[美国欧洲司令部]</data>
+        <data key="keywords">[防务, 博客, 网站, 报道, 美国, 司令部, 发布, 声明, 捍卫者, 联合, 军演, 活动, 审查, 新冠, 病毒, 疫情, 形势, 减少, 参加, 演习, 美军, 人数, 规模]</data>
+      </node>
+      <node id="{通报}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报}, {显示-新增}, {新增}, {确诊-病例}, {实施-管制}, {新增}]</data>
+        <data key="title">　　马来西亚卫生部28日通报的新冠疫情数据显示，该国当天新增31例确诊病例，是马来西亚自3月18日实施“行动管制令”以来单日新增病例数新低，也是连续第12天维持在两位数</data>
+        <data key="time">2020-03-18</data>
+        <data key="person">[]</data>
+        <data key="location">[马来西亚]</data>
+        <data key="organization">[马来西亚卫生部]</data>
+        <data key="keywords">[卫生部, 通报, 冠疫情, 数据, 显示, 新增, 确诊, 病例, 实施, 管制]</data>
+      </node>
+      <node id="{刷新-记录}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {显示}, {刷新-记录}]</data>
+        <data key="title">　　与此同时，美国劳工部公布的数据显示，截至3月21日的一周内，美国首次申请失业救济人数为328.3万，刷新历史记录</data>
+        <data key="time">2020-03-21</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[劳工部, 公布, 数据, 显示, 申请, 失业, 救济, 人数, 刷新, 历史, 记录]</data>
+      </node>
+      <node id="{公布-报告}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布-报告}, {预计-接近}, {接近}]</data>
+        <data key="title">劳工部即将于6月5日公布5月份就业报告，市场普遍预计当月失业率可能接近20%</data>
+        <data key="time">2020-06-05</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[劳工部, 公布, 就业, 报告, 市场, 预计, 失业率, 接近]</data>
+      </node>
+      <node id="{应对-疫情}_e" labels=":EVENTNODE">
+        <data key="trigger">[{应对-疫情}]</data>
+        <data key="title">3月13日，美国总统特朗普才宣布“国家紧急状态”以应对疫情</data>
+        <data key="time">2020-03-13</data>
+        <data key="person">[特朗普]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[总统, 国家, 紧急状态, 应对, 疫情]</data>
+      </node>
+      <node id="{更新}_e" labels=":EVENTNODE">
+        <data key="trigger">[{更新}, {显示}]</data>
+        <data key="title">　　美国华盛顿大学卫生统计评估研究所近日更新的新冠疫情模型预测结果显示，到10月1日，美国累计新冠死亡病例可能达到约17万例</data>
+        <data key="time">2020-10-01</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[美国华盛顿大学卫生统计评估研究所]</data>
+        <data key="keywords">[华盛顿, 大学, 统计, 评估, 研究所, 更新, 冠疫情, 模型, 预测, 显示, 累计, 新冠, 死亡, 病例]</data>
+      </node>
+      <node id="{陷入}_e" labels=":EVENTNODE">
+        <data key="trigger">[{显示-下降}, {下降}, {预期}, {高于-预期}, {陷入}, {意味着-陷入}]</data>
+        <data key="title">　　美国供应管理学会（ISM）4月1日公布的数据显示，3月份美国制造业PMI环比下降1点至49.1，高于市场预期的45，但跌落至50荣枯线以下，意味着制造业陷入萎缩</data>
+        <data key="time">2020-04-01</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[供应, 管理, 学会, 公布, 数据, 显示, 制造业, 环比, 下降, 高于, 市场, 预期, 跌落, 枯线, 意味着, 陷入, 萎缩]</data>
+      </node>
+      <node id="{上涨}_e" labels=":EVENTNODE">
+        <data key="trigger">[{上涨}, {增加}]</data>
+        <data key="title">企业股票价格对比3月中旬的低点上涨47%，首席执行官杰夫·贝索斯个人资产比3月18日增加362亿美元</data>
+        <data key="time">2020-03-18</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[企业, 股票, 价格, 低点, 上涨, 首席, 执行官, 资产, 增加]</data>
+      </node>
+      <node id="{前往-洛杉矶}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {请求-调派}, {前往-洛杉矶}, {面临}, {缓解-重压}]</data>
+        <data key="title">　　纽瑟姆在当天公布的写给总统特朗普的信件中，请求特朗普立即调派海军医疗船前往洛杉矶的港口驻泊至9月1日，以缓解洛杉矶医疗系统面临的重压</data>
+        <data key="time">2020-09-01</data>
+        <data key="person">[特朗普, 纽瑟姆]</data>
+        <data key="location">[特朗普, 洛杉矶]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[公布, 总统, 信件, 请求, 调派, 海军, 医疗船, 前往, 港口, 缓解, 医疗, 系统, 面临, 重压]</data>
+      </node>
+      <node id="{调派-部队}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报道-停止}, {停止}, {调派-部队}]</data>
+        <data key="title">俄罗斯卫星通讯社3月16日报道，据美国欧洲司令部消息，考虑到新冠疫情形势，五角大楼已经停止向欧洲调派“欧洲捍卫者”联合演习参演的美军部队</data>
+        <data key="time">2020-03-16</data>
+        <data key="person">[]</data>
+        <data key="location">[美国欧洲, 欧洲, 俄罗斯]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[卫星, 通讯社, 报道, 美国, 司令部, 消息, 冠疫, 情形势, 五角大楼, 停止, 调派, 捍卫者, 联合, 演习, 参演, 美军, 部队]</data>
+      </node>
+      <node id="{阵亡-将士}_e" labels=":EVENTNODE">
+        <data key="trigger">[{阵亡-将士}]</data>
+        <data key="title">熊茂伶　　5月25日是美国阵亡将士纪念日，加上纪念日前一个周末的三天假期是美国民众出行游的高峰，通常也是夏季旅游旺季的开端</data>
+        <data key="time">2020-05-25</data>
+        <data key="person">[熊茂伶]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[阵亡, 将士, 纪念日, 民众, 出行, 高峰, 旅游, 旺季, 开端]</data>
+      </node>
+      <node id="{用于-抗击}_e" labels=":EVENTNODE">
+        <data key="trigger">[{提供-援助}, {用于-抗击}]</data>
+        <data key="title">　　2月28日，美国国务卿蓬佩奥称美国已向伊朗提供援助，用于抗击新冠肺炎疫情</data>
+        <data key="time">2020-02-28</data>
+        <data key="person">[蓬佩奥]</data>
+        <data key="location">[美国, 伊朗]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[国务卿, 提供, 援助, 用于, 抗击, 冠肺炎, 疫情]</data>
+      </node>
+      <node id="{突破}_e" labels=":EVENTNODE">
+        <data key="trigger">[{突破}, {超过}]</data>
+        <data key="title">　　新华社华盛顿6月13日电 　　新华社记者谭晶晶　　13日，美国累计新冠确诊病例数已突破207万，累计死亡病例超过11.5万</data>
+        <data key="time">2020-06-13</data>
+        <data key="person">[谭晶晶]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 累计, 诊病, 例数, 突破, 死亡, 病例, 超过]</data>
+      </node>
+      <node id="{接受-采访}_e" labels=":EVENTNODE">
+        <data key="trigger">[{接受-采访}, {采访}, {解除}]</data>
+        <data key="title">　　美国食品和药物管理局局长哈恩接受美国广播公司采访时表示，对5月1日开始解除限制措施这个时间点“抱有希望”，但目前下定论“为时尚早”</data>
+        <data key="time">2020-05-01</data>
+        <data key="person">[哈恩]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[美国广播公司]</data>
+        <data key="keywords">[食品, 药物, 管理局, 局长, 接受, 广播, 公司, 采访, 解除, 措施, 时间点, 希望, 定论, 为时]</data>
+      </node>
+      <node id="{用于-治疗}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发布-氯喹}, {捐赠-药物}, {用于-治疗}, {感染-病毒}]</data>
+        <data key="title">美药管局3月29日发布氯喹和羟氯喹类药物的紧急使用授权，允许向国家战略储备库捐赠这类药物，在有医生处方的前提下用于治疗感染新冠病毒的青少年和成年住院患者</data>
+        <data key="time">2020-03-29</data>
+        <data key="person">[]</data>
+        <data key="location">[药管局]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[发布, 氯喹, 羟氯喹类, 药物, 授权, 国家, 战略, 储备库, 捐赠, 医生, 处方, 前提, 用于, 治疗, 感染, 新冠, 病毒, 青少年, 住院, 患者]</data>
+      </node>
+      <node id="{发布-声明}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发布-声明}, {报道}, {联合}, {参加-演习}, {减少-规模}]</data>
+        <data key="title">    此前据“防务博客”网站3月11日报道，美国欧洲司令部当天发布声明称，经过对正在开展的“欧洲捍卫者-2020”多国联合军演的活动仔细审查，并考虑到目前新冠病毒疫情形势，美国欧洲司令部决定减少参加该演习的美军人数规模</data>
+        <data key="time">2020-03-11</data>
+        <data key="person">[]</data>
+        <data key="location">[欧洲]</data>
+        <data key="organization">[美国欧洲司令部]</data>
+        <data key="keywords">[防务, 博客, 网站, 报道, 美国, 司令部, 发布, 声明, 捍卫者, 联合, 军演, 活动, 审查, 新冠, 病毒, 疫情, 形势, 减少, 参加, 演习, 美军, 人数, 规模]</data>
+      </node>
+      <node id="{声称}_e" labels=":EVENTNODE">
+        <data key="trigger">[{同情-假面}, {声称}]</data>
+        <data key="title">伊朗总统鲁哈尼3月4日在内阁会议上说，美国一直对伊朗进口食品药品进行制裁，如今躲在“同情假面”后声称要帮助伊朗</data>
+        <data key="time">2020-03-04</data>
+        <data key="person">[鲁哈尼]</data>
+        <data key="location">[美国, 伊朗]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[总统, 内阁, 会议, 进口, 食品, 药品, 制裁, 同情, 假面, 声称]</data>
+      </node>
+      <node id="{援引-西班牙}_e" labels=":EVENTNODE">
+        <data key="trigger">[{援引-西班牙}, {报道-刊发}]</data>
+        <data key="title">　　新华社北京4月2日电　《参考消息》2日援引西班牙《世界报》报道刊发题为《欧洲绕开美制裁助伊朗抗疫》文章</data>
+        <data key="time">2020-04-02</data>
+        <data key="person">[]</data>
+        <data key="location">[伊朗, 欧洲, 西班牙, 北京]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[参考, 消息, 援引, 世界, 报道, 刊发, 制裁, 抗疫, 文章]</data>
+      </node>
+      <node id="{动用-生产法}_e" labels=":EVENTNODE">
+        <data key="trigger">[{动用-生产法}, {治疗}]</data>
+        <data key="title">3月27日，特朗普动用《国防生产法》授权，要求通用汽车公司生产治疗新冠肺炎重症患者所需呼吸机</data>
+        <data key="time">2020-03-27</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[通用汽车公司]</data>
+        <data key="keywords">[动用, 国防, 生产法, 授权, 通用, 汽车, 公司, 生产, 治疗, 新冠, 肺炎, 重症, 患者, 呼吸机]</data>
+      </node>
+      <node id="{希望-战胜}_e" labels=":EVENTNODE">
+        <data key="trigger">[{希望-战胜}, {战胜}, {包括-美国}, {抗击-疫情}, {提供-支持}]</data>
+        <data key="title">　　新华社北京5月7日电（记者温馨）外交部发言人华春莹7日表示，中方希望美国人民能够尽快战胜新冠肺炎疫情，将继续尽己所能为包括美国人民在内的世界各国人民抗击疫情提供力所能及的支持和协助</data>
+        <data key="time">2020-05-07</data>
+        <data key="person">[温馨, 华春莹]</data>
+        <data key="location">[美国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 发言人, 春莹, 中方, 希望, 战胜, 新冠, 肺炎, 疫情, 包括, 世界, 抗击, 提供, 力所能及, 支持, 协助]</data>
+      </node>
+      <node id="{遏制-病毒}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遏制-病毒}, {欣赏-中方}]</data>
+        <data key="title">”耿爽说，1月25日，特朗普总统发推特称，中国一直在非常努力地遏制新型冠状病毒，美国非常欣赏中方的努力和透明度</data>
+        <data key="time">2020-01-25</data>
+        <data key="person">[耿爽]</data>
+        <data key="location">[美国, 中国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[总统, 发推特, 遏制, 冠状, 病毒, 欣赏, 中方, 透明度]</data>
+      </node>
+      <node id="{同意-延长}_e" labels=":EVENTNODE">
+        <data key="trigger">[{暂停-港口}, {同意-延长}, {暂停-邮轮}, {离开-美国}]</data>
+        <data key="title">国际邮轮协会宣布暂停美国港口的邮轮运营，主要邮轮公司已经同意延长暂停邮轮离开美国的规定，直至9月15日</data>
+        <data key="time">2020-09-15</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[国际邮轮协会]</data>
+        <data key="keywords">[国际, 邮轮, 协会, 暂停, 港口, 运营, 公司, 同意, 延长, 离开, 直至]</data>
+      </node>
+      <node id="{报道-刊发}_e" labels=":EVENTNODE">
+        <data key="trigger">[{援引-西班牙}, {报道-刊发}]</data>
+        <data key="title">　　新华社北京4月2日电　《参考消息》2日援引西班牙《世界报》报道刊发题为《欧洲绕开美制裁助伊朗抗疫》文章</data>
+        <data key="time">2020-04-02</data>
+        <data key="person">[]</data>
+        <data key="location">[伊朗, 欧洲, 西班牙, 北京]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[参考, 消息, 援引, 世界, 报道, 刊发, 制裁, 抗疫, 文章]</data>
+      </node>
+      <node id="{处高点}_e" labels=":EVENTNODE">
+        <data key="trigger">[{接近}, {死亡}, {处高点}]</data>
+        <data key="title">　　截至4月22日晚，美国确诊病例接近85万，死亡近4.7万人，疫情仍处高点</data>
+        <data key="time">2020-04-22</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[确诊, 病例, 接近, 死亡, 疫情, 处高点]</data>
+      </node>
+      <node id="{获悉}_e" labels=":EVENTNODE">
+        <data key="trigger">[{获悉}, {收到-通报}]</data>
+        <data key="title">　　报道说，美国疾控中心去年12月31日获悉中国出现不明肺炎病例，今年1月3日特朗普政府收到中方首个疫情通报</data>
+        <data key="time">2020-12-31</data>
+        <data key="person">[]</data>
+        <data key="location">[美国, 中国]</data>
+        <data key="organization">[特朗普政府]</data>
+        <data key="keywords">[报道, 疾控, 中心, 获悉, 不明, 肺炎, 病例, 特朗普, 政府, 收到, 中方, 疫情, 通报]</data>
+      </node>
+      <node id="{公布}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {撤回}]</data>
+        <data key="title">6月11日，NFL理事会投票决定撤回针对卡佩尼克的禁令，在推特上公布这一决定时不忘写上一句：“黑人的命也是命</data>
+        <data key="time">2020-06-11</data>
+        <data key="person">[卡佩尼克]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[理事会, 投票, 撤回, 禁令, 推特, 公布, 黑人]</data>
+      </node>
+      <node id="{请求-调派}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {请求-调派}, {前往-洛杉矶}, {面临}, {缓解-重压}]</data>
+        <data key="title">　　纽瑟姆在当天公布的写给总统特朗普的信件中，请求特朗普立即调派海军医疗船前往洛杉矶的港口驻泊至9月1日，以缓解洛杉矶医疗系统面临的重压</data>
+        <data key="time">2020-09-01</data>
+        <data key="person">[特朗普, 纽瑟姆]</data>
+        <data key="location">[特朗普, 洛杉矶]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[公布, 总统, 信件, 请求, 调派, 海军, 医疗船, 前往, 港口, 缓解, 医疗, 系统, 面临, 重压]</data>
+      </node>
+      <node id="{转移}_e" labels=":EVENTNODE">
+        <data key="trigger">[{导致-转移}, {转移}]</data>
+        <data key="title">　　新华社华盛顿3月3日电（记者熊茂伶）部分美国商学界人士近日表示，基于中国在全球价值链中的重要地位，新冠肺炎疫情不会导致供应链从中国转移，新冠肺炎疫情对经济影响是“暂时的”</data>
+        <data key="time">2020-03-03</data>
+        <data key="person">[熊茂伶]</data>
+        <data key="location">[美国, 华盛顿, 中国]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 商学界, 人士, 全球, 价值链, 地位, 冠肺炎, 疫情, 导致, 供应链, 转移, 新冠, 肺炎, 经济, 影响]</data>
+      </node>
+      <node id="{引发-激增}_e" labels=":EVENTNODE">
+        <data key="trigger">[{激增}, {引发-激增}, {执法}, {引发-抗议}, {聚集}, {传播}, {加速-传播}]</data>
+        <data key="title">　　加州大学洛杉矶分校公共卫生学院副院长、流行病学教授张作风认为，有三方面因素引发新冠感染病例激增：一是美国各地自5月26日起因白人警察暴力执法致一名非洲裔男子死亡引发抗议和骚乱，大量人群聚集，加速了新冠病毒传播</data>
+        <data key="time">2020-05-26</data>
+        <data key="person">[张作风]</data>
+        <data key="location">[美国, 非洲]</data>
+        <data key="organization">[加州大学洛杉矶分校公共卫生学院]</data>
+        <data key="keywords">[加州, 大学, 洛杉矶, 分校, 学院, 院长, 流行病学, 教授, 因素, 引发, 新冠, 感染, 病例, 激增, 白人, 警察, 暴力, 执法, 男子, 死亡, 抗议, 骚乱, 人群, 聚集, 加速, 病毒, 传播]</data>
+      </node>
+      <node id="{显示-下降}_e" labels=":EVENTNODE">
+        <data key="trigger">[{显示-下降}, {下降}]</data>
+        <data key="title">　　市场调查公司NPD集团的数据显示，截至3月29日当周，美国餐厅营业额同比下降42%</data>
+        <data key="time">2020-03-29</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[美国餐厅营业额同比]</data>
+        <data key="keywords">[市场, 调查, 公司, 集团, 数据, 显示, 美国, 餐厅, 营业额, 同比, 下降]</data>
+      </node>
+      <node id="{超过-接受}_e" labels=":EVENTNODE">
+        <data key="trigger">[{超过-接受}, {意味着-多于}, {多于}]</data>
+        <data key="title">例如，截至3月30日，纽约州平均每10万居民中超过950人接受新冠病毒检测，但在佐治亚州和俄克拉何马州，这一数字仅为127人和43人，这组数字对比意味着，实际感染人数可能多于公布的确诊人数</data>
+        <data key="time">2020-03-30</data>
+        <data key="person">[]</data>
+        <data key="location">[佐治亚州, 俄克拉何马州, 纽约州]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[居民, 超过, 接受, 新冠, 病毒, 检测, 数字, 意味着, 感染, 人数, 多于, 公布, 确诊]</data>
+      </node>
+      <node id="{应对-蔓延}_e" labels=":EVENTNODE">
+        <data key="trigger">[{应对-蔓延}]</data>
+        <data key="title">　　为应对迅速蔓延的新冠疫情，特朗普于3月13日正式宣布“国家紧急状态”</data>
+        <data key="time">2020-03-13</data>
+        <data key="person">[特朗]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[应对, 蔓延, 冠疫情, 普于, 国家, 紧急状态]</data>
+      </node>
+      <node id="{分享}_e" labels=":EVENTNODE">
+        <data key="trigger">[{分享}, {有助于-抗击}, {抗击}]</data>
+        <data key="title">3月13日，特朗普总统向记者表示，中方分享的数据有助于美方抗击疫情</data>
+        <data key="time">2020-03-13</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[总统, 记者, 中方, 分享, 数据, 有助于, 美方, 抗击, 疫情]</data>
+      </node>
+      <node id="{撤回}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {撤回}]</data>
+        <data key="title">6月11日，NFL理事会投票决定撤回针对卡佩尼克的禁令，在推特上公布这一决定时不忘写上一句：“黑人的命也是命</data>
+        <data key="time">2020-06-11</data>
+        <data key="person">[卡佩尼克]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[理事会, 投票, 撤回, 禁令, 推特, 公布, 黑人]</data>
+      </node>
+      <node id="{收到-通知}_e" labels=":EVENTNODE">
+        <data key="trigger">[{刊文}, {收到-通知}, {发现-病毒}]</data>
+        <data key="title">《今日美国报》刊文称：“早在1月3日，美国政府就收到了第一份关于发现新病毒的正式通知</data>
+        <data key="time">2020-01-03</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[美国政府]</data>
+        <data key="keywords">[刊文, 政府, 收到, 发现, 病毒, 通知]</data>
+      </node>
+      <node id="{负责-项目}_e" labels=":EVENTNODE">
+        <data key="trigger">[{解除-职务}, {创立}, {负责-项目}]</data>
+        <data key="title">　　布莱特4月21日遭解除局长职务，转而负责卫生与公众服务部下属国家卫生研究院新创立的一个公私合作项目</data>
+        <data key="time">2020-04-21</data>
+        <data key="person">[布莱特]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[解除, 局长, 职务, 负责, 公众, 服务部, 下属, 国家, 研究院, 创立, 公私, 合作, 项目]</data>
+      </node>
+      <node id="{显示-提供}_e" labels=":EVENTNODE">
+        <data key="trigger">[{超过-企业}, {显示-提供}, {提供}, {下滑}]</data>
+        <data key="title">　　代表美国超过50万家餐饮企业的全国餐馆业协会的调查显示，3月1日至22日，美国各地有54%的受访餐厅不再提供店内用餐服务，营业额因此下滑47%</data>
+        <data key="time">2020-03-01</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[全国餐馆业协会]</data>
+        <data key="keywords">[代表, 超过, 餐饮, 企业, 全国, 餐馆, 协会, 调查, 显示, 受访, 餐厅, 提供, 用餐, 服务, 营业额, 下滑]</data>
+      </node>
+      <node id="{有助于-抗击}_e" labels=":EVENTNODE">
+        <data key="trigger">[{分享}, {有助于-抗击}, {抗击}]</data>
+        <data key="title">3月13日，特朗普总统向记者表示，中方分享的数据有助于美方抗击疫情</data>
+        <data key="time">2020-03-13</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[总统, 记者, 中方, 分享, 数据, 有助于, 美方, 抗击, 疫情]</data>
+      </node>
+      <node id="{发现-恢复}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-恢复}, {恢复}, {增加}]</data>
+        <data key="title">　　报告发现，社交媒体“脸书”公司股价同样迅速恢复至高点，创始人马克·扎克伯格资产比3月18日增加301亿美元</data>
+        <data key="time">2020-03-18</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[报告, 发现, 社交, 媒体, 脸书, 公司, 股价, 恢复, 至高点, 创始人, 资产, 增加]</data>
+      </node>
+      <node id="{至上}_e" labels=":EVENTNODE">
+        <data key="trigger">[{温馨}, {隐瞒-疫情}, {至上}, {至上}, {承诺}, {发达}]</data>
+        <data key="title">　　新华社北京6月29日电（记者温馨、成欣）针对美国国务卿蓬佩奥近日再次诬称中方隐瞒新冠肺炎疫情，并称这与中方“坚持人民至上、生命至上”的承诺不符，外交部发言人赵立坚29日说，美国作为全球医疗技术最发达、最成熟的国家，应对疫情烂至如此程度，既让人费解，也令人深思</data>
+        <data key="time">2020-06-29</data>
+        <data key="person">[蓬佩奥, 赵立坚, 成欣]</data>
+        <data key="location">[美国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 国务卿, 中方, 隐瞒, 新冠, 肺炎, 疫情, 至上, 生命, 承诺, 发言人, 全球, 医疗, 技术, 国家, 程度, 深思]</data>
+      </node>
+      <node id="{罕见}_e" labels=":EVENTNODE">
+        <data key="trigger">[{机制}, {罕见}]</data>
+        <data key="title">自3月9日以来，纽约股市已三次触发熔断机制，历史罕见</data>
+        <data key="time">2020-03-09</data>
+        <data key="person">[]</data>
+        <data key="location">[纽约]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[股市, 触发, 熔断, 机制, 历史]</data>
+      </node>
+      <node id="{采访}_e" labels=":EVENTNODE">
+        <data key="trigger">[{接受-采访}, {采访}, {解除}]</data>
+        <data key="title">　　美国食品和药物管理局局长哈恩接受美国广播公司采访时表示，对5月1日开始解除限制措施这个时间点“抱有希望”，但目前下定论“为时尚早”</data>
+        <data key="time">2020-05-01</data>
+        <data key="person">[哈恩]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[美国广播公司]</data>
+        <data key="keywords">[食品, 药物, 管理局, 局长, 接受, 广播, 公司, 采访, 解除, 措施, 时间点, 希望, 定论, 为时]</data>
+      </node>
+      <node id="{感染-病毒}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发布-氯喹}, {捐赠-药物}, {用于-治疗}, {感染-病毒}]</data>
+        <data key="title">美药管局3月29日发布氯喹和羟氯喹类药物的紧急使用授权，允许向国家战略储备库捐赠这类药物，在有医生处方的前提下用于治疗感染新冠病毒的青少年和成年住院患者</data>
+        <data key="time">2020-03-29</data>
+        <data key="person">[]</data>
+        <data key="location">[药管局]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[发布, 氯喹, 羟氯喹类, 药物, 授权, 国家, 战略, 储备库, 捐赠, 医生, 处方, 前提, 用于, 治疗, 感染, 新冠, 病毒, 青少年, 住院, 患者]</data>
+      </node>
+      <node id="{生产-呼吸机}_e" labels=":EVENTNODE">
+        <data key="trigger">[{动用-生产法}, {协助}, {指令-协助}, {生产-呼吸机}]</data>
+        <data key="title">4月2日，特朗普再次动用《国防生产法》授权，指令联邦政府协助美国制造商生产呼吸机</data>
+        <data key="time">2020-04-02</data>
+        <data key="person">[特朗普]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[动用, 国防, 生产法, 授权, 指令, 联邦, 政府, 协助, 制造商, 生产, 呼吸机]</data>
+      </node>
+      <node id="{消散}_e" labels=":EVENTNODE">
+        <data key="trigger">[{开放-活动}, {严峻}, {消散}]</data>
+        <data key="title">　　新华社记者徐剑梅　孙丁　邓仙来　　截至5月20日，全美50州和首都华盛顿都不同程度地重新开放经济活动，但新冠疫情依然严峻，死亡人数继续攀升，美国民众的紧张情绪并未消散</data>
+        <data key="time">2020-05-20</data>
+        <data key="person">[徐剑梅孙丁邓仙]</data>
+        <data key="location">[美国, 华盛顿]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 徐剑梅, 孙丁, 邓仙, 首都, 程度, 开放, 经济, 活动, 冠疫情, 死亡, 人数, 攀升, 民众, 情绪, 消散]</data>
+      </node>
+      <node id="{暂停-港口}_e" labels=":EVENTNODE">
+        <data key="trigger">[{暂停-港口}, {同意-延长}, {暂停-邮轮}, {离开-美国}]</data>
+        <data key="title">国际邮轮协会宣布暂停美国港口的邮轮运营，主要邮轮公司已经同意延长暂停邮轮离开美国的规定，直至9月15日</data>
+        <data key="time">2020-09-15</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[国际邮轮协会]</data>
+        <data key="keywords">[国际, 邮轮, 协会, 暂停, 港口, 运营, 公司, 同意, 延长, 离开, 直至]</data>
+      </node>
+      <node id="{刊文}_e" labels=":EVENTNODE">
+        <data key="trigger">[{刊文}, {收到-通知}, {发现-病毒}]</data>
+        <data key="title">《今日美国报》刊文称：“早在1月3日，美国政府就收到了第一份关于发现新病毒的正式通知</data>
+        <data key="time">2020-01-03</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[美国政府]</data>
+        <data key="keywords">[刊文, 政府, 收到, 发现, 病毒, 通知]</data>
+      </node>
+      <node id="{联合}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发布-声明}, {报道}, {联合}, {参加-演习}, {减少-规模}]</data>
+        <data key="title">    此前据“防务博客”网站3月11日报道，美国欧洲司令部当天发布声明称，经过对正在开展的“欧洲捍卫者-2020”多国联合军演的活动仔细审查，并考虑到目前新冠病毒疫情形势，美国欧洲司令部决定减少参加该演习的美军人数规模</data>
+        <data key="time">2020-03-11</data>
+        <data key="person">[]</data>
+        <data key="location">[欧洲]</data>
+        <data key="organization">[美国欧洲司令部]</data>
+        <data key="keywords">[防务, 博客, 网站, 报道, 美国, 司令部, 发布, 声明, 捍卫者, 联合, 军演, 活动, 审查, 新冠, 病毒, 疫情, 形势, 减少, 参加, 演习, 美军, 人数, 规模]</data>
+      </node>
+      <node id="{应对-公布}_e" labels=":EVENTNODE">
+        <data key="trigger">[{应对-公布}, {公布}, {显示}]</data>
+        <data key="title">　　新华社记者　　美国白宫冠状病毒应对工作组3月31日公布预测数字显示，美国的新冠肺炎疫情死亡人数在近期将快速上升</data>
+        <data key="time">2020-03-31</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 白宫, 冠状, 病毒, 应对, 工作组, 公布, 预测, 数字, 显示, 冠肺炎, 疫情, 死亡, 人数]</data>
+      </node>
+      <node id="{意味着-陷入}_e" labels=":EVENTNODE">
+        <data key="trigger">[{显示-下降}, {下降}, {预期}, {高于-预期}, {陷入}, {意味着-陷入}]</data>
+        <data key="title">　　美国供应管理学会（ISM）4月1日公布的数据显示，3月份美国制造业PMI环比下降1点至49.1，高于市场预期的45，但跌落至50荣枯线以下，意味着制造业陷入萎缩</data>
+        <data key="time">2020-04-01</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[供应, 管理, 学会, 公布, 数据, 显示, 制造业, 环比, 下降, 高于, 市场, 预期, 跌落, 枯线, 意味着, 陷入, 萎缩]</data>
+      </node>
+      <node id="{确诊}_e" labels=":EVENTNODE">
+        <data key="trigger">[{确诊}, {超过}, {超过}]</data>
+        <data key="title">　　截至6月4日晚，全美新冠确诊病例超过187万，死亡病例超过10.8万</data>
+        <data key="time">2020-06-04</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[确诊, 病例, 超过, 死亡]</data>
+      </node>
+      <node id="{蔓延-全境}_e" labels=":EVENTNODE">
+        <data key="trigger">[{执法}, {抗议-示威}, {蔓延-全境}]</data>
+        <data key="title">　　新华社华盛顿6月2日电（记者谭晶晶）连日来，由白人警察暴力执法致一名非洲裔男子死亡引发的抗议示威和骚乱蔓延美国全境</data>
+        <data key="time">2020-06-02</data>
+        <data key="person">[谭晶晶]</data>
+        <data key="location">[美国, 华盛顿, 非洲]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 白人, 警察, 暴力, 执法, 男子, 死亡, 引发, 抗议, 示威, 骚乱, 蔓延, 全境]</data>
+      </node>
+      <node id="{努力}_e" labels=":EVENTNODE">
+        <data key="trigger">[{致信-领导人}, {妨碍}, {谴责-妨碍}, {努力}]</data>
+        <data key="title">　　新华社德黑兰3月14日电（记者陈霖）伊朗总统哈桑·鲁哈尼日前致信多国领导人，谴责美国持续制裁严重妨碍伊朗抗击新冠肺炎疫情努力，是对伊朗人民的集体惩罚</data>
+        <data key="time">2020-03-14</data>
+        <data key="person">[陈霖]</data>
+        <data key="location">[美国, 伊朗, 德黑兰]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 总统, 致信, 领导人, 谴责, 持续, 制裁, 妨碍, 抗击, 冠肺炎, 疫情, 集体, 惩罚]</data>
+      </node>
+      <node id="{接近}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布-报告}, {预计-接近}, {接近}]</data>
+        <data key="title">劳工部即将于6月5日公布5月份就业报告，市场普遍预计当月失业率可能接近20%</data>
+        <data key="time">2020-06-05</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[劳工部, 公布, 就业, 报告, 市场, 预计, 失业率, 接近]</data>
+      </node>
+      <node id="{同情-假面}_e" labels=":EVENTNODE">
+        <data key="trigger">[{同情-假面}, {声称}]</data>
+        <data key="title">伊朗总统鲁哈尼3月4日在内阁会议上说，美国一直对伊朗进口食品药品进行制裁，如今躲在“同情假面”后声称要帮助伊朗</data>
+        <data key="time">2020-03-04</data>
+        <data key="person">[鲁哈尼]</data>
+        <data key="location">[美国, 伊朗]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[总统, 内阁, 会议, 进口, 食品, 药品, 制裁, 同情, 假面, 声称]</data>
+      </node>
+      <node id="{减少-规模}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发布-声明}, {报道}, {联合}, {参加-演习}, {减少-规模}]</data>
+        <data key="title">    此前据“防务博客”网站3月11日报道，美国欧洲司令部当天发布声明称，经过对正在开展的“欧洲捍卫者-2020”多国联合军演的活动仔细审查，并考虑到目前新冠病毒疫情形势，美国欧洲司令部决定减少参加该演习的美军人数规模</data>
+        <data key="time">2020-03-11</data>
+        <data key="person">[]</data>
+        <data key="location">[欧洲]</data>
+        <data key="organization">[美国欧洲司令部]</data>
+        <data key="keywords">[防务, 博客, 网站, 报道, 美国, 司令部, 发布, 声明, 捍卫者, 联合, 军演, 活动, 审查, 新冠, 病毒, 疫情, 形势, 减少, 参加, 演习, 美军, 人数, 规模]</data>
+      </node>
+      <node id="{终结}_e" labels=":EVENTNODE">
+        <data key="trigger">[{定于}, {终结}]</data>
+        <data key="title">　　这场竞选集会原定于6月19日举行，但这天正值美国“六月节”，又称自由日或解放日，被认为是标志美国奴隶制终结的日子</data>
+        <data key="time">2020-06-19</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[竞选, 集会, 定于, 自由日, 解放日, 标志, 奴隶制, 终结, 日子]</data>
+      </node>
+      <node id="{抗击-疫情}_e" labels=":EVENTNODE">
+        <data key="trigger">[{希望-战胜}, {战胜}, {包括-美国}, {抗击-疫情}, {提供-支持}]</data>
+        <data key="title">　　新华社北京5月7日电（记者温馨）外交部发言人华春莹7日表示，中方希望美国人民能够尽快战胜新冠肺炎疫情，将继续尽己所能为包括美国人民在内的世界各国人民抗击疫情提供力所能及的支持和协助</data>
+        <data key="time">2020-05-07</data>
+        <data key="person">[温馨, 华春莹]</data>
+        <data key="location">[美国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 发言人, 春莹, 中方, 希望, 战胜, 新冠, 肺炎, 疫情, 包括, 世界, 抗击, 提供, 力所能及, 支持, 协助]</data>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e0" source="{新增-超过}" target="{温馨}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e1" source="{前往-洛杉矶}" target="{面临}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e2" source="{下令-关闭}" target="{传播}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e3" source="{提供-援助}" target="{用于-抗击}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e4" source="{欣赏-中方}" target="{分享}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e5" source="{分享}" target="{有助于-抗击}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e6" source="{呼吁}" target="{应对-疫情}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e7" source="{上涨}" target="{增加}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e8" source="{出台}" target="{覆盖-民众}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e9" source="{下属}" target="{影响}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e10" source="{表达}" target="{遏制}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e11" source="{显示-安检}" target="{安检}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e12" source="{覆盖-民众}" target="{实施-居家令}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e13" source="{参加-演习}" target="{减少-规模}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e14" source="{观察-引发}" target="{引发}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e15" source="{发现-恢复}" target="{恢复}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e16" source="{确诊}" target="{处于-中心}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e17" source="{报道-显示}" target="{显示}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e18" source="{提交}" target="{延长-法案}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e19" source="{如期而至}" target="{停顿}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e20" source="{介绍-提供}" target="{统计}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e21" source="{实施-管制}" target="{发表-讲话}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e22" source="{持续}" target="{超过-城市}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e23" source="{新增}" target="{确诊-病例}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e24" source="{显示}" target="{面临-危机}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e25" source="{超过-企业}" target="{显示-提供}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e26" source="{指令-协助}" target="{生产-呼吸机}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e27" source="{确保-危害}" target="{健康}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e28" source="{显示-超过}" target="{超过}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e29" source="{突破}" target="{超过}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e30" source="{面临}" target="{缓解-重压}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e31" source="{增加}" target="{发现-恢复}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e32" source="{抗击-疫情}" target="{提供-支持}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e33" source="{确认-患者}" target="{显示}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e34" source="{开放-活动}" target="{严峻}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e35" source="{报道}" target="{削减-岗位}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e36" source="{解除-职务}" target="{创立}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e37" source="{引发-激增}" target="{执法}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e38" source="{提前}" target="{确认-患者}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e39" source="{公布-报告}" target="{预计-接近}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e40" source="{终结}" target="{提名}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e41" source="{高于-预期}" target="{陷入}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e42" source="{意味着-陷入}" target="{下降}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e43" source="{抗击}" target="{打压-对等}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e44" source="{超过-城市}" target="{实施-宵禁}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e45" source="{引发-抗议}" target="{聚集}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e46" source="{执法}" target="{引发-抗议}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e47" source="{收到}" target="{开放-活动}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e48" source="{表决}" target="{成立-委员会}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e49" source="{提供}" target="{下降}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e50" source="{困扰}" target="{波及}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e51" source="{用于-抗击}" target="{同情-假面}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e52" source="{健康}" target="{定于}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e53" source="{研发}" target="{发布-氯喹}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e54" source="{成立-委员会}" target="{监督}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e55" source="{参加-示威}" target="{接受-检测}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e56" source="{引发}" target="{降息-基点}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e57" source="{导致-转移}" target="{转移}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e58" source="{通报}" target="{显示-新增}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e59" source="{创下-跌幅}" target="{超过}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e60" source="{暂停-邮轮}" target="{离开-美国}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e61" source="{发布-显示}" target="{增长}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e62" source="{暂停-港口}" target="{同意-延长}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e63" source="{应对-公布}" target="{出台}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e64" source="{检测-病毒}" target="{提前}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e65" source="{有助于-抗击}" target="{抗击}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e66" source="{显示}" target="{发布}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e67" source="{捐赠-药物}" target="{用于-治疗}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e68" source="{预计-接近}" target="{接近}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e69" source="{处高点}" target="{显示}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e70" source="{关闭-边境}" target="{反弹}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e71" source="{协助}" target="{指令-协助}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e72" source="{增长}" target="{上涨}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e73" source="{综述-困扰}" target="{困扰}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e74" source="{希望-战胜}" target="{战胜}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e75" source="{应对-蔓延}" target="{动用-生产法}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e76" source="{面临-危机}" target="{申请-人数}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e77" source="{承诺}" target="{发达}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e78" source="{显示-新增}" target="{新增}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e79" source="{收到-通知}" target="{发现-病毒}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e80" source="{解除}" target="{显示}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e81" source="{机制}" target="{罕见}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e82" source="{感谢-人士}" target="{抗击-疫情}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e83" source="{发表-声明}" target="{讨论-调整}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e84" source="{讨论-调整}" target="{确保-危害}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e85" source="{包括-美国}" target="{抗击-疫情}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e86" source="{遏制-病毒}" target="{欣赏-中方}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e87" source="{下滑}" target="{显示-下降}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e88" source="{实施-居家令}" target="{缓和}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e89" source="{接受-采访}" target="{采访}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e90" source="{降息-基点}" target="{止住-跌势}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e91" source="{提名-总统}" target="{发表-声明}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e92" source="{公布}" target="{请求-调派}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e93" source="{安检}" target="{下降}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e94" source="{报道-停止}" target="{停止}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e95" source="{流行}" target="{收到-通报}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e96" source="{实施-宵禁}" target="{发布}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e97" source="{提名}" target="{锁定-集会}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e98" source="{处于-中心}" target="{超过}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e99" source="{筹备-会议}" target="{包括-指挥官}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e100" source="{增加}" target="{复会}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e101" source="{预测}" target="{定于}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e102" source="{显示}" target="{预测}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e103" source="{增加}" target="{确诊}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e104" source="{豁免}" target="{覆盖-产品}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e105" source="{严峻}" target="{消散}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e106" source="{传播}" target="{加速-传播}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e107" source="{发布-氯喹}" target="{捐赠-药物}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e108" source="{参加-大会}" target="{选出-代表}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e109" source="{延长}" target="{实施-停火}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e110" source="{锁定-集会}" target="{定于}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e111" source="{公布}" target="{超过}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e112" source="{公布}" target="{撤回}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e113" source="{显示-提供}" target="{下滑}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e114" source="{统计}" target="{提供}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e115" source="{选出-代表}" target="{定于}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e116" source="{意味着-多于}" target="{多于}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e117" source="{感染-病毒}" target="{超过-接受}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e118" source="{确认-提供}" target="{提供}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e119" source="{停止-亚裔}" target="{统计}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e120" source="{同情-假面}" target="{声称}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e121" source="{下令-关闭}" target="{报道}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e122" source="{至上}" target="{承诺}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e123" source="{反弹}" target="{超过}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e124" source="{显示-下降}" target="{提供}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e125" source="{显示-下降}" target="{预期}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e126" source="{收到}" target="{获悉}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e127" source="{隐瞒-疫情}" target="{至上}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e128" source="{超过}" target="{更新}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e129" source="{死亡}" target="{研发}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e130" source="{延长-期限}" target="{下属}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e131" source="{超过}" target="{新增-超过}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e132" source="{投票}" target="{提交}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e133" source="{参加}" target="{举办}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e134" source="{发出-预警}" target="{呼吁}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e135" source="{谴责-加大}" target="{加大}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e136" source="{接受-检测}" target="{持续}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e137" source="{推迟}" target="{参加-大会}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e138" source="{发布}" target="{显示-超过}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e139" source="{延长-法案}" target="{延长}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e140" source="{创立}" target="{负责-项目}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e141" source="{下降}" target="{阵亡-将士}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e142" source="{统计}" target="{收到}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e143" source="{申请-人数}" target="{体验-痛感}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e144" source="{恢复}" target="{申请-救济}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e145" source="{缓和}" target="{显示}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e146" source="{显示}" target="{激增}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e147" source="{提供}" target="{抗击-疫情}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e148" source="{死亡}" target="{处高点}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e149" source="{刊文}" target="{收到-通知}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e150" source="{抗议-示威}" target="{蔓延-全境}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e151" source="{复会}" target="{质疑}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e152" source="{谴责-妨碍}" target="{努力}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e153" source="{显示}" target="{超过}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e154" source="{妨碍}" target="{谴责-妨碍}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e155" source="{援引-西班牙}" target="{报道-刊发}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e156" source="{预期}" target="{高于-预期}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e157" source="{报道}" target="{投票}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e158" source="{病逝}" target="{检测-病毒}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e159" source="{调派-部队}" target="{报道}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e160" source="{发布}" target="{接近}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e161" source="{发表-调查}" target="{流行}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e162" source="{温馨}" target="{隐瞒-疫情}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e163" source="{聚集}" target="{传播}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e164" source="{博得-喝彩}" target="{公布}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e165" source="{超过-接受}" target="{意味着-多于}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e166" source="{死亡}" target="{病逝}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e167" source="{停止}" target="{调派-部队}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e168" source="{充满-挑战}" target="{表达}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e169" source="{声称}" target="{谴责-加大}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e170" source="{通报-信息}" target="{发出-预警}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e171" source="{定于}" target="{取消}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e172" source="{停止-调派}" target="{报道-停止}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e173" source="{用于-治疗}" target="{感染-病毒}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e174" source="{陷入}" target="{意味着-陷入}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e175" source="{单膝-跪地}" target="{博得-喝彩}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e176" source="{执法}" target="{抗议-示威}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e177" source="{确诊-感染}" target="{筹备-会议}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e178" source="{举办}" target="{感谢-人士}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e179" source="{显示}" target="{公布}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e180" source="{发布-声明}" target="{联合}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e181" source="{阵亡-将士}" target="{笼罩-美国}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e182" source="{动用-生产法}" target="{治疗}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e183" source="{体验-痛感}" target="{衰退}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e184" source="{减少-规模}" target="{停止-调派}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e185" source="{战胜}" target="{包括-美国}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e186" source="{确诊-病例}" target="{实施-管制}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e187" source="{激增}" target="{引发-激增}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e188" source="{申请-救济}" target="{显示}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e189" source="{定于}" target="{选举}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e190" source="{包括-指挥官}" target="{发布-声明}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e191" source="{刷新-记录}" target="{显示}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e192" source="{提供}" target="{希望-战胜}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e193" source="{治疗}" target="{协助}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e194" source="{提醒-示威者}" target="{参加-示威}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e195" source="{触发-机制}" target="{创下-跌幅}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e196" source="{采访}" target="{解除}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e197" source="{接近}" target="{公布}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e198" source="{同意-延长}" target="{暂停-邮轮}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e199" source="{请求-调派}" target="{前往-洛杉矶}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e200" source="{禁止-出行}" target="{下令-关闭}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e201" source="{推迟-原定}" target="{下令-关闭}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e202" source="{提前}" target="{减少}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e203" source="{致信-领导人}" target="{妨碍}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e204" source="{发表-讲话}" target="{介绍-措施}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e205" source="{多于}" target="{应对-公布}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e206" source="{遏制}" target="{解除-职务}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e207" source="{加速-传播}" target="{突破}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e208" source="{显示-超过}" target="{公布}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e209" source="{降息-基点}" target="{机制}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e210" source="{收到-通报}" target="{收到}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e211" source="{波及}" target="{辞职}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e212" source="{削减-岗位}" target="{降低-成本}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e213" source="{联合}" target="{参加-演习}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

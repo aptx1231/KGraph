@@ -1,5 +1,12 @@
 <template>
-  <div id="container" style="height:100%; width: 100%;"></div>
+  <div id="container" style="height:100%; width: 100%;">
+    <div id="container2" style="height:92%; width: 100%;"></div>
+    <div style="height:8%; width: 100%; ">
+      <el-button type="primary" style="float: right;" @click="changeto2()">
+        切换
+      </el-button>
+    </div>
+  </div>
 </template>
 
 <script type="text/javascript">
@@ -11,13 +18,16 @@
   	data() {
   	  return {
   	  	msg: '',
-  	  	topic_name: ''
+  	  	topic_name: '',
+        kind : 1,
   	  }
   	},
 
   	mounted() {
   	  // console.log(parseAttributes);
   	  this.topic_name = this.$route.query.topic;
+  	  this.kind = 1;
+  	  //console.log(this.topic_name)
   	  getXML(this.topic_name).then(res => {
   		this.msg = res.data;
   		this.test(this.msg);
@@ -34,8 +44,27 @@
   	},
 
   	methods: {
+      changeto2() {
+        console.log(this.topic_name)
+        console.log(this.kind)
+        if (this.kind === 1) {
+          this.kind = 2;
+          getXML(this.topic_name+'2').then(res => {
+            this.msg = res.data;
+            this.test(this.msg);
+          })
+        }
+        else if (this.kind === 2) {
+          this.kind = 1;
+          getXML(this.topic_name).then(res => {
+            this.msg = res.data;
+            this.test(this.msg);
+          })
+        }
+      },
+
   	  test(xml) {
-		var dom = document.getElementById("container");
+		var dom = document.getElementById("container2");
 		var myChart = echarts.init(dom);
 		var app = {};
 		// var searchCommand = document.getElementById('inputValue').value;
@@ -78,7 +107,7 @@
 			color:'#c1291f'
 		  }
 		};
-			
+
 		//分拣出触发词与事件信息
 		graph.nodes.forEach(function (node) {
 		  if(node.dataLabel == 1){	//证明该节点是事件
@@ -147,14 +176,16 @@
 		//ECharts配置项信息
 		option = {
 		  title: {
-			text: 'Event Graph',
+			text: this.topic_name,
 			textStyle: {
-              color: 'white'  //更改坐标轴文字颜色
-              // fontSize : 12      //更改坐标轴文字大小
+              color: 'white',  //更改坐标轴文字颜色
+              fontSize : 25     //更改坐标轴文字大小
             },
-			subtext: 'Default layout',
-		    top: 'top',
-			left: 'left'
+			// subtext: 'Default layout',
+		    // top: 'top',
+			// left: 'left',
+            x:'center',
+            y:'top',
 		  },
 				
 		  tooltip:{

@@ -27,7 +27,7 @@
       <div class="scroll-wrapper">
         <ul>
           <font color="white">
-            <div style="margin-left: 30px; margin-top: 10px">
+            <div style="margin-left: 30px; margin-top: 10px;">
               <table border="0" cellspacing="" cellpadding="">
                 <tr v-for="(item, index2) in right_up_list" :key="index2">
                   <td width=25% height=30px style="font-size: 13px;">{{item.date}}</td>
@@ -50,7 +50,7 @@
             <font color="99ff99" size="6">{{topic_index}}</font>
           </p>
         </div>
-        <div :hidden="closeChart" style="position: absoluet; margin-top: -30px; height: 75%">
+        <div :hidden="closeChart" style="margin-top: -30px; height: 75%">
           <div id="myChart" style="height: 190px; width: 100%; margin-left: 11%"></div>
         </div>
         <div>
@@ -62,7 +62,23 @@
         </div>
       </div>
     </div>
-    
+
+    <div class="con-box r-b-box">
+      <center style="margin-top: 10px;">
+        <font size="5" color="white">事件词云</font>
+      </center>
+      <div style="height: 80%; width: 80%; margin: auto;" >
+        <el-carousel :interval="5000" arrow="always" style="margin-top: 10px; height: auto"
+                     trigger="click" indicator-position="none">
+          <!--:autoplay="false"-->
+          <el-carousel-item v-for="item in imgList" :key="item.id">
+            <img :src="item.data" class="carousel_image_type">
+            <div style="color: white; margin-top: 2px; font-size: 7px" v-text="item.title" align="center"></div>
+          </el-carousel-item>
+        </el-carousel>
+      </div>
+    </div>
+
     <div class="center-box">
       <div class="chart" id="echarts-globe"></div>
     </div>
@@ -82,7 +98,7 @@
   import BaseTexture from '../components/texture/Base.js'
   import BlendTexture from '../components/texture/Blend.js'
 
-  import { topicData, eventData, emotionData } from './dataTmp.js'
+  import { topicData, eventData, cloudData, emotionData } from './dataTmp.js'
   var echarts = require('echarts') 
   require('echarts-gl');
   import "echarts/map/js/world.js";
@@ -103,7 +119,12 @@
       return {
         events: {},
         listData: [],
-
+        imgList: [
+          // {id:0,idView: require('../assets/images/香港714-731.png'), title: "7.1-7.5" },
+          // {id:1,idView: require('../assets/images/香港71-713.png'), title: "7.6-7.10"  },
+          // {id:2,idView: require('../assets/images/香港714-731.png'), title: "7.10-7.15" },
+          // {id:3,idView: require('../assets/images/香港71-713.png'), title: "7.15-7.20" },
+        ],
         // Common: Common,
         jumpto: "",
         topic_index: '',
@@ -142,7 +163,7 @@
       this.right_up_list = this.events['中国'];
       this.listData = emotionData['中国']['evaluation'];
       this.topic_index = emotionData['中国']['emotion_index'];
-      
+      this.imgList = cloudData['中国'];
       this.echartsGlobe();
       this.around('China');
       this.drawLine();
@@ -272,10 +293,14 @@
         this.topic_name = term.text;
         if (term.topic == '中国' || term.topic == '香港') {
           this.around('China');
-        } 
+        }
+        else if (term.topic == '美国') {
+          this.around('USA');
+        }
         this.right_up_list = this.events[term.topic];
         this.listData = emotionData[term.topic]['evaluation'];
         this.topic_index = emotionData[term.topic]['emotion_index'];
+        this.imgList = cloudData[term.topic];
 
         if (term.text != '新冠肺炎专题') {
           this.closeChart = true;
@@ -284,6 +309,7 @@
           this.closeEvaluation = true;
           this.closeChart = false;
         }
+        //console.log(this.regions)
       },
 
       jumpTo: function () {
@@ -397,7 +423,7 @@
   .con-box
     position: absolute
     width: 34%
-    height: 35%
+    height: 37%
     padding: .7rem 1rem .8rem
     background-image: url("../assets/images/box-bg.png")
     background-size: 100% 100%
@@ -409,7 +435,7 @@
     &.r-t-box
       right: 2.5rem
       top: 7%
-      height: 82%
+      //height: 82%
     &.l-b-box
       bottom: 7%
       left: 2.5rem
@@ -447,4 +473,16 @@
     height: 88%;
     overflow: hidden;
   }
+  .el-carousel__item h3 {
+    color: #475669;
+    font-size: 18px;
+    opacity: 0.75;
+    line-height: 300px;
+    margin: 0;
+  }
+
+  .carousel_image_type{
+    width: 100%;
+  }
+
 </style>
