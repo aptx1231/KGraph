@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gexf>
+  <graph>
+    <nodes>
+      <node id="{纳入-病例}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-22</data>
+        <data key="name">{纳入-病例}</data>
+      </node>
+      <node id="{治疗}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-24</data>
+        <data key="name">{治疗}</data>
+      </node>
+      <node id="{死亡}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-25</data>
+        <data key="name">{死亡}</data>
+      </node>
+      <node id="{发布}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-23</data>
+        <data key="name">{发布}</data>
+      </node>
+      <node id="{往返-大陆}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-12-02</data>
+        <data key="name">{往返-大陆}</data>
+      </node>
+      <node id="{停止-损害}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-26</data>
+        <data key="name">{停止-损害}</data>
+      </node>
+      <node id="{取消-方案}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-18</data>
+        <data key="name">{取消-方案}</data>
+      </node>
+      <node id="{治愈-病例}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-02</data>
+        <data key="name">{治愈-病例}</data>
+      </node>
+      <node id="{召集}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-24</data>
+        <data key="name">{召集}</data>
+      </node>
+      <node id="{采用-思路}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-09</data>
+        <data key="name">{采用-思路}</data>
+      </node>
+      <node id="{新增-病例}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-02</data>
+        <data key="name">{新增-病例}</data>
+      </node>
+      <node id="{检验}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-18</data>
+        <data key="name">{检验}</data>
+      </node>
+      <node id="{核减-病例}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-19</data>
+        <data key="name">{核减-病例}</data>
+      </node>
+      <node id="{确诊}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-25</data>
+        <data key="name">{确诊}</data>
+      </node>
+      <node id="{公布}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-25</data>
+        <data key="name">{公布}</data>
+      </node>
+      <node id="{获悉}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-02</data>
+        <data key="name">{获悉}</data>
+      </node>
+      <node id="{分析}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-14</data>
+        <data key="name">{分析}</data>
+      </node>
+      <node id="{肯定}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-22</data>
+        <data key="name">{肯定}</data>
+      </node>
+      <node id="{抗击-疫情}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-24</data>
+        <data key="name">{抗击-疫情}</data>
+      </node>
+      <node id="{印发-方案}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-18</data>
+        <data key="name">{印发-方案}</data>
+      </node>
+      <node id="{救治}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-18</data>
+        <data key="name">{救治}</data>
+      </node>
+      <node id="{发烧}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-09</data>
+        <data key="name">{发烧}</data>
+      </node>
+      <node id="{报告-病例}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-29</data>
+        <data key="name">{报告-病例}</data>
+      </node>
+      <node id="{对接-方案}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-19</data>
+        <data key="name">{对接-方案}</data>
+      </node>
+      <node id="{观察}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-02</data>
+        <data key="name">{观察}</data>
+      </node>
+      <node id="{试行}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-18</data>
+        <data key="name">{试行}</data>
+      </node>
+      <node id="{收治-病例}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-09</data>
+        <data key="name">{收治-病例}</data>
+      </node>
+      <node id="{调整}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-19</data>
+        <data key="name">{调整}</data>
+      </node>
+      <node id="{核减}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-17</data>
+        <data key="name">{核减}</data>
+      </node>
+      <node id="{建设-平台}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-02</data>
+        <data key="name">{建设-平台}</data>
+      </node>
+      <node id="{调整-级别}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-24</data>
+        <data key="name">{调整-级别}</data>
+      </node>
+      <node id="{检验-流感}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-09</data>
+        <data key="name">{检验-流感}</data>
+      </node>
+      <node id="{聆听-内容}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-22</data>
+        <data key="name">{聆听-内容}</data>
+      </node>
+      <node id="{治疗-病例}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-02</data>
+        <data key="name">{治疗-病例}</data>
+      </node>
+      <node id="{参与-治疗}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-20</data>
+        <data key="name">{参与-治疗}</data>
+      </node>
+      <node id="{反对-指责}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-26</data>
+        <data key="name">{反对-指责}</data>
+      </node>
+      <node id="{纳入-统计}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-20</data>
+        <data key="name">{纳入-统计}</data>
+      </node>
+      <node id="{报告}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-20</data>
+        <data key="name">{报告}</data>
+      </node>
+      <node id="{确诊-病例}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-20</data>
+        <data key="name">{确诊-病例}</data>
+      </node>
+      <node id="{新增-治愈}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-02</data>
+        <data key="name">{新增-治愈}</data>
+      </node>
+      <node id="{探视-老翁}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-11</data>
+        <data key="name">{探视-老翁}</data>
+      </node>
+      <node id="{预计-治愈}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-03</data>
+        <data key="name">{预计-治愈}</data>
+      </node>
+      <node id="{出院-病例}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-14</data>
+        <data key="name">{出院-病例}</data>
+      </node>
+      <node id="{接入-系统}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-20</data>
+        <data key="name">{接入-系统}</data>
+      </node>
+      <node id="{列入}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-09</data>
+        <data key="name">{列入}</data>
+      </node>
+      <node id="{攻关}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-18</data>
+        <data key="name">{攻关}</data>
+      </node>
+      <node id="{改善}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-20</data>
+        <data key="name">{改善}</data>
+      </node>
+      <node id="{显示-阳性}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-17</data>
+        <data key="name">{显示-阳性}</data>
+      </node>
+      <node id="{新增-确诊}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-19</data>
+        <data key="name">{新增-确诊}</data>
+      </node>
+      <node id="{累计-观察}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-02</data>
+        <data key="name">{累计-观察}</data>
+      </node>
+      <node id="{隔离}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-23</data>
+        <data key="name">{隔离}</data>
+      </node>
+      <node id="{通报}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-01</data>
+        <data key="name">{通报}</data>
+      </node>
+      <node id="{指责}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-26</data>
+        <data key="name">{指责}</data>
+      </node>
+      <node id="{予以-治疗}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-09</data>
+        <data key="name">{予以-治疗}</data>
+      </node>
+      <node id="{表达-支持}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-24</data>
+        <data key="name">{表达-支持}</data>
+      </node>
+      <node id="{敦促}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-26</data>
+        <data key="name">{敦促}</data>
+      </node>
+      <node id="{培训-知识}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-22</data>
+        <data key="name">{培训-知识}</data>
+      </node>
+      <node id="{反感}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-26</data>
+        <data key="name">{反感}</data>
+      </node>
+      <node id="{应对-疫情}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-24</data>
+        <data key="name">{应对-疫情}</data>
+      </node>
+      <node id="{发布-通告}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-24</data>
+        <data key="name">{发布-通告}</data>
+      </node>
+      <node id="{筛查}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-18</data>
+        <data key="name">{筛查}</data>
+      </node>
+      <node id="{治愈}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-24</data>
+        <data key="name">{治愈}</data>
+      </node>
+      <node id="{防控}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-18</data>
+        <data key="name">{防控}</data>
+      </node>
+      <node id="{住院}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-25</data>
+        <data key="name">{住院}</data>
+      </node>
+      <node id="{销售-动物}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-18</data>
+        <data key="name">{销售-动物}</data>
+      </node>
+      <node id="{接到-报卡}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-20</data>
+        <data key="name">{接到-报卡}</data>
+      </node>
+      <node id="{出院}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-03-03</data>
+        <data key="name">{出院}</data>
+      </node>
+      <node id="{纳入-数据}" labels=":ENTITY:TRIGGER">
+        <data key="time">2020-02-20</data>
+        <data key="name">{纳入-数据}</data>
+      </node>
+      <node id="{发烧}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发烧}, {检验-流感}, {列入}]</data>
+        <data key="title">　　80多岁男性在2月9日因发烧，诊断为肺炎，16日因呼吸急促转至加护病房，因为之前检验流感都是阴性，所以列入扩大采检，23日确诊</data>
+        <data key="time">2020-02-09</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[男性, 发烧, 诊断, 肺炎, 呼吸, 加护, 病房, 检验, 流感, 阴性, 列入, 采检, 确诊]</data>
+      </node>
+      <node id="{培训-知识}_e" labels=":EVENTNODE">
+        <data key="trigger">[{培训-知识}, {聆听-内容}, {肯定}]</data>
+        <data key="title">　　新华网喀土穆2月22日电（记者马意翀）记者19日从中国第35批援苏丹医疗队了解到，当天中国和苏丹两国医务人员在恩图曼友谊医院开展了一场新冠肺炎防控与诊疗知识培训讲座，两国50多名医护人员认真聆听了培训内容，此举得到苏丹卫生部等专家高度肯定</data>
+        <data key="time">2020-02-22</data>
+        <data key="person">[马意翀]</data>
+        <data key="location">[中国, 苏丹, 喀土穆]</data>
+        <data key="organization">[苏丹卫生部, 恩图曼友谊医院]</data>
+        <data key="keywords">[新华网, 记者, 批援, 医疗队, 人员, 恩图曼, 友谊, 医院, 新冠, 肺炎, 防控, 诊疗, 知识, 培训, 讲座, 医护, 聆听, 内容, 卫生部, 专家, 肯定]</data>
+      </node>
+      <node id="{报告-病例}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报告-病例}]</data>
+        <data key="title">　　截至2020年2月29日24时，湖北省累计报告新冠肺炎确诊病例66907例，其中：武汉市49122例、孝感市3518例、黄冈市2905例、荆州市1579例、鄂州市1391例、随州市1307例、襄阳市1175例、黄石市1014例、宜昌市931例、荆门市925例、咸宁市836例、十堰市672例、仙桃市575例、天门市496例、恩施州252例、潜江市198例、神农架林区11例</data>
+        <data key="time">2020-02-29</data>
+        <data key="person">[]</data>
+        <data key="location">[黄冈市, 天门市, 孝感市, 襄阳市, 湖北省, 神农架, 鄂州市, 仙桃市, 咸宁市, 十堰市, 潜江市, 黄石市, 荆州市, 随州市, 宜昌市, 恩施州, 武汉市, 荆门市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[累计, 报告, 新冠, 肺炎, 确诊, 病例, 林区]</data>
+      </node>
+      <node id="{调整}_e" labels=":EVENTNODE">
+        <data key="trigger">[{对接-方案}, {调整}, {核减-病例}]</data>
+        <data key="title">为对接此次诊疗方案调整，2月19日，有的市州组织对前期报告的临床诊断病例按照第六版诊疗方案进行了订正，核减了部分病例</data>
+        <data key="time">2020-02-19</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[对接, 诊疗, 方案, 调整, 市州, 组织, 报告, 临床, 诊断, 病例, 订正, 核减]</data>
+      </node>
+      <node id="{应对-疫情}_e" labels=":EVENTNODE">
+        <data key="trigger">[{应对-疫情}, {发布-通告}, {调整-级别}]</data>
+        <data key="title">字强）云南省应对疫情工作领导小组指挥部23日晚发布通告称，按照国家有关法律法规和国家卫生健康委有关文件规定，根据云南省新型冠状病毒肺炎疫情发展形势，经云南省人民政府研究决定，自2020年2月24日零时起，云南省新型冠状病毒肺炎疫情防控应急响应级别由一级应急响应调整为省级三级应急响应</data>
+        <data key="time">2020-02-24</data>
+        <data key="person">[字强]</data>
+        <data key="location">[云南省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[应对, 疫情, 工作, 领导, 小组, 指挥部, 发布, 通告, 国家, 法律, 法规, 健康委, 文件, 冠状, 病毒, 肺炎, 发展, 形势, 人民政府, 研究, 防控, 应急, 响应, 级别, 调整]</data>
+      </node>
+      <node id="{防控}_e" labels=":EVENTNODE">
+        <data key="trigger">[{获悉}, {救治}, {防控}, {攻关}, {检验}, {筛查}, {销售-动物}]</data>
+        <data key="title">　　新华社北京2月21日电（记者伍岳、陈聪）记者21日从国家卫健委获悉，2月18日—20日，中国—世界卫生组织新冠肺炎联合专家考察组在广东省和四川省开展现场调研，了解新冠肺炎疫情形势、防控措施、医疗救治、社区防控、科研攻关、出入境检验检疫、旅客筛查、野生动物销售管理等工作</data>
+        <data key="time">2020-02-18</data>
+        <data key="person">[陈聪, 伍岳]</data>
+        <data key="location">[广东省, 中国, 四川省, 北京]</data>
+        <data key="organization">[国家卫健委, 世界卫生组织, 新华社]</data>
+        <data key="keywords">[记者, 国家, 卫健委, 获悉, 世界, 组织, 新冠, 肺炎, 联合, 专家, 考察组, 现场, 调研, 冠肺炎, 疫情, 形势, 防控, 措施, 医疗, 救治, 社区, 科研, 攻关, 出入境, 检验, 检疫, 旅客, 筛查, 动物, 销售, 管理, 工作]</data>
+      </node>
+      <node id="{观察}_e" labels=":EVENTNODE">
+        <data key="trigger">[{治愈-病例}, {观察}, {累计-观察}, {观察}]</data>
+        <data key="title">    截至3月2日24时，安徽省累计报告确诊病例990例，累计治愈出院病例917例，累计死亡病例6例，累计医学观察密切接触者28235人，尚在医学观察504人</data>
+        <data key="time">2020-03-02</data>
+        <data key="person">[]</data>
+        <data key="location">[安徽省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[累计, 报告, 确诊, 病例, 治愈, 出院, 死亡, 医学, 观察, 接触者]</data>
+      </node>
+      <node id="{住院}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {新增-病例}, {确诊}, {死亡}, {出院}, {住院}]</data>
+        <data key="title">　　新华社台北2月25日电（记者吴济海、傅双琪）台湾地区流行疫情指挥中心25日举行记者会公布，岛内新冠肺炎新增1例确诊病例，累计31例确诊，其中1人死亡、5人出院，其余个案持续住院隔离中</data>
+        <data key="time">2020-02-25</data>
+        <data key="person">[吴济海, 傅双琪]</data>
+        <data key="location">[台湾地区, 台北]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 台湾, 地区, 流行, 疫情, 指挥, 中心, 记者会, 公布, 岛内, 新冠, 肺炎, 新增, 确诊, 病例, 累计, 死亡, 出院, 个案, 持续, 住院, 隔离]</data>
+      </node>
+      <node id="{收治-病例}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收治-病例}, {采用-思路}, {治疗}, {予以-治疗}]</data>
+        <data key="title">锦州中心于1月28日至2月9日收治锦州市当地确诊病例9例，其中8人采用“一人一日一方”的思路，予以辨证治疗，平均住院天数为11.75天</data>
+        <data key="time">2020-02-09</data>
+        <data key="person">[]</data>
+        <data key="location">[锦州市]</data>
+        <data key="organization">[锦州中心]</data>
+        <data key="keywords">[锦州, 中心, 收治, 确诊, 病例, 采用, 思路, 予以, 辨证, 治疗, 住院, 天数]</data>
+      </node>
+      <node id="{治愈}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报告-病例}, {治疗}, {治愈}, {出院}]</data>
+        <data key="title">　　截至2月24日24时，河北省累计报告确诊病例311例，其中在院治疗64例，现有重症病例5例，累计治愈出院241例，死亡6例</data>
+        <data key="time">2020-02-24</data>
+        <data key="person">[]</data>
+        <data key="location">[河北省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[累计, 报告, 确诊, 病例, 治疗, 现有, 重症, 治愈, 出院, 死亡]</data>
+      </node>
+      <node id="{试行}_e" labels=":EVENTNODE">
+        <data key="trigger">[{印发-方案}, {试行}, {取消-方案}]</data>
+        <data key="title">2月18日国家卫生健康委办公厅和国家中医药管理局办公室印发《新型冠状病毒肺炎诊疗方案（试行第六版）》，相对第五版的诊疗方案，湖北省原有的临床诊断病例类目被取消</data>
+        <data key="time">2020-02-18</data>
+        <data key="person">[]</data>
+        <data key="location">[湖北省]</data>
+        <data key="organization">[国家中医药管理局办公室]</data>
+        <data key="keywords">[国家, 健康委, 办公厅, 中医药, 管理局, 办公室, 印发, 冠状, 病毒, 肺炎, 诊疗, 方案, 试行, 原有, 临床, 诊断, 病例, 类目, 取消]</data>
+      </node>
+      <node id="{建设-平台}_e" labels=":EVENTNODE">
+        <data key="trigger">[{获悉}, {建设-平台}]</data>
+        <data key="title">记者3月2日获悉，近日在“中科院科技攻关指挥部”协调下，科大讯飞攻关团队在3天内便快速完成了“新冠肺炎影像辅助诊断平台”建设</data>
+        <data key="time">2020-03-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[记者, 获悉, 中科院, 科技, 攻关, 指挥部, 协调, 科大, 讯飞, 团队, 新冠, 肺炎, 影像, 辅助, 诊断, 平台, 建设]</data>
+      </node>
+      <node id="{核减}_e" labels=":EVENTNODE">
+        <data key="trigger">[{新增-病例}, {核减}, {核减}]</data>
+        <data key="title">    2020年2月17日0—24时，全省新增新冠肺炎确诊病例1807例，其中：武汉市1600例、鄂州市65例、孝感市41例、荆州市36例、天门市15例、十堰市14例、仙桃市13例、随州市11例、宜昌市9例、襄阳市8例、咸宁市7例、潜江市3例、黄石市2例、恩施州1例、黄冈市核减3例、荆门市核减15例</data>
+        <data key="time">2020-02-17</data>
+        <data key="person">[]</data>
+        <data key="location">[十堰市, 黄冈市, 荆州市, 天门市, 孝感市, 随州市, 宜昌市, 鄂州市, 仙桃市, 武汉市, 荆门市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[全省, 新增, 新冠, 肺炎, 确诊, 病例, 襄阳市, 咸宁市, 潜江市, 黄石市, 恩施州, 核减]</data>
+      </node>
+      <node id="{纳入-数据}_e" labels=":EVENTNODE">
+        <data key="trigger">[{接入-系统}, {接到-报卡}, {报告}, {纳入-统计}, {纳入-数据}]</data>
+        <data key="title">　　此外，由于湖北省监狱部门目前没有接入传染病疫情网络报告系统，2月20日深夜接到监狱部门手工报卡后，经认真审核确认，截至2月20日24时，监狱部门报告的271例新冠肺炎确诊病例中有51例前期已纳入相关地区统计并公布，其余220例确诊病例和10例疑似病例纳入了2月20日疫情数据进行订正并公布</data>
+        <data key="time">2020-02-20</data>
+        <data key="person">[]</data>
+        <data key="location">[湖北省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[监狱, 部门, 接入, 传染病, 疫情, 网络, 报告, 系统, 接到, 手工, 报卡, 审核, 确认, 冠肺炎, 确诊, 病例, 纳入, 相关, 地区, 统计, 公布, 疑似, 数据, 订正]</data>
+      </node>
+      <node id="{参与-治疗}_e" labels=":EVENTNODE">
+        <data key="trigger">[{确诊-病例}, {改善}, {参与-治疗}, {参与-治疗}]</data>
+        <data key="title">　　2月21日，记者从省卫健委了解到，截至2月20日24时，全省累计确诊新冠肺炎病例121例，其中79%的病例在中医药参与治疗后症状明显改善，全省中医药参与治疗的治愈患者平均住院日12.91天</data>
+        <data key="time">2020-02-20</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[记者, 卫健委, 全省, 累计, 确诊, 新冠, 肺炎, 病例, 中医药, 参与, 治疗, 症状, 改善, 治愈, 患者, 住院日]</data>
+      </node>
+      <node id="{纳入-病例}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报告-病例}, {纳入-病例}]</data>
+        <data key="title">　　截至2020年2月22日24时，湖北省累计报告新冠肺炎确诊病例64084例，其中：武汉市46201例、黄石市1001例、十堰市667例、襄阳市1173例、宜昌市917例、荆州市1574例、荆门市918例、鄂州市1379例、孝感市3443例、黄冈市2904例、咸宁市836例、随州市1300例、恩施州251例、仙桃市571例、天门市494例、潜江市191例、神农架林区11例、监狱253例（另有51例已纳入相关市州确诊病例，作了统计报告）</data>
+        <data key="time">2020-02-22</data>
+        <data key="person">[]</data>
+        <data key="location">[黄冈市, 天门市, 孝感市, 襄阳市, 湖北省, 神农架, 鄂州市, 仙桃市, 十堰市, 咸宁市, 潜江市, 黄石市, 荆州市, 随州市, 宜昌市, 恩施州, 武汉市, 荆门市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[累计, 报告, 新冠, 肺炎, 确诊, 病例, 林区, 监狱, 纳入, 相关市, 统计]</data>
+      </node>
+      <node id="{反对-指责}_e" labels=":EVENTNODE">
+        <data key="trigger">[{反感}, {指责}, {反对-指责}, {敦促}, {停止-损害}]</data>
+        <data key="title">　　新华社北京2月26日电（记者成欣）外交部发言人赵立坚26日说，中方十分反感并坚决反对美国国务卿蓬佩奥对中国新冠肺炎疫情防控工作的无端指责，敦促美方摘下意识形态有色眼镜，停止损害中美互信与合作</data>
+        <data key="time">2020-02-26</data>
+        <data key="person">[蓬佩奥, 赵立坚, 成欣]</data>
+        <data key="location">[美国, 中国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 发言人, 中方, 反对, 国务卿, 新冠, 肺炎, 疫情, 防控, 工作, 指责, 敦促, 美方, 意识形态, 眼镜, 停止, 损害, 互信, 合作]</data>
+      </node>
+      <node id="{治疗}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报告-病例}, {治疗}, {治愈}, {出院}]</data>
+        <data key="title">　　截至2月24日24时，河北省累计报告确诊病例311例，其中在院治疗64例，现有重症病例5例，累计治愈出院241例，死亡6例</data>
+        <data key="time">2020-02-24</data>
+        <data key="person">[]</data>
+        <data key="location">[河北省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[累计, 报告, 确诊, 病例, 治疗, 现有, 重症, 治愈, 出院, 死亡]</data>
+      </node>
+      <node id="{治愈-病例}_e" labels=":EVENTNODE">
+        <data key="trigger">[{治愈-病例}, {观察}, {累计-观察}, {观察}]</data>
+        <data key="title">    截至3月2日24时，安徽省累计报告确诊病例990例，累计治愈出院病例917例，累计死亡病例6例，累计医学观察密切接触者28235人，尚在医学观察504人</data>
+        <data key="time">2020-03-02</data>
+        <data key="person">[]</data>
+        <data key="location">[安徽省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[累计, 报告, 确诊, 病例, 治愈, 出院, 死亡, 医学, 观察, 接触者]</data>
+      </node>
+      <node id="{接入-系统}_e" labels=":EVENTNODE">
+        <data key="trigger">[{接入-系统}, {接到-报卡}, {报告}, {纳入-统计}, {纳入-数据}]</data>
+        <data key="title">　　此外，由于湖北省监狱部门目前没有接入传染病疫情网络报告系统，2月20日深夜接到监狱部门手工报卡后，经认真审核确认，截至2月20日24时，监狱部门报告的271例新冠肺炎确诊病例中有51例前期已纳入相关地区统计并公布，其余220例确诊病例和10例疑似病例纳入了2月20日疫情数据进行订正并公布</data>
+        <data key="time">2020-02-20</data>
+        <data key="person">[]</data>
+        <data key="location">[湖北省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[监狱, 部门, 接入, 传染病, 疫情, 网络, 报告, 系统, 接到, 手工, 报卡, 审核, 确认, 冠肺炎, 确诊, 病例, 纳入, 相关, 地区, 统计, 公布, 疑似, 数据, 订正]</data>
+      </node>
+      <node id="{预计-治愈}_e" labels=":EVENTNODE">
+        <data key="trigger">[{预计-治愈}, {出院}]</data>
+        <data key="title">    3月3日预计治愈出院24例，其中阜阳6例、六安6例、合肥4例、蚌埠4例、宿州1例、淮南1例、滁州1例、马鞍山1例</data>
+        <data key="time">2020-03-03</data>
+        <data key="person">[]</data>
+        <data key="location">[宿州, 淮南, 阜阳, 马鞍山, 合肥]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[预计, 治愈, 出院, 滁州]</data>
+      </node>
+      <node id="{探视-老翁}_e" labels=":EVENTNODE">
+        <data key="trigger">[{探视-老翁}, {隔离}]</data>
+        <data key="title">他曾于2月11日及19日至医院探视老翁，无疑似症状，2月23日进行接触者采检，25日确诊后已收治医院隔离观察</data>
+        <data key="time">2020-02-11</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[医院, 探视, 老翁, 症状, 接触者, 采检, 确诊, 收治, 隔离, 观察]</data>
+      </node>
+      <node id="{出院-病例}_e" labels=":EVENTNODE">
+        <data key="trigger">[{新增-病例}, {新增-病例}, {新增-治愈}, {出院-病例}]</data>
+        <data key="title">    2020年2月14日0-24时，安徽省报告新增确诊病例16例，新增疑似病例13例，新增治愈出院病例32例</data>
+        <data key="time">2020-02-14</data>
+        <data key="person">[]</data>
+        <data key="location">[安徽省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[报告, 新增, 确诊, 病例, 疑似, 治愈, 出院]</data>
+      </node>
+      <node id="{攻关}_e" labels=":EVENTNODE">
+        <data key="trigger">[{获悉}, {救治}, {防控}, {攻关}, {检验}, {筛查}, {销售-动物}]</data>
+        <data key="title">　　新华社北京2月21日电（记者伍岳、陈聪）记者21日从国家卫健委获悉，2月18日—20日，中国—世界卫生组织新冠肺炎联合专家考察组在广东省和四川省开展现场调研，了解新冠肺炎疫情形势、防控措施、医疗救治、社区防控、科研攻关、出入境检验检疫、旅客筛查、野生动物销售管理等工作</data>
+        <data key="time">2020-02-18</data>
+        <data key="person">[陈聪, 伍岳]</data>
+        <data key="location">[广东省, 中国, 四川省, 北京]</data>
+        <data key="organization">[国家卫健委, 世界卫生组织, 新华社]</data>
+        <data key="keywords">[记者, 国家, 卫健委, 获悉, 世界, 组织, 新冠, 肺炎, 联合, 专家, 考察组, 现场, 调研, 冠肺炎, 疫情, 形势, 防控, 措施, 医疗, 救治, 社区, 科研, 攻关, 出入境, 检验, 检疫, 旅客, 筛查, 动物, 销售, 管理, 工作]</data>
+      </node>
+      <node id="{采用-思路}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收治-病例}, {采用-思路}, {治疗}, {予以-治疗}]</data>
+        <data key="title">锦州中心于1月28日至2月9日收治锦州市当地确诊病例9例，其中8人采用“一人一日一方”的思路，予以辨证治疗，平均住院天数为11.75天</data>
+        <data key="time">2020-02-09</data>
+        <data key="person">[]</data>
+        <data key="location">[锦州市]</data>
+        <data key="organization">[锦州中心]</data>
+        <data key="keywords">[锦州, 中心, 收治, 确诊, 病例, 采用, 思路, 予以, 辨证, 治疗, 住院, 天数]</data>
+      </node>
+      <node id="{改善}_e" labels=":EVENTNODE">
+        <data key="trigger">[{确诊-病例}, {改善}, {参与-治疗}, {参与-治疗}]</data>
+        <data key="title">　　2月21日，记者从省卫健委了解到，截至2月20日24时，全省累计确诊新冠肺炎病例121例，其中79%的病例在中医药参与治疗后症状明显改善，全省中医药参与治疗的治愈患者平均住院日12.91天</data>
+        <data key="time">2020-02-20</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[记者, 卫健委, 全省, 累计, 确诊, 新冠, 肺炎, 病例, 中医药, 参与, 治疗, 症状, 改善, 治愈, 患者, 住院日]</data>
+      </node>
+      <node id="{获悉}_e" labels=":EVENTNODE">
+        <data key="trigger">[{获悉}, {建设-平台}]</data>
+        <data key="title">记者3月2日获悉，近日在“中科院科技攻关指挥部”协调下，科大讯飞攻关团队在3天内便快速完成了“新冠肺炎影像辅助诊断平台”建设</data>
+        <data key="time">2020-03-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[记者, 获悉, 中科院, 科技, 攻关, 指挥部, 协调, 科大, 讯飞, 团队, 新冠, 肺炎, 影像, 辅助, 诊断, 平台, 建设]</data>
+      </node>
+      <node id="{公布}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {新增-病例}, {确诊}, {死亡}, {出院}, {住院}]</data>
+        <data key="title">　　新华社台北2月25日电（记者吴济海、傅双琪）台湾地区流行疫情指挥中心25日举行记者会公布，岛内新冠肺炎新增1例确诊病例，累计31例确诊，其中1人死亡、5人出院，其余个案持续住院隔离中</data>
+        <data key="time">2020-02-25</data>
+        <data key="person">[吴济海, 傅双琪]</data>
+        <data key="location">[台湾地区, 台北]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 台湾, 地区, 流行, 疫情, 指挥, 中心, 记者会, 公布, 岛内, 新冠, 肺炎, 新增, 确诊, 病例, 累计, 死亡, 出院, 个案, 持续, 住院, 隔离]</data>
+      </node>
+      <node id="{肯定}_e" labels=":EVENTNODE">
+        <data key="trigger">[{培训-知识}, {聆听-内容}, {肯定}]</data>
+        <data key="title">　　新华网喀土穆2月22日电（记者马意翀）记者19日从中国第35批援苏丹医疗队了解到，当天中国和苏丹两国医务人员在恩图曼友谊医院开展了一场新冠肺炎防控与诊疗知识培训讲座，两国50多名医护人员认真聆听了培训内容，此举得到苏丹卫生部等专家高度肯定</data>
+        <data key="time">2020-02-22</data>
+        <data key="person">[马意翀]</data>
+        <data key="location">[中国, 苏丹, 喀土穆]</data>
+        <data key="organization">[苏丹卫生部, 恩图曼友谊医院]</data>
+        <data key="keywords">[新华网, 记者, 批援, 医疗队, 人员, 恩图曼, 友谊, 医院, 新冠, 肺炎, 防控, 诊疗, 知识, 培训, 讲座, 医护, 聆听, 内容, 卫生部, 专家, 肯定]</data>
+      </node>
+      <node id="{新增-确诊}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {新增-确诊}, {确诊}]</data>
+        <data key="title">　　新华社台北2月19日电（记者查文晔、吴济海）台湾地区流行疫情指挥中心19日公布，台湾新增1例新冠肺炎确诊病例</data>
+        <data key="time">2020-02-19</data>
+        <data key="person">[查文晔, 吴济海]</data>
+        <data key="location">[台湾, 台湾地区, 台北]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 地区, 流行, 疫情, 指挥, 中心, 公布, 新增, 冠肺炎, 确诊, 病例]</data>
+      </node>
+      <node id="{隔离}_e" labels=":EVENTNODE">
+        <data key="trigger">[{探视-老翁}, {隔离}]</data>
+        <data key="title">他曾于2月11日及19日至医院探视老翁，无疑似症状，2月23日进行接触者采检，25日确诊后已收治医院隔离观察</data>
+        <data key="time">2020-02-23</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[医院, 探视, 老翁, 症状, 接触者, 采检, 确诊, 收治, 隔离, 观察]</data>
+      </node>
+      <node id="{指责}_e" labels=":EVENTNODE">
+        <data key="trigger">[{反感}, {指责}, {反对-指责}, {敦促}, {停止-损害}]</data>
+        <data key="title">　　新华社北京2月26日电（记者成欣）外交部发言人赵立坚26日说，中方十分反感并坚决反对美国国务卿蓬佩奥对中国新冠肺炎疫情防控工作的无端指责，敦促美方摘下意识形态有色眼镜，停止损害中美互信与合作</data>
+        <data key="time">2020-02-26</data>
+        <data key="person">[蓬佩奥, 赵立坚, 成欣]</data>
+        <data key="location">[美国, 中国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 发言人, 中方, 反对, 国务卿, 新冠, 肺炎, 疫情, 防控, 工作, 指责, 敦促, 美方, 意识形态, 眼镜, 停止, 损害, 互信, 合作]</data>
+      </node>
+      <node id="{敦促}_e" labels=":EVENTNODE">
+        <data key="trigger">[{反感}, {指责}, {反对-指责}, {敦促}, {停止-损害}]</data>
+        <data key="title">　　新华社北京2月26日电（记者成欣）外交部发言人赵立坚26日说，中方十分反感并坚决反对美国国务卿蓬佩奥对中国新冠肺炎疫情防控工作的无端指责，敦促美方摘下意识形态有色眼镜，停止损害中美互信与合作</data>
+        <data key="time">2020-02-26</data>
+        <data key="person">[蓬佩奥, 赵立坚, 成欣]</data>
+        <data key="location">[美国, 中国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 发言人, 中方, 反对, 国务卿, 新冠, 肺炎, 疫情, 防控, 工作, 指责, 敦促, 美方, 意识形态, 眼镜, 停止, 损害, 互信, 合作]</data>
+      </node>
+      <node id="{表达-支持}_e" labels=":EVENTNODE">
+        <data key="trigger">[{召集}, {表达-支持}, {抗击-疫情}]</data>
+        <data key="title">　　新华社洛杉矶2月24日电（记者谭晶晶）美国洛杉矶县县政委员会和公共卫生局24日在洛杉矶市召集举行抗击新冠肺炎疫情圆桌会议，与会各界代表表达了对中国抗击疫情的支持</data>
+        <data key="time">2020-02-24</data>
+        <data key="person">[谭晶晶]</data>
+        <data key="location">[洛杉矶市, 中国, 洛杉矶]</data>
+        <data key="organization">[美国洛杉矶县县政委员会, 新华社]</data>
+        <data key="keywords">[记者, 美国, 洛杉矶县, 县政, 委员会, 卫生局, 召集, 抗击, 冠肺炎, 疫情, 圆桌会议, 与会, 代表, 表达, 支持]</data>
+      </node>
+      <node id="{发布-通告}_e" labels=":EVENTNODE">
+        <data key="trigger">[{应对-疫情}, {发布-通告}, {调整-级别}]</data>
+        <data key="title">字强）云南省应对疫情工作领导小组指挥部23日晚发布通告称，按照国家有关法律法规和国家卫生健康委有关文件规定，根据云南省新型冠状病毒肺炎疫情发展形势，经云南省人民政府研究决定，自2020年2月24日零时起，云南省新型冠状病毒肺炎疫情防控应急响应级别由一级应急响应调整为省级三级应急响应</data>
+        <data key="time">2020-02-24</data>
+        <data key="person">[字强]</data>
+        <data key="location">[云南省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[应对, 疫情, 工作, 领导, 小组, 指挥部, 发布, 通告, 国家, 法律, 法规, 健康委, 文件, 冠状, 病毒, 肺炎, 发展, 形势, 人民政府, 研究, 防控, 应急, 响应, 级别, 调整]</data>
+      </node>
+      <node id="{反感}_e" labels=":EVENTNODE">
+        <data key="trigger">[{反感}, {指责}, {反对-指责}, {敦促}, {停止-损害}]</data>
+        <data key="title">　　新华社北京2月26日电（记者成欣）外交部发言人赵立坚26日说，中方十分反感并坚决反对美国国务卿蓬佩奥对中国新冠肺炎疫情防控工作的无端指责，敦促美方摘下意识形态有色眼镜，停止损害中美互信与合作</data>
+        <data key="time">2020-02-26</data>
+        <data key="person">[蓬佩奥, 赵立坚, 成欣]</data>
+        <data key="location">[美国, 中国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 发言人, 中方, 反对, 国务卿, 新冠, 肺炎, 疫情, 防控, 工作, 指责, 敦促, 美方, 意识形态, 眼镜, 停止, 损害, 互信, 合作]</data>
+      </node>
+      <node id="{筛查}_e" labels=":EVENTNODE">
+        <data key="trigger">[{获悉}, {救治}, {防控}, {攻关}, {检验}, {筛查}, {销售-动物}]</data>
+        <data key="title">　　新华社北京2月21日电（记者伍岳、陈聪）记者21日从国家卫健委获悉，2月18日—20日，中国—世界卫生组织新冠肺炎联合专家考察组在广东省和四川省开展现场调研，了解新冠肺炎疫情形势、防控措施、医疗救治、社区防控、科研攻关、出入境检验检疫、旅客筛查、野生动物销售管理等工作</data>
+        <data key="time">2020-02-18</data>
+        <data key="person">[陈聪, 伍岳]</data>
+        <data key="location">[广东省, 中国, 四川省, 北京]</data>
+        <data key="organization">[国家卫健委, 世界卫生组织, 新华社]</data>
+        <data key="keywords">[记者, 国家, 卫健委, 获悉, 世界, 组织, 新冠, 肺炎, 联合, 专家, 考察组, 现场, 调研, 冠肺炎, 疫情, 形势, 防控, 措施, 医疗, 救治, 社区, 科研, 攻关, 出入境, 检验, 检疫, 旅客, 筛查, 动物, 销售, 管理, 工作]</data>
+      </node>
+      <node id="{销售-动物}_e" labels=":EVENTNODE">
+        <data key="trigger">[{获悉}, {救治}, {防控}, {攻关}, {检验}, {筛查}, {销售-动物}]</data>
+        <data key="title">　　新华社北京2月21日电（记者伍岳、陈聪）记者21日从国家卫健委获悉，2月18日—20日，中国—世界卫生组织新冠肺炎联合专家考察组在广东省和四川省开展现场调研，了解新冠肺炎疫情形势、防控措施、医疗救治、社区防控、科研攻关、出入境检验检疫、旅客筛查、野生动物销售管理等工作</data>
+        <data key="time">2020-02-18</data>
+        <data key="person">[陈聪, 伍岳]</data>
+        <data key="location">[广东省, 中国, 四川省, 北京]</data>
+        <data key="organization">[国家卫健委, 世界卫生组织, 新华社]</data>
+        <data key="keywords">[记者, 国家, 卫健委, 获悉, 世界, 组织, 新冠, 肺炎, 联合, 专家, 考察组, 现场, 调研, 冠肺炎, 疫情, 形势, 防控, 措施, 医疗, 救治, 社区, 科研, 攻关, 出入境, 检验, 检疫, 旅客, 筛查, 动物, 销售, 管理, 工作]</data>
+      </node>
+      <node id="{新增-治愈}_e" labels=":EVENTNODE">
+        <data key="trigger">[{新增-病例}, {新增-病例}, {新增-治愈}]</data>
+        <data key="title">    2020年3月2日0-24时，安徽省报告无新增确诊病例，无新增疑似病例，新增治愈出院病例29例</data>
+        <data key="time">2020-03-02</data>
+        <data key="person">[]</data>
+        <data key="location">[安徽省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[报告, 新增, 确诊, 病例, 疑似, 治愈, 出院]</data>
+      </node>
+      <node id="{对接-方案}_e" labels=":EVENTNODE">
+        <data key="trigger">[{对接-方案}, {调整}, {核减-病例}]</data>
+        <data key="title">为对接此次诊疗方案调整，2月19日，有的市州组织对前期报告的临床诊断病例按照第六版诊疗方案进行了订正，核减了部分病例</data>
+        <data key="time">2020-02-19</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[对接, 诊疗, 方案, 调整, 市州, 组织, 报告, 临床, 诊断, 病例, 订正, 核减]</data>
+      </node>
+      <node id="{检验-流感}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发烧}, {检验-流感}, {列入}]</data>
+        <data key="title">　　80多岁男性在2月9日因发烧，诊断为肺炎，16日因呼吸急促转至加护病房，因为之前检验流感都是阴性，所以列入扩大采检，23日确诊</data>
+        <data key="time">2020-02-09</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[男性, 发烧, 诊断, 肺炎, 呼吸, 加护, 病房, 检验, 流感, 阴性, 列入, 采检, 确诊]</data>
+      </node>
+      <node id="{聆听-内容}_e" labels=":EVENTNODE">
+        <data key="trigger">[{培训-知识}, {聆听-内容}, {肯定}]</data>
+        <data key="title">　　新华网喀土穆2月22日电（记者马意翀）记者19日从中国第35批援苏丹医疗队了解到，当天中国和苏丹两国医务人员在恩图曼友谊医院开展了一场新冠肺炎防控与诊疗知识培训讲座，两国50多名医护人员认真聆听了培训内容，此举得到苏丹卫生部等专家高度肯定</data>
+        <data key="time">2020-02-22</data>
+        <data key="person">[马意翀]</data>
+        <data key="location">[中国, 苏丹, 喀土穆]</data>
+        <data key="organization">[苏丹卫生部, 恩图曼友谊医院]</data>
+        <data key="keywords">[新华网, 记者, 批援, 医疗队, 人员, 恩图曼, 友谊, 医院, 新冠, 肺炎, 防控, 诊疗, 知识, 培训, 讲座, 医护, 聆听, 内容, 卫生部, 专家, 肯定]</data>
+      </node>
+      <node id="{出院}_e" labels=":EVENTNODE">
+        <data key="trigger">[{预计-治愈}, {出院}]</data>
+        <data key="title">    3月3日预计治愈出院24例，其中阜阳6例、六安6例、合肥4例、蚌埠4例、宿州1例、淮南1例、滁州1例、马鞍山1例</data>
+        <data key="time">2020-03-03</data>
+        <data key="person">[]</data>
+        <data key="location">[宿州, 淮南, 阜阳, 马鞍山, 合肥]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[预计, 治愈, 出院, 滁州]</data>
+      </node>
+      <node id="{调整-级别}_e" labels=":EVENTNODE">
+        <data key="trigger">[{应对-疫情}, {发布-通告}, {调整-级别}]</data>
+        <data key="title">字强）云南省应对疫情工作领导小组指挥部23日晚发布通告称，按照国家有关法律法规和国家卫生健康委有关文件规定，根据云南省新型冠状病毒肺炎疫情发展形势，经云南省人民政府研究决定，自2020年2月24日零时起，云南省新型冠状病毒肺炎疫情防控应急响应级别由一级应急响应调整为省级三级应急响应</data>
+        <data key="time">2020-02-24</data>
+        <data key="person">[字强]</data>
+        <data key="location">[云南省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[应对, 疫情, 工作, 领导, 小组, 指挥部, 发布, 通告, 国家, 法律, 法规, 健康委, 文件, 冠状, 病毒, 肺炎, 发展, 形势, 人民政府, 研究, 防控, 应急, 响应, 级别, 调整]</data>
+      </node>
+      <node id="{接到-报卡}_e" labels=":EVENTNODE">
+        <data key="trigger">[{接入-系统}, {接到-报卡}, {报告}, {纳入-统计}, {纳入-数据}]</data>
+        <data key="title">　　此外，由于湖北省监狱部门目前没有接入传染病疫情网络报告系统，2月20日深夜接到监狱部门手工报卡后，经认真审核确认，截至2月20日24时，监狱部门报告的271例新冠肺炎确诊病例中有51例前期已纳入相关地区统计并公布，其余220例确诊病例和10例疑似病例纳入了2月20日疫情数据进行订正并公布</data>
+        <data key="time">2020-02-20</data>
+        <data key="person">[]</data>
+        <data key="location">[湖北省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[监狱, 部门, 接入, 传染病, 疫情, 网络, 报告, 系统, 接到, 手工, 报卡, 审核, 确认, 冠肺炎, 确诊, 病例, 纳入, 相关, 地区, 统计, 公布, 疑似, 数据, 订正]</data>
+      </node>
+      <node id="{治疗-病例}_e" labels=":EVENTNODE">
+        <data key="trigger">[{治疗-病例}]</data>
+        <data key="title">    截至3月2日24时，安徽省在院治疗确诊病例67例，无危重症病例</data>
+        <data key="time">2020-03-02</data>
+        <data key="person">[]</data>
+        <data key="location">[安徽省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[治疗, 确诊, 病例, 无危重症]</data>
+      </node>
+      <node id="{报告}_e" labels=":EVENTNODE">
+        <data key="trigger">[{接入-系统}, {接到-报卡}, {报告}, {纳入-统计}, {纳入-数据}]</data>
+        <data key="title">　　此外，由于湖北省监狱部门目前没有接入传染病疫情网络报告系统，2月20日深夜接到监狱部门手工报卡后，经认真审核确认，截至2月20日24时，监狱部门报告的271例新冠肺炎确诊病例中有51例前期已纳入相关地区统计并公布，其余220例确诊病例和10例疑似病例纳入了2月20日疫情数据进行订正并公布</data>
+        <data key="time">2020-02-20</data>
+        <data key="person">[]</data>
+        <data key="location">[湖北省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[监狱, 部门, 接入, 传染病, 疫情, 网络, 报告, 系统, 接到, 手工, 报卡, 审核, 确认, 冠肺炎, 确诊, 病例, 纳入, 相关, 地区, 统计, 公布, 疑似, 数据, 订正]</data>
+      </node>
+      <node id="{纳入-统计}_e" labels=":EVENTNODE">
+        <data key="trigger">[{接入-系统}, {接到-报卡}, {报告}, {纳入-统计}, {纳入-数据}]</data>
+        <data key="title">　　此外，由于湖北省监狱部门目前没有接入传染病疫情网络报告系统，2月20日深夜接到监狱部门手工报卡后，经认真审核确认，截至2月20日24时，监狱部门报告的271例新冠肺炎确诊病例中有51例前期已纳入相关地区统计并公布，其余220例确诊病例和10例疑似病例纳入了2月20日疫情数据进行订正并公布</data>
+        <data key="time">2020-02-20</data>
+        <data key="person">[]</data>
+        <data key="location">[湖北省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[监狱, 部门, 接入, 传染病, 疫情, 网络, 报告, 系统, 接到, 手工, 报卡, 审核, 确认, 冠肺炎, 确诊, 病例, 纳入, 相关, 地区, 统计, 公布, 疑似, 数据, 订正]</data>
+      </node>
+      <node id="{死亡}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {新增-病例}, {确诊}, {死亡}, {出院}, {住院}]</data>
+        <data key="title">　　新华社台北2月25日电（记者吴济海、傅双琪）台湾地区流行疫情指挥中心25日举行记者会公布，岛内新冠肺炎新增1例确诊病例，累计31例确诊，其中1人死亡、5人出院，其余个案持续住院隔离中</data>
+        <data key="time">2020-02-25</data>
+        <data key="person">[吴济海, 傅双琪]</data>
+        <data key="location">[台湾地区, 台北]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 台湾, 地区, 流行, 疫情, 指挥, 中心, 记者会, 公布, 岛内, 新冠, 肺炎, 新增, 确诊, 病例, 累计, 死亡, 出院, 个案, 持续, 住院, 隔离]</data>
+      </node>
+      <node id="{停止-损害}_e" labels=":EVENTNODE">
+        <data key="trigger">[{反感}, {指责}, {反对-指责}, {敦促}, {停止-损害}]</data>
+        <data key="title">　　新华社北京2月26日电（记者成欣）外交部发言人赵立坚26日说，中方十分反感并坚决反对美国国务卿蓬佩奥对中国新冠肺炎疫情防控工作的无端指责，敦促美方摘下意识形态有色眼镜，停止损害中美互信与合作</data>
+        <data key="time">2020-02-26</data>
+        <data key="person">[蓬佩奥, 赵立坚, 成欣]</data>
+        <data key="location">[美国, 中国, 北京]</data>
+        <data key="organization">[外交部, 新华社]</data>
+        <data key="keywords">[记者, 发言人, 中方, 反对, 国务卿, 新冠, 肺炎, 疫情, 防控, 工作, 指责, 敦促, 美方, 意识形态, 眼镜, 停止, 损害, 互信, 合作]</data>
+      </node>
+      <node id="{确诊-病例}_e" labels=":EVENTNODE">
+        <data key="trigger">[{确诊-病例}, {改善}, {参与-治疗}, {参与-治疗}]</data>
+        <data key="title">　　2月21日，记者从省卫健委了解到，截至2月20日24时，全省累计确诊新冠肺炎病例121例，其中79%的病例在中医药参与治疗后症状明显改善，全省中医药参与治疗的治愈患者平均住院日12.91天</data>
+        <data key="time">2020-02-20</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[记者, 卫健委, 全省, 累计, 确诊, 新冠, 肺炎, 病例, 中医药, 参与, 治疗, 症状, 改善, 治愈, 患者, 住院日]</data>
+      </node>
+      <node id="{发布}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发布}, {新增-病例}]</data>
+        <data key="title">　　新华社台北2月23日电（记者吴济海、查文晔）台湾地区流行疫情指挥中心23日发布，台湾新增2例新冠肺炎确诊病例，目前累计28例确诊</data>
+        <data key="time">2020-02-23</data>
+        <data key="person">[查文晔, 吴济海]</data>
+        <data key="location">[台湾, 台湾地区, 台北]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 地区, 流行, 疫情, 指挥, 中心, 发布, 新增, 新冠, 肺炎, 确诊, 病例, 累计]</data>
+      </node>
+      <node id="{召集}_e" labels=":EVENTNODE">
+        <data key="trigger">[{召集}, {表达-支持}, {抗击-疫情}]</data>
+        <data key="title">　　新华社洛杉矶2月24日电（记者谭晶晶）美国洛杉矶县县政委员会和公共卫生局24日在洛杉矶市召集举行抗击新冠肺炎疫情圆桌会议，与会各界代表表达了对中国抗击疫情的支持</data>
+        <data key="time">2020-02-24</data>
+        <data key="person">[谭晶晶]</data>
+        <data key="location">[洛杉矶市, 中国, 洛杉矶]</data>
+        <data key="organization">[美国洛杉矶县县政委员会, 新华社]</data>
+        <data key="keywords">[记者, 美国, 洛杉矶县, 县政, 委员会, 卫生局, 召集, 抗击, 冠肺炎, 疫情, 圆桌会议, 与会, 代表, 表达, 支持]</data>
+      </node>
+      <node id="{取消-方案}_e" labels=":EVENTNODE">
+        <data key="trigger">[{印发-方案}, {试行}, {取消-方案}]</data>
+        <data key="title">2月18日国家卫生健康委办公厅和国家中医药管理局办公室印发《新型冠状病毒肺炎诊疗方案（试行第六版）》，相对第五版的诊疗方案，湖北省原有的临床诊断病例类目被取消</data>
+        <data key="time">2020-02-18</data>
+        <data key="person">[]</data>
+        <data key="location">[湖北省]</data>
+        <data key="organization">[国家中医药管理局办公室]</data>
+        <data key="keywords">[国家, 健康委, 办公厅, 中医药, 管理局, 办公室, 印发, 冠状, 病毒, 肺炎, 诊疗, 方案, 试行, 原有, 临床, 诊断, 病例, 类目, 取消]</data>
+      </node>
+      <node id="{列入}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发烧}, {检验-流感}, {列入}]</data>
+        <data key="title">　　80多岁男性在2月9日因发烧，诊断为肺炎，16日因呼吸急促转至加护病房，因为之前检验流感都是阴性，所以列入扩大采检，23日确诊</data>
+        <data key="time">2020-02-09</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[男性, 发烧, 诊断, 肺炎, 呼吸, 加护, 病房, 检验, 流感, 阴性, 列入, 采检, 确诊]</data>
+      </node>
+      <node id="{新增-病例}_e" labels=":EVENTNODE">
+        <data key="trigger">[{新增-病例}, {新增-病例}, {新增-治愈}]</data>
+        <data key="title">    2020年3月2日0-24时，安徽省报告无新增确诊病例，无新增疑似病例，新增治愈出院病例29例</data>
+        <data key="time">2020-03-02</data>
+        <data key="person">[]</data>
+        <data key="location">[安徽省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[报告, 新增, 确诊, 病例, 疑似, 治愈, 出院]</data>
+      </node>
+      <node id="{检验}_e" labels=":EVENTNODE">
+        <data key="trigger">[{获悉}, {救治}, {防控}, {攻关}, {检验}, {筛查}, {销售-动物}]</data>
+        <data key="title">　　新华社北京2月21日电（记者伍岳、陈聪）记者21日从国家卫健委获悉，2月18日—20日，中国—世界卫生组织新冠肺炎联合专家考察组在广东省和四川省开展现场调研，了解新冠肺炎疫情形势、防控措施、医疗救治、社区防控、科研攻关、出入境检验检疫、旅客筛查、野生动物销售管理等工作</data>
+        <data key="time">2020-02-18</data>
+        <data key="person">[陈聪, 伍岳]</data>
+        <data key="location">[广东省, 中国, 四川省, 北京]</data>
+        <data key="organization">[国家卫健委, 世界卫生组织, 新华社]</data>
+        <data key="keywords">[记者, 国家, 卫健委, 获悉, 世界, 组织, 新冠, 肺炎, 联合, 专家, 考察组, 现场, 调研, 冠肺炎, 疫情, 形势, 防控, 措施, 医疗, 救治, 社区, 科研, 攻关, 出入境, 检验, 检疫, 旅客, 筛查, 动物, 销售, 管理, 工作]</data>
+      </node>
+      <node id="{往返-大陆}_e" labels=":EVENTNODE">
+        <data key="trigger">[{往返-大陆}]</data>
+        <data key="title">小儿子因工作需要，频繁往返大陆，去年12月2日从广州返回，过年期间曾与有大陆旅游史的友人聚餐</data>
+        <data key="time">2020-12-02</data>
+        <data key="person">[]</data>
+        <data key="location">[广州]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[小儿子, 工作, 往返, 大陆, 返回, 过年, 旅游史, 友人, 聚餐]</data>
+      </node>
+      <node id="{核减-病例}_e" labels=":EVENTNODE">
+        <data key="trigger">[{对接-方案}, {调整}, {核减-病例}]</data>
+        <data key="title">为对接此次诊疗方案调整，2月19日，有的市州组织对前期报告的临床诊断病例按照第六版诊疗方案进行了订正，核减了部分病例</data>
+        <data key="time">2020-02-19</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[对接, 诊疗, 方案, 调整, 市州, 组织, 报告, 临床, 诊断, 病例, 订正, 核减]</data>
+      </node>
+      <node id="{确诊}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {新增-病例}, {确诊}, {死亡}, {出院}, {住院}]</data>
+        <data key="title">　　新华社台北2月25日电（记者吴济海、傅双琪）台湾地区流行疫情指挥中心25日举行记者会公布，岛内新冠肺炎新增1例确诊病例，累计31例确诊，其中1人死亡、5人出院，其余个案持续住院隔离中</data>
+        <data key="time">2020-02-25</data>
+        <data key="person">[吴济海, 傅双琪]</data>
+        <data key="location">[台湾地区, 台北]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[记者, 台湾, 地区, 流行, 疫情, 指挥, 中心, 记者会, 公布, 岛内, 新冠, 肺炎, 新增, 确诊, 病例, 累计, 死亡, 出院, 个案, 持续, 住院, 隔离]</data>
+      </node>
+      <node id="{分析}_e" labels=":EVENTNODE">
+        <data key="trigger">[{分析}]</data>
+        <data key="title">    疫情简要分析：截至2月14日24时，</data>
+        <data key="time">2020-02-14</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[疫情, 分析]</data>
+      </node>
+      <node id="{显示-阳性}_e" labels=":EVENTNODE">
+        <data key="trigger">[{住院}, {显示-阳性}]</data>
+        <data key="title">2月17日住院，期间第一次采检新冠肺炎病毒为阴性，但第二、第三次采检都是弱阳性，第四次才显示阳性，于19日确诊</data>
+        <data key="time">2020-02-17</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[住院, 采检, 新冠, 肺炎, 病毒, 阴性, 弱阳性, 显示, 阳性, 确诊]</data>
+      </node>
+      <node id="{累计-观察}_e" labels=":EVENTNODE">
+        <data key="trigger">[{治愈-病例}, {观察}, {累计-观察}, {观察}]</data>
+        <data key="title">    截至3月2日24时，安徽省累计报告确诊病例990例，累计治愈出院病例917例，累计死亡病例6例，累计医学观察密切接触者28235人，尚在医学观察504人</data>
+        <data key="time">2020-03-02</data>
+        <data key="person">[]</data>
+        <data key="location">[安徽省]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[累计, 报告, 确诊, 病例, 治愈, 出院, 死亡, 医学, 观察, 接触者]</data>
+      </node>
+      <node id="{抗击-疫情}_e" labels=":EVENTNODE">
+        <data key="trigger">[{召集}, {表达-支持}, {抗击-疫情}]</data>
+        <data key="title">　　新华社洛杉矶2月24日电（记者谭晶晶）美国洛杉矶县县政委员会和公共卫生局24日在洛杉矶市召集举行抗击新冠肺炎疫情圆桌会议，与会各界代表表达了对中国抗击疫情的支持</data>
+        <data key="time">2020-02-24</data>
+        <data key="person">[谭晶晶]</data>
+        <data key="location">[洛杉矶市, 中国, 洛杉矶]</data>
+        <data key="organization">[美国洛杉矶县县政委员会, 新华社]</data>
+        <data key="keywords">[记者, 美国, 洛杉矶县, 县政, 委员会, 卫生局, 召集, 抗击, 冠肺炎, 疫情, 圆桌会议, 与会, 代表, 表达, 支持]</data>
+      </node>
+      <node id="{予以-治疗}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收治-病例}, {采用-思路}, {治疗}, {予以-治疗}]</data>
+        <data key="title">锦州中心于1月28日至2月9日收治锦州市当地确诊病例9例，其中8人采用“一人一日一方”的思路，予以辨证治疗，平均住院天数为11.75天</data>
+        <data key="time">2020-02-09</data>
+        <data key="person">[]</data>
+        <data key="location">[锦州市]</data>
+        <data key="organization">[锦州中心]</data>
+        <data key="keywords">[锦州, 中心, 收治, 确诊, 病例, 采用, 思路, 予以, 辨证, 治疗, 住院, 天数]</data>
+      </node>
+      <node id="{通报}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报}, {新增-病例}]</data>
+        <data key="title">　　新华社武汉3月1日电（记者梁建强、黎昌政）据湖北省卫健委1日通报，2020年2月29日0—24时，全省新增新冠肺炎确诊病例570例，其中：武汉市565例、黄石市1例、十堰市1例、荆门市1例、鄂州市1例、黄冈市1例，襄阳市、宜昌市、荆州市、孝感市、咸宁市、随州市、恩施州、仙桃市、天门市、潜江市、神农架林区均为0例</data>
+        <data key="time">2020-03-01</data>
+        <data key="person">[黎昌政, 梁建强]</data>
+        <data key="location">[黄冈市, 天门市, 孝感市, 襄阳市, 神农架, 仙桃市, 武汉, 十堰市, 咸宁市, 潜江市, 黄石市, 荆州市, 随州市, 宜昌市, 恩施州, 武汉市, 荆门市]</data>
+        <data key="organization">[新华社, 湖北省卫健委]</data>
+        <data key="keywords">[记者, 湖北省, 卫健委, 通报, 全省, 新增, 新冠, 肺炎, 确诊, 病例, 鄂州市, 林区]</data>
+      </node>
+      <node id="{救治}_e" labels=":EVENTNODE">
+        <data key="trigger">[{获悉}, {救治}, {防控}, {攻关}, {检验}, {筛查}, {销售-动物}]</data>
+        <data key="title">　　新华社北京2月21日电（记者伍岳、陈聪）记者21日从国家卫健委获悉，2月18日—20日，中国—世界卫生组织新冠肺炎联合专家考察组在广东省和四川省开展现场调研，了解新冠肺炎疫情形势、防控措施、医疗救治、社区防控、科研攻关、出入境检验检疫、旅客筛查、野生动物销售管理等工作</data>
+        <data key="time">2020-02-18</data>
+        <data key="person">[陈聪, 伍岳]</data>
+        <data key="location">[广东省, 中国, 四川省, 北京]</data>
+        <data key="organization">[国家卫健委, 世界卫生组织, 新华社]</data>
+        <data key="keywords">[记者, 国家, 卫健委, 获悉, 世界, 组织, 新冠, 肺炎, 联合, 专家, 考察组, 现场, 调研, 冠肺炎, 疫情, 形势, 防控, 措施, 医疗, 救治, 社区, 科研, 攻关, 出入境, 检验, 检疫, 旅客, 筛查, 动物, 销售, 管理, 工作]</data>
+      </node>
+      <node id="{印发-方案}_e" labels=":EVENTNODE">
+        <data key="trigger">[{印发-方案}, {试行}, {取消-方案}]</data>
+        <data key="title">2月18日国家卫生健康委办公厅和国家中医药管理局办公室印发《新型冠状病毒肺炎诊疗方案（试行第六版）》，相对第五版的诊疗方案，湖北省原有的临床诊断病例类目被取消</data>
+        <data key="time">2020-02-18</data>
+        <data key="person">[]</data>
+        <data key="location">[湖北省]</data>
+        <data key="organization">[国家中医药管理局办公室]</data>
+        <data key="keywords">[国家, 健康委, 办公厅, 中医药, 管理局, 办公室, 印发, 冠状, 病毒, 肺炎, 诊疗, 方案, 试行, 原有, 临床, 诊断, 病例, 类目, 取消]</data>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e0" source="{预计-治愈}" target="{出院}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e1" source="{确诊}" target="{死亡}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e2" source="{参与-治疗}" target="{治疗}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e3" source="{纳入-病例}" target="{报告-病例}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e4" source="{救治}" target="{防控}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e5" source="{治愈-病例}" target="{观察}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e6" source="{确诊-病例}" target="{改善}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e7" source="{发布}" target="{新增-病例}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e8" source="{公布}" target="{确诊}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e9" source="{反对-指责}" target="{敦促}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e10" source="{筛查}" target="{销售-动物}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e11" source="{发布-通告}" target="{调整-级别}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e12" source="{培训-知识}" target="{聆听-内容}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e13" source="{攻关}" target="{检验}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e14" source="{观察}" target="{累计-观察}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e15" source="{检验}" target="{筛查}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e16" source="{出院-病例}" target="{分析}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e17" source="{核减-病例}" target="{接入-系统}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e18" source="{取消-方案}" target="{对接-方案}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e19" source="{指责}" target="{反对-指责}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e20" source="{对接-方案}" target="{调整}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e21" source="{治疗}" target="{治愈}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e22" source="{予以-治疗}" target="{确诊-病例}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e23" source="{试行}" target="{取消-方案}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e24" source="{收治-病例}" target="{采用-思路}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e25" source="{报告}" target="{纳入-统计}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e26" source="{聆听-内容}" target="{肯定}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e27" source="{调整}" target="{核减-病例}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e28" source="{确诊}" target="{住院}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e29" source="{纳入-统计}" target="{纳入-数据}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e30" source="{获悉}" target="{建设-平台}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e31" source="{列入}" target="{发布}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e32" source="{纳入-数据}" target="{纳入-病例}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e33" source="{报告-病例}" target="{新增-病例}" label="NEXTEVENT weight:5">
+        <data key="weight">5</data>
+      </edge>
+      <edge id="e34" source="{接到-报卡}" target="{报告}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e35" source="{新增-治愈}" target="{治愈-病例}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e36" source="{采用-思路}" target="{予以-治疗}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e37" source="{累计-观察}" target="{治疗-病例}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e38" source="{显示-阳性}" target="{新增-确诊}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e39" source="{新增-病例}" target="{出院}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e40" source="{新增-病例}" target="{新增-治愈}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e41" source="{改善}" target="{参与-治疗}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e42" source="{死亡}" target="{住院}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e43" source="{应对-疫情}" target="{发布-通告}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e44" source="{新增-病例}" target="{往返-大陆}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e45" source="{召集}" target="{表达-支持}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e46" source="{反感}" target="{指责}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e47" source="{销售-动物}" target="{获悉}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e48" source="{印发-方案}" target="{试行}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e49" source="{敦促}" target="{停止-损害}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e50" source="{表达-支持}" target="{抗击-疫情}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e51" source="{新增-确诊}" target="{公布}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e52" source="{住院}" target="{新增-病例}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e53" source="{检验-流感}" target="{列入}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e54" source="{接入-系统}" target="{接到-报卡}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e55" source="{通报}" target="{新增-病例}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e56" source="{治愈}" target="{报告-病例}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e57" source="{防控}" target="{攻关}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e58" source="{核减}" target="{报告-病例}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e59" source="{探视-老翁}" target="{隔离}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e60" source="{分析}" target="{新增-病例}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e61" source="{发烧}" target="{检验-流感}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e62" source="{治疗-病例}" target="{预计-治愈}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e63" source="{隔离}" target="{公布}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e64" source="{报告-病例}" target="{通报}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
