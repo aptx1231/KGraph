@@ -68,7 +68,7 @@
         <font size="5" color="white">事件词云</font>
       </center>
       <div style="height: 80%; width: 80%; margin: auto;" >
-        <el-carousel :interval="5000" arrow="always" style="margin-top: 10px; height: auto"
+        <el-carousel :interval="2000" arrow="always" style="margin-top: 10px; height: auto"
                      trigger="click" indicator-position="none">
           <!--:autoplay="false"-->
           <el-carousel-item v-for="item in imgList" :key="item.id">
@@ -179,6 +179,8 @@
         var o;
         // console.log(country);
         for (o in this.regions) {
+          // console.log(o)
+          // console.log(this.regions[o].name)
           if (this.regions[o].name === country) {
             return o;
           }
@@ -290,12 +292,13 @@
         // this.options.left_down.option = ChartLib['折线图' + this.topic].option;
         // this.options.right_down.option = ChartLib['事件演化' + this.topic].option;
         // this.around(41);
+        console.log(term.topic)
         this.topic_name = term.text;
         if (term.topic == '中国' || term.topic == '香港') {
           this.around('China');
         }
         else if (term.topic == '美国') {
-          this.around('USA');
+          this.around('United States');
         }
         this.right_up_list = this.events[term.topic];
         this.listData = emotionData[term.topic]['evaluation'];

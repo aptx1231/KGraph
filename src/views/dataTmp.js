@@ -20,7 +20,9 @@ var topicData = {
 }
 
 var eventData = {
-  '中国': [{
+  '中国':
+      [
+  {
     'date': '2019-12-31',
     'text': '国家卫健委专家组抵达武汉视察情况'
   },{
@@ -81,7 +83,9 @@ var eventData = {
     'date': '2020-03-10',
     'text': '武汉16家方舱医院全部休舱'
   }],
-  '香港': [{
+  '香港':
+      [
+  {
     'date': '2019-06-09',
     'text': '有示威者发起“反修例”游行，意图冲击立法会'
   },{
@@ -123,73 +127,83 @@ var eventData = {
   },{
     'date': '2019-10-01',
     'text': '蒙面暴徒在香港多区非法集结，无差别破坏袭击'
-  }]
+  }],
+  '美国':
+      [
+    {
+        'date': '2019-06-09',
+        'text': '有示威者发起“反修例”游行，意图冲击立法会'
+    },{
+        'date': '2019-06-12',
+        'text': '示威者霸占金钟一带非法集会，袭警'
+    }]
 };
 
 var cloudData = {
-  '中国':
+  '美国':
       [
-      {
-    'date': '2019-12-31',
-    'text': '国家卫健委专家组抵达武汉视察情况'
-  },{
-    'date': '2019-12-31',
-    'text': '武汉卫健委通报27例新型肺炎，未发现明显人传人'
-  },{
-    'date': '2020-01-01',
-    'text': '8名涉嫌散布武汉肺炎谣言者被依法查处'
-  },{
-    'date': '2020-01-08',
-    'text': '8名感染新型肺炎的患者出院'
-  },{
-    'date': '2020-01-11',
-    'text': '武汉卫健委通报1例死亡病例'
-  },{
-    'date': '2020-01-15',
-    'text': '武汉卫健委：不能排除有限人传人'
-  },{
-    'date': '2020-01-20',
-    'text': '钟南山：新型肺炎存在人传人'
-  },{
-    'date': '2020-01-23',
-    'text': '武汉宣布封城'
-  },{
-    'date': '2020-01-24',
-    'text': '武汉宣布建设“火神山”和“雷神山”医院'
-  },{
-    'date': '2020-01-31',
-    'text': '世界卫生组织将新冠疫情列为国际关注的突发公共卫生事件'
-  },{
-    'date': '2020-01-31',
-    'text': '湖北红十字会物资使用情况引发质疑'
-  },{
-    'date': '2020-02-06',
-    'text': '疫情“吹哨人”李文亮医生因感染新冠肺炎去世'
-  },{
-    'date': '2020-02-13',
-    'text': '湖北单日新增新冠肺炎人数破万'
-  },{
-    'date': '2020-02-13',
-    'text': '湖北省委主要负责同志职务调整'
-  },{
-    'date': '2020-02-21',
-    'text': '湖北监狱系统确诊新冠肺炎271例'
-  },{
-    'date': '2020-02-24',
-    'text': '武汉市宣布放开离汉通道的公告无效'
-  },{
-    'date': '2020-02-29',
-    'text': '北京深圳等多地出现境外输入病例'
-  },{
-    'date': '2020-03-01',
-    'text': '武汉多家方舱医院休舱'
-  },{
-    'date': '2020-03-07',
-    'text': '福建泉州一指定隔离酒店倒塌'
-  },{
-    'date': '2020-03-10',
-    'text': '武汉16家方舱医院全部休舱'
-  }],
+        {'data': require('../assets/images/美国/2020-05-01.png'), 'title': '2020-05-01'},
+        {'data': require('../assets/images/美国/2020-05-02.png'), 'title': '2020-05-02'},
+        {'data': require('../assets/images/美国/2020-05-03.png'), 'title': '2020-05-03'},
+        {'data': require('../assets/images/美国/2020-05-04.png'), 'title': '2020-05-04'},
+        {'data': require('../assets/images/美国/2020-05-05.png'), 'title': '2020-05-05'},
+        {'data': require('../assets/images/美国/2020-05-06.png'), 'title': '2020-05-06'},
+        {'data': require('../assets/images/美国/2020-05-07.png'), 'title': '2020-05-07'},
+        {'data': require('../assets/images/美国/2020-05-08.png'), 'title': '2020-05-08'},
+        {'data': require('../assets/images/美国/2020-05-09.png'), 'title': '2020-05-09'},
+        {'data': require('../assets/images/美国/2020-05-10.png'), 'title': '2020-05-10'},
+        {'data': require('../assets/images/美国/2020-05-11.png'), 'title': '2020-05-11'},
+        {'data': require('../assets/images/美国/2020-05-12.png'), 'title': '2020-05-12'},
+        {'data': require('../assets/images/美国/2020-05-13.png'), 'title': '2020-05-13'},
+        {'data': require('../assets/images/美国/2020-05-14.png'), 'title': '2020-05-14'},
+        {'data': require('../assets/images/美国/2020-05-15.png'), 'title': '2020-05-15'},
+        {'data': require('../assets/images/美国/2020-05-16.png'), 'title': '2020-05-16'},
+        {'data': require('../assets/images/美国/2020-05-17.png'), 'title': '2020-05-17'},
+        {'data': require('../assets/images/美国/2020-05-18.png'), 'title': '2020-05-18'},
+        {'data': require('../assets/images/美国/2020-05-19.png'), 'title': '2020-05-19'},
+        {'data': require('../assets/images/美国/2020-05-20.png'), 'title': '2020-05-20'},
+        {'data': require('../assets/images/美国/2020-05-21.png'), 'title': '2020-05-21'},
+        {'data': require('../assets/images/美国/2020-05-22.png'), 'title': '2020-05-22'},
+        {'data': require('../assets/images/美国/2020-05-23.png'), 'title': '2020-05-23'},
+        {'data': require('../assets/images/美国/2020-05-24.png'), 'title': '2020-05-24'},
+        {'data': require('../assets/images/美国/2020-05-25.png'), 'title': '2020-05-25'},
+        {'data': require('../assets/images/美国/2020-05-26.png'), 'title': '2020-05-26'},
+        {'data': require('../assets/images/美国/2020-05-27.png'), 'title': '2020-05-27'},
+        {'data': require('../assets/images/美国/2020-05-28.png'), 'title': '2020-05-28'},
+        {'data': require('../assets/images/美国/2020-05-29.png'), 'title': '2020-05-29'},
+        {'data': require('../assets/images/美国/2020-05-30.png'), 'title': '2020-05-30'},
+        {'data': require('../assets/images/美国/2020-05-31.png'), 'title': '2020-05-31'},
+        {'data': require('../assets/images/美国/2020-06-01.png'), 'title': '2020-06-01'},
+        {'data': require('../assets/images/美国/2020-06-02.png'), 'title': '2020-06-02'},
+        {'data': require('../assets/images/美国/2020-06-03.png'), 'title': '2020-06-03'},
+        {'data': require('../assets/images/美国/2020-06-04.png'), 'title': '2020-06-04'},
+        {'data': require('../assets/images/美国/2020-06-05.png'), 'title': '2020-06-05'},
+        {'data': require('../assets/images/美国/2020-06-06.png'), 'title': '2020-06-06'},
+        {'data': require('../assets/images/美国/2020-06-07.png'), 'title': '2020-06-07'},
+        {'data': require('../assets/images/美国/2020-06-08.png'), 'title': '2020-06-08'},
+        {'data': require('../assets/images/美国/2020-06-09.png'), 'title': '2020-06-09'},
+        {'data': require('../assets/images/美国/2020-06-10.png'), 'title': '2020-06-10'},
+        {'data': require('../assets/images/美国/2020-06-11.png'), 'title': '2020-06-11'},
+        {'data': require('../assets/images/美国/2020-06-12.png'), 'title': '2020-06-12'},
+        {'data': require('../assets/images/美国/2020-06-13.png'), 'title': '2020-06-13'},
+        {'data': require('../assets/images/美国/2020-06-14.png'), 'title': '2020-06-14'},
+        {'data': require('../assets/images/美国/2020-06-15.png'), 'title': '2020-06-15'},
+        {'data': require('../assets/images/美国/2020-06-16.png'), 'title': '2020-06-16'},
+        {'data': require('../assets/images/美国/2020-06-17.png'), 'title': '2020-06-17'},
+        {'data': require('../assets/images/美国/2020-06-18.png'), 'title': '2020-06-18'},
+        {'data': require('../assets/images/美国/2020-06-19.png'), 'title': '2020-06-19'},
+        {'data': require('../assets/images/美国/2020-06-20.png'), 'title': '2020-06-20'},
+        {'data': require('../assets/images/美国/2020-06-21.png'), 'title': '2020-06-21'},
+        {'data': require('../assets/images/美国/2020-06-22.png'), 'title': '2020-06-22'},
+        {'data': require('../assets/images/美国/2020-06-23.png'), 'title': '2020-06-23'},
+        {'data': require('../assets/images/美国/2020-06-24.png'), 'title': '2020-06-24'},
+        {'data': require('../assets/images/美国/2020-06-25.png'), 'title': '2020-06-25'},
+        {'data': require('../assets/images/美国/2020-06-26.png'), 'title': '2020-06-26'},
+        {'data': require('../assets/images/美国/2020-06-27.png'), 'title': '2020-06-27'},
+        {'data': require('../assets/images/美国/2020-06-28.png'), 'title': '2020-06-28'},
+        {'data': require('../assets/images/美国/2020-06-29.png'), 'title': '2020-06-29'},
+        {'data': require('../assets/images/美国/2020-06-30.png'), 'title': '2020-06-30'},
+      ],
   '香港':
       [
     {'data': require('../assets/images/香港/2019-07-01.png'), 'title': '2019-07-01'},
@@ -255,7 +269,40 @@ var cloudData = {
     {'data': require('../assets/images/香港/2019-08-30.png'), 'title': '2019-08-30'},
     {'data': require('../assets/images/香港/2019-08-31.png'), 'title': '2019-08-31'},
     {'data': require('../assets/images/香港/2019-09-01.png'), 'title': '2019-09-01'},
-  ]
+  ],
+  '中国':
+      [
+          {'data': require('../assets/images/中国/2020-06-01.png'), 'title': '2020-06-01'},
+          {'data': require('../assets/images/中国/2020-06-02.png'), 'title': '2020-06-02'},
+          {'data': require('../assets/images/中国/2020-06-03.png'), 'title': '2020-06-03'},
+          {'data': require('../assets/images/中国/2020-06-04.png'), 'title': '2020-06-04'},
+          {'data': require('../assets/images/中国/2020-06-05.png'), 'title': '2020-06-05'},
+          {'data': require('../assets/images/中国/2020-06-06.png'), 'title': '2020-06-06'},
+          {'data': require('../assets/images/中国/2020-06-07.png'), 'title': '2020-06-07'},
+          {'data': require('../assets/images/中国/2020-06-08.png'), 'title': '2020-06-08'},
+          {'data': require('../assets/images/中国/2020-06-09.png'), 'title': '2020-06-09'},
+          {'data': require('../assets/images/中国/2020-06-10.png'), 'title': '2020-06-10'},
+          {'data': require('../assets/images/中国/2020-06-11.png'), 'title': '2020-06-11'},
+          {'data': require('../assets/images/中国/2020-06-12.png'), 'title': '2020-06-12'},
+          {'data': require('../assets/images/中国/2020-06-13.png'), 'title': '2020-06-13'},
+          {'data': require('../assets/images/中国/2020-06-14.png'), 'title': '2020-06-14'},
+          {'data': require('../assets/images/中国/2020-06-15.png'), 'title': '2020-06-15'},
+          {'data': require('../assets/images/中国/2020-06-16.png'), 'title': '2020-06-16'},
+          {'data': require('../assets/images/中国/2020-06-17.png'), 'title': '2020-06-17'},
+          {'data': require('../assets/images/中国/2020-06-18.png'), 'title': '2020-06-18'},
+          {'data': require('../assets/images/中国/2020-06-19.png'), 'title': '2020-06-19'},
+          {'data': require('../assets/images/中国/2020-06-20.png'), 'title': '2020-06-20'},
+          {'data': require('../assets/images/中国/2020-06-21.png'), 'title': '2020-06-21'},
+          {'data': require('../assets/images/中国/2020-06-22.png'), 'title': '2020-06-22'},
+          {'data': require('../assets/images/中国/2020-06-23.png'), 'title': '2020-06-23'},
+          {'data': require('../assets/images/中国/2020-06-24.png'), 'title': '2020-06-24'},
+          {'data': require('../assets/images/中国/2020-06-25.png'), 'title': '2020-06-25'},
+          {'data': require('../assets/images/中国/2020-06-26.png'), 'title': '2020-06-26'},
+          {'data': require('../assets/images/中国/2020-06-27.png'), 'title': '2020-06-27'},
+          {'data': require('../assets/images/中国/2020-06-28.png'), 'title': '2020-06-28'},
+          {'data': require('../assets/images/中国/2020-06-29.png'), 'title': '2020-06-29'},
+          {'data': require('../assets/images/中国/2020-06-30.png'), 'title': '2020-06-30'},
+      ]
 };
 
 var emotionData = {
@@ -288,14 +335,7 @@ var emotionData = {
   '美国': {
     emotion_index: '负向',
     evaluation: [
-      '已经是恐怖分子了！',
-      '一定要严惩暴徒[拳头][拳头][拳头]',
-      '要独立拿美国国旗干啥，一群傻子，自己的国家都搞，到最后美国能保护你吗就是别人的抢，还傻了吧唧的，真的以为会给你什么',
-      '废青，整天啃老，还不工作，就是一群废人',
-      '港独必死！',
-      '是滴！无法无天，绝不容忍',
-      '警察抓人，法官放人，香港病了',
-      '说暴徒太轻，都是杀人放火没脑子的凶手，统统抓住，一个不留，全部法办!'
+      '111111111111111111111111111',
     ]},
 };
 
