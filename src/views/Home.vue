@@ -43,7 +43,7 @@
       <center style="margin-top: 10px;">
         <font size="5" color="white">情感趋势</font>
       </center>
-      <div style="height: 80%; width: 80%;">
+      <div style="height: 80%; width: 100%;">
         <div :hidden="closeEvaluation">
           <p style="margin-top: 35px; margin-bottom: 40px;" align="center">
             <font color="white" size="4">最新情感指数：</font>
@@ -51,9 +51,9 @@
           </p>
         </div>
         <div :hidden="closeChart" style="margin-top: -30px; height: 75%">
-          <div id="myChart" style="height: 190px; width: 100%; margin-left: 11%"></div>
+          <div id="myChart" style="height: 200px; width: 100%;"></div>
         </div>
-        <div>
+        <div style="width: 90%;">
           <vueSeamlessScroll :data="listData" class="seamless-warp" id="haha">
             <ul>
               <li style="font-size: 13px; height: auto;" v-for="(item, index3) in listData" :key="index3">{{item}}</li>
@@ -119,12 +119,9 @@
       return {
         events: {},
         listData: [],
-        imgList: [
-          // {id:0,idView: require('../assets/images/香港714-731.png'), title: "7.1-7.5" },
-          // {id:1,idView: require('../assets/images/香港71-713.png'), title: "7.6-7.10"  },
-          // {id:2,idView: require('../assets/images/香港714-731.png'), title: "7.10-7.15" },
-          // {id:3,idView: require('../assets/images/香港71-713.png'), title: "7.15-7.20" },
-        ],
+        imgList: [],
+        timedata : [],
+        scoredata : [],
         // Common: Common,
         jumpto: "",
         topic_index: '',
@@ -164,12 +161,13 @@
       this.listData = emotionData['中国']['evaluation'];
       this.topic_index = emotionData['中国']['emotion_index'];
       this.imgList = cloudData['中国'];
+      this.timedata = emotionData['中国']['timedata'];
+      this.scoredata = emotionData['中国']['scoredata'];
       this.echartsGlobe();
       this.around('China');
       this.drawLine();
-      var haha = document.getElementById('haha');
-      // console.log(haha);
 
+      var haha = document.getElementById('haha');
       var wrapper = document.querySelector('.scroll-wrapper');
       var scroll = new BScroll(wrapper, {});
     },
@@ -304,15 +302,11 @@
         this.listData = emotionData[term.topic]['evaluation'];
         this.topic_index = emotionData[term.topic]['emotion_index'];
         this.imgList = cloudData[term.topic];
-
-        if (term.text != '新冠肺炎专题') {
-          this.closeChart = true;
-          this.closeEvaluation = false;
-        } else {
-          this.closeEvaluation = true;
-          this.closeChart = false;
-        }
-        //console.log(this.regions)
+        this.timedata = emotionData[term.topic]['timedata'];
+        this.scoredata = emotionData[term.topic]['scoredata'];
+        this.drawLine();
+        this.closeChart = false;
+        this.closeEvaluation = true;
       },
 
       jumpTo: function () {
@@ -343,7 +337,7 @@
           */
           xAxis: {
             boundaryGap: false,
-            data: ["3.27", "3.28", "3.29", "3.30", "3.31", "4.1", "4.2", "4.3", "4.4", "4.5"],
+            data: this.timedata,
             axisLabel: {
               show: true,
               textStyle: {
@@ -405,7 +399,7 @@
                 color:'#41ade1'
               }
             },
-            data: [0.689, 0.659, 0.607, 0.500, 0.535, 0.392, 0.532, 0.487, 0.453, 0.732],
+            data: this.scoredata,
             smooth: true
           }]
         });
@@ -465,7 +459,7 @@
 <style>
   .seamless-warp {
     margin-top: 10px;
-    margin-left: 22%;
+    margin-left: 10%;
     height: 70px;
     overflow: hidden;
     color: white;
