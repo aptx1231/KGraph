@@ -4,8 +4,7 @@
       <!-- <Echarts theme="ring" :option="options.left_up.option" className="chart" ></Echarts> -->
       <div style="margin-top: 10px;">
         <center>
-          <font size="5" color="white" @click="jumpToGraph()" style="cursor: pointer;">综合选题</font>
-          <font size="3" color="blue" @click="jumpToGraph()" style="cursor: pointer; margin-left:25px;">  </font>
+          <font size="5" color="white" style="cursor: pointer;">综合选题</font>
         </center>
       </div>
       <ul>
@@ -75,8 +74,9 @@
     <div class="con-box r-b-box">
       <div style="margin-top: 10px;">
         <center>
-          <font size="5" color="white" @click="jumpToCloud()" style="cursor: pointer;">事件词云</font>
-          <font size="3" color="blue" @click="jumpToCloud()" style="cursor: pointer; margin-left:25px;">详情</font>
+          <font size="5" color="white" style="cursor: pointer;">事件词云</font>
+          <!--<font size="5" color="white" @click="jumpToCloud()" style="cursor: pointer;">事件词云</font>-->
+          <!--<font size="3" color="blue" @click="jumpToCloud()" style="cursor: pointer; margin-left:25px;">详情</font>-->
         </center>
       </div>
       <div style="height: 80%; width: 80%; margin: auto;" >
@@ -329,9 +329,9 @@
         this.$router.push({path:'/emotion', query:{topic: this.topic_name}});
       },
 
-      jumpToCloud: function () {
-        this.$router.push({path:'/graph', query:{topic: this.topic_name}});
-      },
+      // jumpToCloud: function () {
+      //   this.$router.push({path:'/cloud', query:{topic: this.topic_name}});
+      // },
 
       drawLine() {
         // 基于准备好的dom，初始化echarts实例
