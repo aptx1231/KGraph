@@ -11,6 +11,7 @@
     "axios": "^0.19.2",
     "better-scroll": "^1.15.2",
     "core-js": "^3.6.4",
+    "d3-dsv": "^1.2.0",
     "echarts": "^4.7.0",
     "echarts-gl": "^1.1.1",
     "element-ui": "^2.13.2",

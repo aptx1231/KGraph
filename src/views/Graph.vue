@@ -45,8 +45,8 @@
 
   	methods: {
       changeto2() {
-        console.log(this.topic_name)
-        console.log(this.kind)
+        // console.log(this.topic_name)
+        // console.log(this.kind)
         if (this.kind === 1) {
           this.kind = 2;
           getXML(this.topic_name+'2').then(res => {

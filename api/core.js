@@ -10,3 +10,10 @@ export function getXML(name) {
         method: 'get'
     })
 }
+
+export function getCSV(name) {
+    return axios({
+        url: '/data/' + name + '.csv',
+        method: 'get'
+    })
+}

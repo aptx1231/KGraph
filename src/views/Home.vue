@@ -2,9 +2,12 @@
   <div id="app">
     <div class="con-box l-t-box">
       <!-- <Echarts theme="ring" :option="options.left_up.option" className="chart" ></Echarts> -->
-      <center style="margin-top: 10px;">
-        <font size="5" color="white">综合选题</font>
-      </center>
+      <div style="margin-top: 10px;">
+        <center>
+          <font size="5" color="white" @click="jumpToGraph()" style="cursor: pointer;">综合选题</font>
+          <font size="3" color="blue" @click="jumpToGraph()" style="cursor: pointer; margin-left:25px;">  </font>
+        </center>
+      </div>
       <ul>
         <font size="5" color="white">
           <div style="margin-left: 30px; margin-top: 20px">
@@ -21,9 +24,12 @@
     </div>
     <div class="con-box r-t-box">
       <!-- <Echarts theme="ring" :option="options.right_up.option" className="chart" ></Echarts> -->
-      <center style="margin-top: 10px;">
-        <font size="5" color="white" @click="jumpTo()" style="cursor: pointer;">事件演化</font>
-      </center>
+      <div style="margin-top: 10px;">
+        <center>
+          <font size="5" color="white" @click="jumpToGraph()" style="cursor: pointer;">事件演化</font>
+          <font size="3" color="blue" @click="jumpToGraph()" style="cursor: pointer; margin-left:25px;">详情</font>
+        </center>
+      </div>
       <div class="scroll-wrapper">
         <ul>
           <font color="white">
@@ -40,21 +46,24 @@
       </div>
     </div>
     <div class="con-box l-b-box">
-      <center style="margin-top: 10px;">
-        <font size="5" color="white">情感趋势</font>
-      </center>
-      <div style="height: 80%; width: 100%;">
+      <div style="margin-top: 10px;">
+        <center>
+          <font size="5" color="white" @click="jumpToEmotion()" style="cursor: pointer;">情感趋势</font>
+          <font size="3" color="blue" @click="jumpToEmotion()" style="cursor: pointer; margin-left:25px;">详情</font>
+        </center>
+      </div>
+      <div style="height: 80%; width: 100%; margin-top: 15px">
         <div :hidden="closeEvaluation">
           <p style="margin-top: 35px; margin-bottom: 40px;" align="center">
             <font color="white" size="4">最新情感指数：</font>
             <font color="99ff99" size="6">{{topic_index}}</font>
           </p>
         </div>
-        <div :hidden="closeChart" style="margin-top: -30px; height: 75%">
+        <div :hidden="closeChart" style="margin-top: -25px; height: 75%">
           <div id="myChart" style="height: 200px; width: 100%;"></div>
         </div>
         <div style="width: 90%;">
-          <vueSeamlessScroll :data="listData" class="seamless-warp" id="haha">
+          <vueSeamlessScroll :data="listData" class="seamless-warphome" id="haha">
             <ul>
               <li style="font-size: 13px; height: auto;" v-for="(item, index3) in listData" :key="index3">{{item}}</li>
             </ul>
@@ -64,9 +73,12 @@
     </div>
 
     <div class="con-box r-b-box">
-      <center style="margin-top: 10px;">
-        <font size="5" color="white">事件词云</font>
-      </center>
+      <div style="margin-top: 10px;">
+        <center>
+          <font size="5" color="white" @click="jumpToCloud()" style="cursor: pointer;">事件词云</font>
+          <font size="3" color="blue" @click="jumpToCloud()" style="cursor: pointer; margin-left:25px;">详情</font>
+        </center>
+      </div>
       <div style="height: 80%; width: 80%; margin: auto;" >
         <el-carousel :interval="2000" arrow="always" style="margin-top: 10px; height: auto"
                      trigger="click" indicator-position="none">
@@ -309,7 +321,15 @@
         this.closeEvaluation = true;
       },
 
-      jumpTo: function () {
+      jumpToGraph: function () {
+        this.$router.push({path:'/graph', query:{topic: this.topic_name}});
+      },
+
+      jumpToEmotion: function () {
+        this.$router.push({path:'/emotion', query:{topic: this.topic_name}});
+      },
+
+      jumpToCloud: function () {
         this.$router.push({path:'/graph', query:{topic: this.topic_name}});
       },
 
@@ -457,7 +477,7 @@
 </style>
 
 <style>
-  .seamless-warp {
+  .seamless-warphome {
     margin-top: 10px;
     margin-left: 10%;
     height: 70px;
