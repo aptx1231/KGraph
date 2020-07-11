@@ -19,10 +19,10 @@
         <data key="time">2020-02-23</data>
         <data key="name">{发布}</data>
       </node>
-      <node id="{往返-大陆}" labels=":ENTITY:TRIGGER">
-        <data key="time">2020-12-02</data>
-        <data key="name">{往返-大陆}</data>
-      </node>
+      <!--<node id="{往返-大陆}" labels=":ENTITY:TRIGGER">-->
+        <!--<data key="time">2019-12-02</data>-->
+        <!--<data key="name">{往返-大陆}</data>-->
+      <!--</node>-->
       <node id="{停止-损害}" labels=":ENTITY:TRIGGER">
         <data key="time">2020-02-26</data>
         <data key="name">{停止-损害}</data>
@@ -788,15 +788,15 @@
         <data key="organization">[国家卫健委, 世界卫生组织, 新华社]</data>
         <data key="keywords">[记者, 国家, 卫健委, 获悉, 世界, 组织, 新冠, 肺炎, 联合, 专家, 考察组, 现场, 调研, 冠肺炎, 疫情, 形势, 防控, 措施, 医疗, 救治, 社区, 科研, 攻关, 出入境, 检验, 检疫, 旅客, 筛查, 动物, 销售, 管理, 工作]</data>
       </node>
-      <node id="{往返-大陆}_e" labels=":EVENTNODE">
-        <data key="trigger">[{往返-大陆}]</data>
-        <data key="title">小儿子因工作需要，频繁往返大陆，去年12月2日从广州返回，过年期间曾与有大陆旅游史的友人聚餐</data>
-        <data key="time">2020-12-02</data>
-        <data key="person">[]</data>
-        <data key="location">[广州]</data>
-        <data key="organization">[]</data>
-        <data key="keywords">[小儿子, 工作, 往返, 大陆, 返回, 过年, 旅游史, 友人, 聚餐]</data>
-      </node>
+      <!--<node id="{往返-大陆}_e" labels=":EVENTNODE">-->
+        <!--<data key="trigger">[{往返-大陆}]</data>-->
+        <!--<data key="title">小儿子因工作需要，频繁往返大陆，去年12月2日从广州返回，过年期间曾与有大陆旅游史的友人聚餐</data>-->
+        <!--<data key="time">2019-12-02</data>-->
+        <!--<data key="person">[]</data>-->
+        <!--<data key="location">[广州]</data>-->
+        <!--<data key="organization">[]</data>-->
+        <!--<data key="keywords">[小儿子, 工作, 往返, 大陆, 返回, 过年, 旅游史, 友人, 聚餐]</data>-->
+      <!--</node>-->
       <node id="{核减-病例}_e" labels=":EVENTNODE">
         <data key="trigger">[{对接-方案}, {调整}, {核减-病例}]</data>
         <data key="title">为对接此次诊疗方案调整，2月19日，有的市州组织对前期报告的临床诊断病例按照第六版诊疗方案进行了订正，核减了部分病例</data>
@@ -1021,9 +1021,9 @@
       <edge id="e43" source="{应对-疫情}" target="{发布-通告}" label="NEXTEVENT weight:1">
         <data key="weight">1</data>
       </edge>
-      <edge id="e44" source="{新增-病例}" target="{往返-大陆}" label="NEXTEVENT weight:1">
-        <data key="weight">1</data>
-      </edge>
+      <!--<edge id="e44" source="{新增-病例}" target="{往返-大陆}" label="NEXTEVENT weight:1">-->
+        <!--<data key="weight">1</data>-->
+      <!--</edge>-->
       <edge id="e45" source="{召集}" target="{表达-支持}" label="NEXTEVENT weight:1">
         <data key="weight">1</data>
       </edge>
