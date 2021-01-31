@@ -1,29 +1,20 @@
-# fuck_frontend
+# 基于Vue的前端项目
 
-## Project setup
-```
-npm install
-```
+## 安装
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+cnpm install
 ```
 
-### Compiles and minifies for production
+## 运行
+
 ```
-npm run build
+cnpm run serve
 ```
 
-### Run your tests
+## 打包
+
 ```
-npm run test
+cnpm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
