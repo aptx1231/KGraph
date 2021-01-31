@@ -1,5 +1,7 @@
 # 基于Vue的前端项目
 
+预览：https://aptx1231.github.io/KGraph
+
 ## 安装
 
 ```
